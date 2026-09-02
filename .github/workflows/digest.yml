@@ -1,0 +1,66 @@
+name: GDG event digest
+
+on:
+  schedule:
+    - cron: "0 11 * * 1,4"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: gdg-digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the digest
+        run: python3 gdg_digest.py
+
+      - name: Commit the refreshed digest
+        run: |
+          git config user.name "gdg-digest bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Digest refresh $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Email the digest
+        if: ${{ secrets.MAIL_USERNAME != '' }}
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          subject: "GDG events near you and online, next 2 weeks"
+          to: ${{ secrets.MAIL_TO }}
+          from: GDG Digest <${{ secrets.MAIL_USERNAME }}>
+          html_body: file://docs/index.html
+          convert_markdown: false
+
+      - name: Upload page
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+  publish:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
