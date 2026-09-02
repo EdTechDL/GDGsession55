@@ -326,12 +326,27 @@ def render_html(in_person, online, generated, window_start, window_end, people):
         if not people:
             body = '<p class="empty">No speakers or hosts listed yet. They usually get added closer to the date, so check the next refresh.</p>'
         else:
-            rows = []
+            cards = []
             for p in people:
-                evs = ", ".join(f'<a href="{esc(x["url"])}" target="_blank" rel="noopener">{esc(x["title"])}</a>' for x in p["events"])
-                rows.append(person_link(p).replace("</li>", f' <span class="muted">at {evs}</span></li>'))
-            body = '<ul class="people dir">' + "".join(rows) + "</ul>"
-        return f'<section><h2>People to connect with <span class="count">{len(people)}</span></h2>{body}</section>'
+                who = ", ".join(b for b in (p["title"], p["company"]) if b)
+                evs = "".join(
+                    f'<li><a href="{esc(x["url"])}" target="_blank" rel="noopener">{esc(x["title"])}</a> <span class="muted">{esc(x["when"])}</span></li>'
+                    for x in p["events"]
+                )
+                li_label = "Open LinkedIn profile" if p["linkedin_exact"] else "Find on LinkedIn"
+                li_cls = "btn li-btn" if p["linkedin_exact"] else "btn li-btn search"
+                x_btn = f'<a class="btn ghost" href="https://x.com/{esc(p["twitter"])}" target="_blank" rel="noopener">X profile</a>' if p["twitter"] else ""
+                cards.append(f"""
+      <article class="card person">
+        <div class="when">{esc(p["role"].upper())}</div>
+        <h3>{esc(p["name"])}</h3>
+        {f'<div class="meta">{esc(who)}</div>' if who else ''}
+        <div class="sessions-label">Session{'s' if len(p['events']) > 1 else ''}</div>
+        <ul class="sessions">{evs}</ul>
+        <div class="actions"><a class="{li_cls}" href="{esc(p["linkedin"])}" target="_blank" rel="noopener">{li_label}</a>{x_btn}</div>
+      </article>""")
+            body = '<div class="people-grid">' + "".join(cards) + "</div>"
+        return f'<section><h2>People to connect with <span class="count">{len(people)}</span></h2><p class="sub">Speakers and hosts from the events above. "Find on LinkedIn" opens a search for their name and company when they did not list a profile.</p>{body}</section>'
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -367,6 +382,18 @@ def render_html(in_person, online, generated, window_start, window_end, people):
   .people a.li {{ color:#0a66c2; font-weight:600; }}
   .people a.li.search {{ font-weight:normal; }}
   .muted {{ color:var(--muted); }}
+  .people-grid {{ display:grid; grid-template-columns:repeat(auto-fill, minmax(360px, 1fr)); gap:12px; }}
+  .card.person {{ margin:0; display:flex; flex-direction:column; }}
+  .card.person h3 {{ margin-bottom:2px; }}
+  .sessions-label {{ font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin-top:10px; }}
+  .sessions {{ list-style:none; padding:0; margin:2px 0 12px; font-size:14px; flex:1; }}
+  .sessions li {{ padding:3px 0; border-top:1px dashed var(--line); }}
+  .sessions li a {{ color:var(--ink); }}
+  .actions {{ display:flex; gap:8px; flex-wrap:wrap; }}
+  .actions .btn {{ margin:0; }}
+  .btn.li-btn {{ background:#0a66c2; }}
+  .btn.li-btn.search {{ background:#fff; color:#0a66c2; border:1px solid #0a66c2; }}
+  @media (max-width: 480px) {{ .people-grid {{ grid-template-columns:1fr; }} }}
   .empty {{ color:var(--muted); }}
   footer {{ margin-top:40px; font-size:13px; color:var(--muted); }}
 </style>
