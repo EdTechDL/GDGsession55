@@ -17,6 +17,8 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      MAIL_USERNAME: ${{ secrets.MAIL_USERNAME }}
     steps:
       - uses: actions/checkout@v4
 
@@ -36,7 +38,7 @@ jobs:
           git push
 
       - name: Email the digest
-        if: ${{ secrets.MAIL_USERNAME != '' }}
+        if: ${{ env.MAIL_USERNAME != '' }}
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: smtp.gmail.com
