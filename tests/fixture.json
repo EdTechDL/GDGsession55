@@ -1,0 +1,239 @@
+{
+ "links": {
+  "next": null,
+  "previous": null
+ },
+ "pagination": {
+  "page_size": 500
+ },
+ "results": [
+  {
+   "id": 128979,
+   "title": "Welcome to GDG @ Seneca: Info Session",
+   "audience_type": "IN_PERSON",
+   "description_short": "Kick Off the Fall with GDG @ Seneca!",
+   "chapter": {
+    "title": "GDG on Campus Seneca Polytechnic - Toronto, Canada",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "url": "https://gdg.community.dev/gdg-on-campus-seneca-polytechnic-toronto-canada/"
+   },
+   "city": "Toronto",
+   "start_date": "2026-09-10T13:00:00-04:00",
+   "end_date": "2026-09-10T16:00:00-04:00",
+   "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-welcome-to-gdg-seneca-info-session/",
+   "venue_name": "Seneca Polytechnic Newnham Campus (HELIX Conference Room)",
+   "venue_city": "Toronto",
+   "event_type_title": "Free registration",
+   "tags": [
+    "Career Development",
+    "Community Building",
+    "Networking",
+    "Tech Talk / Meetup"
+   ]
+  },
+  {
+   "id": 128800,
+   "title": "GDG McMaster 2026-27 Info Session",
+   "audience_type": "IN_PERSON",
+   "description_short": "",
+   "chapter": {
+    "title": "GDG on Campus McMaster University - Hamilton, Canada",
+    "city": "Hamilton",
+    "state": "ON",
+    "country": "CA",
+    "url": ""
+   },
+   "city": "Hamilton",
+   "start_date": "2026-09-10T18:30:00-04:00",
+   "end_date": "2026-09-10T20:00:00-04:00",
+   "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-gdg-mcmaster-2026-27-info-session/",
+   "venue_name": "McMaster University - Hatch 204A/B",
+   "venue_city": "Hamilton",
+   "event_type_title": "Free registration",
+   "tags": []
+  },
+  {
+   "id": 128650,
+   "title": "GDG Ottawa Ice Cream Social: Devfest Info Exchange",
+   "audience_type": "IN_PERSON",
+   "description_short": "",
+   "chapter": {
+    "title": "GDG Ottawa",
+    "city": "Ottawa",
+    "state": "ON",
+    "country": "CA",
+    "url": ""
+   },
+   "city": "Kingston",
+   "start_date": "2026-09-14T18:30:00-04:00",
+   "end_date": "2026-09-14T20:30:00-04:00",
+   "url": "https://gdg.community.dev/events/details/google-gdg-ottawa-presents-gdg-ottawa-ice-cream-social-devfest-info-exchange/",
+   "venue_name": "",
+   "venue_city": "Kingston",
+   "event_type_title": "External registration",
+   "tags": [
+    "DevFest"
+   ]
+  },
+  {
+   "id": 128001,
+   "title": "Thunder Bay Meetup",
+   "audience_type": "IN_PERSON",
+   "description_short": "",
+   "chapter": {
+    "title": "GDG Thunder Bay",
+    "city": "Thunder Bay",
+    "state": "ON",
+    "country": "CA",
+    "url": ""
+   },
+   "city": "Thunder Bay",
+   "start_date": "2026-09-11T18:30:00-04:00",
+   "end_date": "2026-09-11T20:30:00-04:00",
+   "url": "https://gdg.community.dev/events/details/x-thunder-bay/",
+   "venue_name": "",
+   "venue_city": "Thunder Bay",
+   "event_type_title": "Free registration",
+   "tags": []
+  },
+  {
+   "id": 128002,
+   "title": "Hack Dearborn Warmup",
+   "audience_type": "HYBRID",
+   "description_short": "Bring a laptop.",
+   "chapter": {
+    "title": "GDG on Campus University of Michigan-Dearborn",
+    "city": "Dearborn",
+    "state": "MI",
+    "country": "US",
+    "url": ""
+   },
+   "city": "Dearborn",
+   "start_date": "2026-09-12T10:00:00-04:00",
+   "end_date": "2026-09-12T12:00:00-04:00",
+   "url": "https://gdg.community.dev/events/details/x-dearborn/",
+   "venue_name": "UM-Dearborn",
+   "venue_city": "Dearborn",
+   "event_type_title": "Free registration",
+   "tags": [
+    "Hackathon"
+   ]
+  },
+  {
+   "id": 128003,
+   "title": "GDG Columbus: Shots On Goal",
+   "audience_type": "VIRTUAL",
+   "description_short": "Weekly office hours.",
+   "chapter": {
+    "title": "GDG Columbus",
+    "city": "Columbus",
+    "state": "OH",
+    "country": "US",
+    "url": ""
+   },
+   "city": "Columbus",
+   "start_date": "2026-09-11T08:00:00-04:00",
+   "end_date": "2026-09-11T09:00:00-04:00",
+   "url": "https://gdg.community.dev/events/details/x-columbus/",
+   "venue_name": "",
+   "venue_city": "",
+   "event_type_title": "Free registration",
+   "tags": [
+    "AI"
+   ]
+  },
+  {
+   "id": 128004,
+   "title": "DEEP DIVE SERIES BAMENDA",
+   "audience_type": "VIRTUAL",
+   "description_short": "",
+   "chapter": {
+    "title": "GDG Bamenda",
+    "city": "Bamenda",
+    "state": "",
+    "country": "CM",
+    "url": ""
+   },
+   "city": "Bamenda",
+   "start_date": "2026-09-14T19:30:00+01:00",
+   "end_date": "2026-09-14T21:00:00+01:00",
+   "url": "https://gdg.community.dev/events/details/x-bamenda/",
+   "venue_name": "",
+   "venue_city": "",
+   "event_type_title": "Free registration",
+   "tags": []
+  },
+  {
+   "id": 128005,
+   "title": "Build with AI: Ahlen (late night for ET)",
+   "audience_type": "HYBRID",
+   "description_short": "",
+   "chapter": {
+    "title": "GDG Ahlen",
+    "city": "Ahlen",
+    "state": "",
+    "country": "DE",
+    "url": ""
+   },
+   "city": "Ahlen",
+   "start_date": "2026-09-12T06:30:00+02:00",
+   "end_date": "2026-09-12T09:00:00+02:00",
+   "url": "https://gdg.community.dev/events/details/x-ahlen/",
+   "venue_name": "",
+   "venue_city": "",
+   "event_type_title": "Free registration",
+   "tags": []
+  }
+ ],
+ "details": {
+  "128979": {
+   "speakers": [
+    {
+     "first_name": "Felipe",
+     "last_name": "Ceotto",
+     "company": "Gaming Mechanics",
+     "title": "Founder & CTO",
+     "personal_linkedin_page": "in/fceotto",
+     "personal_twitter": ""
+    }
+   ],
+   "hosts": [
+    {
+     "first_name": "Chrys",
+     "last_name": "LE GALL",
+     "company": "Valtech",
+     "title": "Cloud and AI Architect",
+     "personal_linkedin_page": null,
+     "personal_twitter": "chrys"
+    }
+   ]
+  },
+  "128002": {
+   "speakers": [
+    {
+     "first_name": "Jean-Philippe",
+     "last_name": "Baconnais",
+     "company": "Zenika",
+     "title": "Consultant",
+     "personal_linkedin_page": "https://www.linkedin.com/in/jean-philippe-baconnais-931544116/",
+     "personal_twitter": ""
+    }
+   ],
+   "hosts": []
+  },
+  "128003": {
+   "speakers": [
+    {
+     "first_name": "Felipe",
+     "last_name": "Ceotto",
+     "company": "Gaming Mechanics",
+     "title": "Founder & CTO",
+     "personal_linkedin_page": "in/fceotto"
+    }
+   ],
+   "hosts": []
+  }
+ }
+}
