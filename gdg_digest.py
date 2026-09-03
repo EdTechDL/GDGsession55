@@ -226,6 +226,16 @@ def build_digest(raw, previous_ids, people_lookup):
     return in_person, online
 
 
+def new_events(in_person, online):
+    """Every new event once, soonest first, for the section at the top of the page."""
+    seen, out = set(), []
+    for e in sorted(in_person + online, key=lambda e: e["start_local"]):
+        if e["new"] and e["id"] not in seen:
+            seen.add(e["id"])
+            out.append(e)
+    return out
+
+
 def people_directory(in_person, online):
     """One row per person across the whole digest, for the connect list."""
     by_name = {}
@@ -260,11 +270,18 @@ def render_markdown(in_person, online, generated, window_start, window_end, peop
             out += f"  \n  {p['role']}: {person_label(p)} ([{kind}]({p['linkedin']}))"
         return out
 
+    fresh = new_events(in_person, online)
     md = [
         f"# GDG events, {window_start:%b %d} to {window_end:%b %d}",
         "",
         f"Generated {generated:%a %b %d, %Y %-I:%M %p} ET. "
-        f"{len(in_person)} in person nearby, {len(online)} online.",
+        f"{len(in_person)} in person nearby, {len(online)} online, {len(fresh)} new since the last check.",
+        "",
+        "## New since the last check",
+        "",
+    ]
+    md += [line(e) for e in fresh] or ["Nothing new since the last check."]
+    md += [
         "",
         "## In person: Ontario (Windsor to Ottawa) and Michigan",
         "",
@@ -288,9 +305,11 @@ def render_html(in_person, online, generated, window_start, window_end, people):
     def esc(s):
         return html.escape(s or "")
 
-    def card(e):
+    def card(e, show_kind=False):
         new = '<span class="badge new">NEW</span>' if e["new"] else ""
         hyb = '<span class="badge">hybrid</span>' if e["audience_type"] == "HYBRID" else ""
+        if show_kind:
+            hyb += ' <span class="badge">' + ("in person" if e["kind"] == "in_person" else "online") + '</span>'
         tags = " ".join(f'<span class="tag">{esc(t)}</span>' for t in e["tags"][:6])
         blurb = f'<p class="blurb">{esc(e["blurb"])}</p>' if e["blurb"] else ""
         return f"""
@@ -321,6 +340,11 @@ def render_html(in_person, online, generated, window_start, window_end, people):
     def section(title, items, empty):
         body = "".join(card(e) for e in items) or f'<p class="empty">{empty}</p>'
         return f'<section><h2>{title} <span class="count">{len(items)}</span></h2>{body}</section>'
+
+    def new_section(items):
+        body = "".join(card(e, show_kind=True) for e in items) or '<p class="empty">Nothing new since the last check. Everything below was already in the previous digest.</p>'
+        return (f'<section class="fresh"><h2>New since the last check <span class="count">{len(items)}</span></h2>'
+                f'<p class="sub">Added to the site since the previous daily run. They also appear in their usual section below.</p>{body}</section>')
 
     def directory(people):
         if not people:
@@ -364,6 +388,11 @@ def render_html(in_person, online, generated, window_start, window_end, people):
   .count {{ font-size:14px; color:var(--muted); font-weight:normal; }}
   .card {{ background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 18px; margin:0 0 12px; }}
   .card.is-new {{ border-color:var(--new); }}
+  .fresh {{ background:#e6f4ea; border:2px solid var(--new); border-radius:14px; padding:4px 18px 8px; margin-top:8px; }}
+  .fresh h2 {{ color:var(--new); border-bottom-color:var(--new); margin-top:12px; }}
+  .fresh .sub {{ margin-bottom:12px; }}
+  .fresh .card {{ background:#c8e6c9; border:2px solid var(--new); box-shadow:0 1px 3px rgba(24,128,56,.25); }}
+  .fresh .badge {{ background:#fff; }}
   .when {{ font-size:14px; color:var(--muted); font-weight:600; }}
   h3 {{ margin:4px 0 6px; font-size:18px; }}
   h3 a {{ color:var(--ink); text-decoration:none; }}
@@ -401,7 +430,8 @@ def render_html(in_person, online, generated, window_start, window_end, people):
 <body>
 <main>
   <h1>GDG events near me</h1>
-  <p class="sub">{window_start:%b %d} to {window_end:%b %d} &middot; refreshed {generated:%a %b %d, %-I:%M %p} ET &middot; green border = new since last digest</p>
+  <p class="sub">{window_start:%b %d} to {window_end:%b %d} &middot; refreshed {generated:%a %b %d, %-I:%M %p} ET &middot; green box = new since the last check</p>
+  {new_section(new_events(in_person, online))}
   {section("In person: Ontario (Windsor to Ottawa) and Michigan", in_person, "Nothing in this window yet. The site adds events all the time; check back after the next refresh.")}
   {section("Online, starting 8 am to 9 pm ET", online, "Nothing in this window.")}
   {directory(people)}
@@ -447,7 +477,7 @@ def main():
     in_person, online = build_digest(raw, previous_ids, people_lookup)
     people = people_directory(in_person, online)
     print(f"kept {len(in_person)} in person, {len(online)} online "
-          f"({sum(e['new'] for e in in_person + online)} new), {len(people)} people")
+          f"({len(new_events(in_person, online))} new), {len(people)} people")
 
     with open(json_path, "w", encoding="utf-8") as f:
         json.dump(

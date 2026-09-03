@@ -1,13 +1,15 @@
 # GDG event digest
 
-Twice a week (Monday and Thursday, 7 AM Toronto time) this pulls the next 14 days of
+Every day (7 AM Toronto time) this pulls the next 14 days of
 Google Developer Group events, keeps the ones you can actually get to, and gives you:
 
 * a live web page you can bookmark (GitHub Pages),
 * an email with the same content,
 * speaker and host names for every event with a LinkedIn link (a direct profile
   when they listed one, otherwise a LinkedIn people search for their name and company),
-* a NEW flag on anything that was not in the previous digest.
+* a "New since the last check" section at the very top, with green highlighted
+  boxes for anything that was not in the previous digest (they also keep a NEW
+  badge in their normal section below).
 
 What gets kept:
 
@@ -39,7 +41,7 @@ show up in the next one.
    `https://<your-github-username>.github.io/<repo-name>/` and the first email
    is sent (if you set the secrets).
 
-After that it runs on its own every Monday and Thursday. Press "Run workflow"
+After that it runs on its own every day. Press "Run workflow"
 whenever you want an extra refresh.
 
 ## Tweaking
@@ -50,8 +52,8 @@ Everything adjustable is at the top of `gdg_digest.py`:
 * `IN_PERSON_STATES` and `EXCLUDE_CITY_RE` for the travel radius
 * `ONLINE_EARLIEST_HOUR` and `ONLINE_LATEST_HOUR` for which online events count
 
-The schedule lives in `.github/workflows/digest.yml` (`cron: "0 11 * * 1,4"` is
-11:00 UTC on Monday and Thursday).
+The schedule lives in `.github/workflows/digest.yml` (`cron: "0 11 * * *"` is
+11:00 UTC every day).
 
 ## Running it on your own computer instead
 
