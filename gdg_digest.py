@@ -320,7 +320,7 @@ def render_html(in_person, online, generated, window_start, window_end, people):
         {blurb}
         <div class="tags">{tags}</div>
         {people_list(e['people'])}
-        <a class="btn" href="{esc(e['url'])}" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="{e['id']}" href="{esc(e['url'])}" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="{e['id']}" href="#" hidden>unmark</a>
         <a class="btn ghost" href="{esc(e['chapter_url'] or SITE)}" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>"""
 
@@ -405,6 +405,8 @@ def render_html(in_person, online, generated, window_start, window_end, people):
   .badge.new {{ background:#e6f4ea; color:var(--new); }}
   .btn {{ display:inline-block; font-size:14px; font-weight:600; color:#fff; background:var(--accent); border-radius:6px; padding:6px 14px; text-decoration:none; }}
   .btn.ghost {{ background:#fff; color:var(--accent); border:1px solid var(--accent); margin-left:6px; }}
+  .btn.rsvp.viewed {{ background:#9aa0a6; color:#fff; }}
+  .unmark {{ font-size:12px; color:var(--muted); margin-left:6px; }}
   .people {{ list-style:none; padding:0; margin:8px 0 12px; font-size:14px; }}
   .people li {{ padding:3px 0; border-top:1px dashed var(--line); }}
   .people .role {{ font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin-right:4px; }}
@@ -430,13 +432,46 @@ def render_html(in_person, online, generated, window_start, window_end, people):
 <body>
 <main>
   <h1>GDG events near me</h1>
-  <p class="sub">{window_start:%b %d} to {window_end:%b %d} &middot; refreshed {generated:%a %b %d, %-I:%M %p} ET &middot; green box = new since the last check</p>
+  <p class="sub">{window_start:%b %d} to {window_end:%b %d} &middot; refreshed {generated:%a %b %d, %-I:%M %p} ET &middot; green box = new since the last check &middot; gray button = you already opened it</p>
   {new_section(new_events(in_person, online))}
   {section("In person: Ontario (Windsor to Ottawa) and Michigan", in_person, "Nothing in this window yet. The site adds events all the time; check back after the next refresh.")}
   {section("Online, starting 8 am to 9 pm ET", online, "Nothing in this window.")}
   {directory(people)}
-  <footer>Data: <a href="{SITE}/events/">gdg.community.dev/events</a>. Times converted to Toronto time.</footer>
+  <footer>Data: <a href="{SITE}/events/">gdg.community.dev/events</a>. Times converted to Toronto time. Which events you have opened is remembered in this browser only.</footer>
 </main>
+<script>
+(function () {{
+  var KEY = "gdg-viewed";
+  function load() {{ try {{ return JSON.parse(localStorage.getItem(KEY) || "[]"); }} catch (e) {{ return []; }} }}
+  function save(ids) {{ try {{ localStorage.setItem(KEY, JSON.stringify(ids)); }} catch (e) {{}} }}
+  function paint() {{
+    var ids = load();
+    document.querySelectorAll("a.rsvp").forEach(function (a) {{
+      var seen = ids.indexOf(a.dataset.id) !== -1;
+      a.classList.toggle("viewed", seen);
+      a.textContent = seen ? "Viewed" : "View and RSVP";
+      var u = a.nextElementSibling;
+      if (u && u.classList.contains("unmark")) u.hidden = !seen;
+    }});
+  }}
+  document.addEventListener("click", function (ev) {{
+    var a = ev.target.closest("a.rsvp");
+    if (a) {{
+      var ids = load();
+      if (ids.indexOf(a.dataset.id) === -1) {{ ids.push(a.dataset.id); save(ids); }}
+      paint();
+      return;
+    }}
+    var u = ev.target.closest("a.unmark");
+    if (u) {{
+      ev.preventDefault();
+      save(load().filter(function (x) {{ return x !== u.dataset.id; }}));
+      paint();
+    }}
+  }});
+  paint();
+}})();
+</script>
 </body>
 </html>
 """
