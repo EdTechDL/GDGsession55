@@ -14,6 +14,11 @@
   .count { font-size:14px; color:var(--muted); font-weight:normal; }
   .card { background:#fff; border:1px solid var(--line); border-radius:12px; padding:16px 18px; margin:0 0 12px; }
   .card.is-new { border-color:var(--new); }
+  .fresh { background:#e6f4ea; border:2px solid var(--new); border-radius:14px; padding:4px 18px 8px; margin-top:8px; }
+  .fresh h2 { color:var(--new); border-bottom-color:var(--new); margin-top:12px; }
+  .fresh .sub { margin-bottom:12px; }
+  .fresh .card { background:#c8e6c9; border:2px solid var(--new); box-shadow:0 1px 3px rgba(24,128,56,.25); }
+  .fresh .badge { background:#fff; }
   .when { font-size:14px; color:var(--muted); font-weight:600; }
   h3 { margin:4px 0 6px; font-size:18px; }
   h3 a { color:var(--ink); text-decoration:none; }
@@ -26,6 +31,8 @@
   .badge.new { background:#e6f4ea; color:var(--new); }
   .btn { display:inline-block; font-size:14px; font-weight:600; color:#fff; background:var(--accent); border-radius:6px; padding:6px 14px; text-decoration:none; }
   .btn.ghost { background:#fff; color:var(--accent); border:1px solid var(--accent); margin-left:6px; }
+  .btn.rsvp.viewed { background:#9aa0a6; color:#fff; }
+  .unmark { font-size:12px; color:var(--muted); margin-left:6px; }
   .people { list-style:none; padding:0; margin:8px 0 12px; font-size:14px; }
   .people li { padding:3px 0; border-top:1px dashed var(--line); }
   .people .role { font-size:11px; text-transform:uppercase; letter-spacing:.05em; color:var(--muted); margin-right:4px; }
@@ -51,16 +58,87 @@
 <body>
 <main>
   <h1>GDG events near me</h1>
-  <p class="sub">Sep 03 to Sep 17 &middot; refreshed Thu Sep 03, 10:50 AM ET &middot; green border = new since last digest</p>
-  <section><h2>In person: Ontario (Windsor to Ottawa) and Michigan <span class="count">6</span></h2>
+  <p class="sub">Sep 04 to Sep 18 &middot; refreshed Fri Sep 04, 10:41 AM ET &middot; green box = new since the last check &middot; gray button = you already opened it</p>
+  <section class="fresh"><h2>New since the last check <span class="count">7</span></h2><p class="sub">Added to the site since the previous daily run. They also appear in their usual section below.</p>
       <article class="card is-new">
-        <div class="when">Tue Sep 08, 2026 at 6:00 PM ET <span class="badge new">NEW</span> </div>
+        <div class="when">Wed Sep 09, 2026 at 8:00 AM ET <span class="badge new">NEW</span>  <span class="badge">online</span></div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/" target="_blank" rel="noopener">Welcome &amp; Connect: GDGoC at UoEm Kickoff</a></h3>
+        <div class="meta">GDG on Campus University of Embu - Embu, Kenya &middot; Embu, Embu, KE &middot; Free registration</div>
+        <p class="blurb">Join the inaugural &quot;Welcome &amp; Connect&quot; event at the University of Embu to celebrate the launch of GDG on Campus. This is ideal for tech enthusiasts of all levels to network, learn about GDG&#x27;s mission, and get involved. Enjoy light refreshments while building a vibrant tech community. RSVP to be part of the excitement.</p>
+        <div class="tags"></div>
+        
+        <a class="btn rsvp" data-id="129861" href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129861" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-university-of-embu-embu-kenya/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Tue Sep 15, 2026 at 7:00 PM ET <span class="badge new">NEW</span> <span class="badge">hybrid</span> <span class="badge">online</span></div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/" target="_blank" rel="noopener">Code Camp: Mobile Development as a Career</a></h3>
+        <div class="meta">GDG Boston Android &middot; West Village H, Boston, MA, US &middot; Free registration with Bevy Virtual Conference</div>
+        <p class="blurb">Join Dan Peluso for a code camp on mobile career development. Learn to turn app ideas into businesses, prepare for coding interviews, and discover Boston companies hiring mobile developers. Gain insights and ask questions to advance in the dynamic mobile industry. Ideal for aspiring developers in the mobile space.</p>
+        <div class="tags"><span class="tag">Android</span> <span class="tag">Career Development</span></div>
+        <ul class="people"><li><span class="role">speaker</span> <strong>Dan Peluso</strong> <span class="muted">Senior Software Engineer, Klaviyo</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo" target="_blank" rel="noopener">find on LinkedIn</a></li></ul>
+        <a class="btn rsvp" data-id="129799" href="https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129799" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-boston-android/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 8:00 AM ET <span class="badge new">NEW</span>  <span class="badge">online</span></div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-cloud-budapest-presents-ai-stories-from-the-trenches-being-an-e2e-software-engineer-in-an-agentic-age/" target="_blank" rel="noopener">AI Stories from the Trenches - Being an E2E software engineer in an agentic age</a></h3>
+        <div class="meta">GDG Cloud Budapest &middot; Budapest, Budapest, HU &middot; Free registration</div>
+        <p class="blurb">Join the free online talk on September 17 at 14:00 (CEST) to explore how coding assistants are revolutionizing software engineering. Led by ML Architect Tamás Móricz, learn practical strategies to enhance coding agents and balance human understanding. Discover methods to evaluate performance, abstraction, and output management through real-world examples. Registration required.</p>
+        <div class="tags"><span class="tag">Tech Talk / Meetup</span></div>
+        
+        <a class="btn rsvp" data-id="129782" href="https://gdg.community.dev/events/details/google-gdg-cloud-budapest-presents-ai-stories-from-the-trenches-being-an-e2e-software-engineer-in-an-agentic-age/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129782" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-cloud-budapest/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 2:00 PM ET <span class="badge new">NEW</span>  <span class="badge">online</span></div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-3-maps-and-ai/" target="_blank" rel="noopener">AI Lab 3: Maps and AI</a></h3>
+        <div class="meta">GDG Maseru &middot; Maseru, Maseru, LS &middot; Free registration</div>
+        <p class="blurb">Attendees are invited to bring their laptops and discover how the Google Maps Platform and AI can enhance location-based experiences. Ideal for developers and tech enthusiasts eager to integrate advanced mapping and AI technologies into their projects.</p>
+        <div class="tags"></div>
+        
+        <a class="btn rsvp" data-id="129766" href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-3-maps-and-ai/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129766" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-maseru/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 6:00 PM ET <span class="badge new">NEW</span>  <span class="badge">in person</span></div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-build-your-first-ai-companion/" target="_blank" rel="noopener">Build with AI: Build Your First AI Companion</a></h3>
+        <div class="meta">GDG Mississauga &middot; IDEA Mississauga, Mississauga, ON, CA &middot; Free registration</div>
+        <p class="blurb">We’re kicking off a new Build with AI series! Each week, explore a new way to build with AI through hands-on sessions, practical projects, and expert speakers. Whether you’re new to AI or already experimenting, come learn, build, and grow with the community!</p>
+        <div class="tags"><span class="tag">AI</span> <span class="tag">Build with AI</span></div>
+        
+        <a class="btn rsvp" data-id="128537" href="https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-build-your-first-ai-companion/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128537" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-mississauga/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 7:00 PM ET <span class="badge new">NEW</span>  <span class="badge">online</span></div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/" target="_blank" rel="noopener">LLM on your browser</a></h3>
+        <div class="meta">GDG San Jose &middot; San Jose, CA, US &middot; Free registration</div>
+        <p class="blurb">Join GDG San Jose for an interactive talk and workshop with Hemanth HM on running Large Language Models directly inside ...</p>
+        <div class="tags"><span class="tag">Build with AI</span> <span class="tag">Tech Talk / Meetup</span> <span class="tag">Workshop / hands-on session</span></div>
+        <ul class="people"><li><span class="role">speaker</span> <strong>Hemanth HM</strong> <span class="muted">GDE, Sr. Staff Software Engineering Manager, PayPal</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Hemanth%20HM%20PayPal" target="_blank" rel="noopener">find on LinkedIn</a> &middot; <a href="https://x.com/gnumanth" target="_blank" rel="noopener">X</a></li></ul>
+        <a class="btn rsvp" data-id="128764" href="https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128764" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-san-jose/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 7:00 PM ET <span class="badge new">NEW</span>  <span class="badge">online</span></div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-nashville-presents-secure-your-stuff-cybersecurity-summit/" target="_blank" rel="noopener">Secure Your Stuff: Cybersecurity Summit</a></h3>
+        <div class="meta">GDG Nashville &middot; Nashville, TN, US &middot; Free registration with Bevy Virtual Conference</div>
+        <p class="blurb">Secure Your Stuff: Cybersecurity Summit offers an engaging virtual session with top experts sharing practical tips on protecting your phone, passwords, social media, and personal information. Ideal for anyone looking to enhance their digital safety, the event is free and interactive. Join to learn how to stay smart and secure in today&#x27;s digital world. Panelists are to be announced soon.</p>
+        <div class="tags"><span class="tag">Accessibility</span> <span class="tag">Community Building</span> <span class="tag">Conference</span> <span class="tag">Web</span></div>
+        
+        <a class="btn rsvp" data-id="129223" href="https://gdg.community.dev/events/details/google-gdg-nashville-presents-secure-your-stuff-cybersecurity-summit/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129223" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-nashville/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article></section>
+  <section><h2>In person: Ontario (Windsor to Ottawa) and Michigan <span class="count">7</span></h2>
+      <article class="card">
+        <div class="when">Tue Sep 08, 2026 at 6:00 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-michigan-state-university-east-lansing-united-states-presents-fall-2026-kickoff/" target="_blank" rel="noopener">Fall 2026 Kickoff</a></h3>
         <div class="meta">GDG on Campus Michigan State University - East Lansing, United States &middot; MSU College of Engineering, East Lansing, MI, US &middot; Free registration</div>
         <p class="blurb">Join GDG on Campus MSU to launch the 2026 semester! Meet the team, discover future plans, and find out how to get involved. Connect with fellow students who share an interest in tech, community, and professional growth.</p>
         <div class="tags"><span class="tag">Community Building</span> <span class="tag">Conference</span> <span class="tag">Tech Talk / Meetup</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-michigan-state-university-east-lansing-united-states-presents-fall-2026-kickoff/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129706" href="https://gdg.community.dev/events/details/google-gdg-on-campus-michigan-state-university-east-lansing-united-states-presents-fall-2026-kickoff/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129706" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-michigan-state-university-east-lansing-united-states/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -70,17 +148,23 @@
         <p class="blurb">Kick Off the Fall with GDG @ Seneca!📍 Location: Newnham Campus – Helix Conference Room📅 Date: Wednesday, September 9th🕐 ...</p>
         <div class="tags"><span class="tag">Career Development</span> <span class="tag">Community Building</span> <span class="tag">Networking</span> <span class="tag">Tech Talk / Meetup</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-welcome-to-gdg-seneca-info-session/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128979" href="https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-welcome-to-gdg-seneca-info-session/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128979" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-seneca-polytechnic-toronto-canada/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
         <div class="when">Thu Sep 10, 2026 at 6:30 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-gdg-mcmaster-2026-27-info-session/" target="_blank" rel="noopener">GDG McMaster 2026-27 Info Session</a></h3>
         <div class="meta">GDG on Campus McMaster University - Hamilton, Canada &middot; McMaster University - Hatch 204A/B, Hamilton, ON, CA &middot; Free registration</div>
-        <p class="blurb">Join GDG McMaster on Thursday, September 10 at 6:30 PM in Hatch 204A/B to learn about upcoming events and meet the leads. Discover exciting new opportunities to get involved and find out what we&#x27;re seeking in recruits. Follow us on Instagram @gdgmcmaster for updates. Applications to join the team are open until September 16, 11:59 PM EST.</p>
+        <p class="blurb">Join GDG McMaster on Thursday, September 10 at 6:30 PM in Hatch 204A/B to learn about upcoming events and meet the leads!
+
+Discover exciting new opportunities to get involved and find out what we&#x27;re seeking in recruits.
+
+Follow us on Instagram @gdgmcmaster for updates! 
+
+Applications to join the team are open until September 16, 11:59 PM EST.</p>
         <div class="tags"></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-gdg-mcmaster-2026-27-info-session/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129484" href="https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-gdg-mcmaster-2026-27-info-session/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129484" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-mcmaster-university-hamilton-canada/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -90,7 +174,7 @@
         <p class="blurb">Stop copying and pasting prompts into a chat window. It’s time to build workflows that work for you while you sleep.</p>
         <div class="tags"><span class="tag">Workshop / hands-on session</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-wilfrid-laurier-university-waterloo-canada-presents-from-prompt-to-pipeline-automating-workflows-with-ai/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128434" href="https://gdg.community.dev/events/details/google-gdg-on-campus-wilfrid-laurier-university-waterloo-canada-presents-from-prompt-to-pipeline-automating-workflows-with-ai/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128434" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-wilfrid-laurier-university-waterloo-canada/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -100,11 +184,11 @@
         <p class="blurb">The GDG Ottawa Ice Cream Social kicks off the season at Queen&#x27;s U, offering a chance to learn about the upcoming Devfest and Qmind Hackathon. Enjoy ice cream while networking and discovering opportunities to get involved. It&#x27;s a relaxed setting to build connections. Don&#x27;t miss this chance to dive into the tech community.</p>
         <div class="tags"><span class="tag">Tech Talk / Meetup</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-ottawa-presents-gdg-ottawa-ice-cream-social-devfest-info-exchange/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129622" href="https://gdg.community.dev/events/details/google-gdg-ottawa-presents-gdg-ottawa-ice-cream-social-devfest-info-exchange/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129622" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-ottawa/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Wed Sep 16, 2026 at 4:00 PM ET <span class="badge new">NEW</span> </div>
+      <article class="card">
+        <div class="when">Wed Sep 16, 2026 at 4:00 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-toronto-st-george-campus-toronto-canada-presents-how-to-win-a-hackathon-ideas-teams-amp-speaker-night-x-shipaton/" target="_blank" rel="noopener">How to Win a Hackathon: Ideas, Teams &amp; Speaker Night x Shipaton</a></h3>
         <div class="meta">GDG on Campus University of Toronto, St. George Campus - Toronto, Canada &middot; Myhal Centre for Engineering Innovation and Entrepreneurship (MY), Toronto, ON, CA &middot; Free registration</div>
         <p class="blurb">A collection of interactive, introductory workshops, Q&amp;A and networking sessions to help students understand the basics of Hackathons, including brainstorming ideas, getting started on implementation and developing your project beyond hackathons. 
@@ -112,70 +196,20 @@
 Join us to meet awesome speakers, get free food, and find talented teammates for your future hackathons!</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">Conference</span> <span class="tag">Hackathon</span> <span class="tag">Networking</span> <span class="tag">Workshop / hands-on session</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-toronto-st-george-campus-toronto-canada-presents-how-to-win-a-hackathon-ideas-teams-amp-speaker-night-x-shipaton/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129075" href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-toronto-st-george-campus-toronto-canada-presents-how-to-win-a-hackathon-ideas-teams-amp-speaker-night-x-shipaton/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129075" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-university-of-toronto-st-george-campus-toronto-canada/" target="_blank" rel="noopener">Chapter page (organizers)</a>
-      </article></section>
-  <section><h2>Online, starting 8 am to 9 pm ET <span class="count">38</span></h2>
-      <article class="card">
-        <div class="when">Wed Sep 02, 2026 at 8:00 PM ET  </div>
-        <h3><a href="https://gdg.community.dev/events/details/google-gdg-lawrence-presents-generative-ai-leader-series-session-2-unlock-foundational-concepts/" target="_blank" rel="noopener">Generative AI Leader Series - Session #2: Unlock Foundational Concepts</a></h3>
-        <div class="meta">GDG Lawrence &middot; Lawrence, MA, US &middot; Free registration with Bevy Virtual Conference</div>
-        <p class="blurb">Unlock Foundational Concepts is the second course of the Gen AI Leader learning path. In this course, you unlock the fou...</p>
-        <div class="tags"><span class="tag">AI</span> <span class="tag">Certification Study Group</span> <span class="tag">Get Certified</span> <span class="tag">Google Cloud</span> <span class="tag">Workshop / hands-on session</span></div>
-        <ul class="people"><li><span class="role">speaker</span> <strong>Kevin Quan</strong> <span class="muted">GDG Organizer, GDG Lawrence</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Kevin%20Quan%20GDG%20Lawrence" target="_blank" rel="noopener">find on LinkedIn</a></li><li><span class="role">speaker</span> <strong>Roman Jaquez</strong> <span class="muted">Google Developer Expert in Flutter / Dart, Philips Health Systems</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Roman%20Jaquez%20Philips%20Health%20Systems" target="_blank" rel="noopener">find on LinkedIn</a> &middot; <a href="https://x.com/drcoderz" target="_blank" rel="noopener">X</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-lawrence-presents-generative-ai-leader-series-session-2-unlock-foundational-concepts/" target="_blank" rel="noopener">View and RSVP</a>
-        <a class="btn ghost" href="https://gdg.community.dev/gdg-lawrence/" target="_blank" rel="noopener">Chapter page (organizers)</a>
-      </article>
-      <article class="card">
-        <div class="when">Wed Sep 02, 2026 at 9:00 PM ET  </div>
-        <h3><a href="https://gdg.community.dev/events/details/google-gdg-santo-domingo-de-los-tsachilas-presents-tsachitalk-21-embeddings-y-busqueda-semantica-con-llms-y-qdrant/" target="_blank" rel="noopener">TsáchiTalk #21: Embeddings y búsqueda semántica con LLMs y Qdrant</a></h3>
-        <div class="meta">GDG Santo Domingo de los Tsachilas &middot; Santo Domingo, Santo Domingo de los Tsachilas, EC &middot; Free registration</div>
-        <p class="blurb">Descubre cómo funcionan los embeddings y cómo utilizarlos junto con LLMs y Qdrant para construir sistemas de búsqueda semántica más inteligentes, precisos y capaces de comprender el significado de la información.</p>
-        <div class="tags"><span class="tag">AI</span> <span class="tag">DevFest</span></div>
-        
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-santo-domingo-de-los-tsachilas-presents-tsachitalk-21-embeddings-y-busqueda-semantica-con-llms-y-qdrant/" target="_blank" rel="noopener">View and RSVP</a>
-        <a class="btn ghost" href="https://gdg.community.dev/gdg-santo-domingo-de-los-tsachilas/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card is-new">
-        <div class="when">Thu Sep 03, 2026 at 2:00 PM ET <span class="badge new">NEW</span> </div>
-        <h3><a href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-1-to-do-web-app/" target="_blank" rel="noopener">AI Lab 1: To-do web app</a></h3>
-        <div class="meta">GDG Maseru &middot; Maseru, Maseru, LS &middot; Free registration</div>
-        <p class="blurb">Join a hands-on Google for Developers lab to build a practical to-do web app. Perfect for tech enthusiasts eager to enhance their coding skills. Bring your laptop and dive into a live, interactive learning experience.</p>
-        <div class="tags"></div>
+        <div class="when">Thu Sep 17, 2026 at 6:00 PM ET <span class="badge new">NEW</span> </div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-build-your-first-ai-companion/" target="_blank" rel="noopener">Build with AI: Build Your First AI Companion</a></h3>
+        <div class="meta">GDG Mississauga &middot; IDEA Mississauga, Mississauga, ON, CA &middot; Free registration</div>
+        <p class="blurb">We’re kicking off a new Build with AI series! Each week, explore a new way to build with AI through hands-on sessions, practical projects, and expert speakers. Whether you’re new to AI or already experimenting, come learn, build, and grow with the community!</p>
+        <div class="tags"><span class="tag">AI</span> <span class="tag">Build with AI</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-1-to-do-web-app/" target="_blank" rel="noopener">View and RSVP</a>
-        <a class="btn ghost" href="https://gdg.community.dev/gdg-maseru/" target="_blank" rel="noopener">Chapter page (organizers)</a>
-      </article>
-      <article class="card">
-        <div class="when">Thu Sep 03, 2026 at 2:30 PM ET  </div>
-        <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria-presents-rediscovering-tech-amp-building-a-global-career/" target="_blank" rel="noopener">Rediscovering Tech &amp; Building a Global Career</a></h3>
-        <div class="meta">GDG on Campus Nnamdi Azikiwe University - Awka, Nigeria &middot; Awka, Anambra, NG &middot; Free registration</div>
-        <p class="blurb">Join GDG on Campus UNIZIK for a massive 2-day virtual masterclass! Day 1 breaks down tech career pathways for beginners. Day 2 dives into scaling your workflow with AI, building your portfolio in public, and landing local and global remote roles.</p>
-        <div class="tags"><span class="tag">AI</span> <span class="tag">Build with AI</span> <span class="tag">Career Development</span> <span class="tag">Tech Talk / Meetup</span> <span class="tag">Workshop / hands-on session</span></div>
-        
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria-presents-rediscovering-tech-amp-building-a-global-career/" target="_blank" rel="noopener">View and RSVP</a>
-        <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria/" target="_blank" rel="noopener">Chapter page (organizers)</a>
-      </article>
-      <article class="card">
-        <div class="when">Thu Sep 03, 2026 at 6:00 PM ET  <span class="badge">hybrid</span></div>
-        <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-claflin-university-orangeburg-united-states-of-america-presents-panther-hacks-interest-meeting/" target="_blank" rel="noopener">Panther Hacks Interest Meeting</a></h3>
-        <div class="meta">GDG on Campus Claflin University - Orangeburg, United States of America &middot; Claflin University, Grace Thomas Kennedy Auditorium 123, Orangeburg, SC, US &middot; Free registration with Bevy Virtual Conference</div>
-        <p class="blurb">Panther Hacks kicks off at Claflin University with a meeting to introduce their student tech community. Open to all majors, it offers hackathons, workshops, and networking. Discover opportunities through GDG on Campus and explore tech without prior coding experience. Join on September 3, 2026, and be part of this vibrant community.</p>
-        <div class="tags"><span class="tag">Tech Talk / Meetup</span></div>
-        
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-claflin-university-orangeburg-united-states-of-america-presents-panther-hacks-interest-meeting/" target="_blank" rel="noopener">View and RSVP</a>
-        <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-claflin-university-orangeburg-united-states-of-america/" target="_blank" rel="noopener">Chapter page (organizers)</a>
-      </article>
-      <article class="card">
-        <div class="when">Thu Sep 03, 2026 at 7:30 PM ET  </div>
-        <h3><a href="https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-ia-offline-en-tu-celular-con-gemma-4-y-google-edge-ai-gallery/" target="_blank" rel="noopener">IA offline en tu celular con Gemma 4 y Google Edge AI Gallery</a></h3>
-        <div class="meta">GDG Santo Domingo &middot; Santo Domingo, Distrito Nacional, DO &middot; Free registration</div>
-        <p class="blurb">No toda la IA necesita centro de datos. Los modelos Gemma 4 están diseñados para correr en el dispositivo: en tu teléfon...</p>
-        <div class="tags"></div>
-        
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-ia-offline-en-tu-celular-con-gemma-4-y-google-edge-ai-gallery/" target="_blank" rel="noopener">View and RSVP</a>
-        <a class="btn ghost" href="https://gdg.community.dev/gdg-santo-domingo/" target="_blank" rel="noopener">Chapter page (organizers)</a>
-      </article>
+        <a class="btn rsvp" data-id="128537" href="https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-build-your-first-ai-companion/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128537" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-mississauga/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article></section>
+  <section><h2>Online, starting 8 am to 9 pm ET <span class="count">37</span></h2>
       <article class="card">
         <div class="when">Thu Sep 03, 2026 at 9:00 PM ET  <span class="badge">hybrid</span></div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-lindon-presents-utah-flutter-meetup-2026-09-03/" target="_blank" rel="noopener">Utah Flutter Meetup</a></h3>
@@ -183,7 +217,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">To see the agenda go to: https://www.meetup.com/utah-flutter/events/</p>
         <div class="tags"><span class="tag">Flutter</span> <span class="tag">Web</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-lindon-presents-utah-flutter-meetup-2026-09-03/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="120810" href="https://gdg.community.dev/events/details/google-gdg-lindon-presents-utah-flutter-meetup-2026-09-03/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="120810" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-lindon/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -193,7 +227,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Connect with Pete and Jim Friday morning to discuss your current projects! Show off your successes! Discuss future plans!</p>
         <div class="tags"><span class="tag">Career Development</span> <span class="tag">Community Building</span> <span class="tag">Networking</span> <span class="tag">Tech Talk / Meetup</span></div>
         <ul class="people"><li><span class="role">host</span> <strong>Pete Gordon</strong> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon" target="_blank" rel="noopener">find on LinkedIn</a> &middot; <a href="https://x.com/petegordon" target="_blank" rel="noopener">X</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-04/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="120247" href="https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-04/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="120247" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-columbus/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -203,7 +237,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Et si votre prochain projet, votre prochaine collaboration ou même votre prochaine opportunité professionnelle venait de...</p>
         <div class="tags"></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-lubumbashi-presents-open-source-votre-passerelle-vers-une-carriere-tech-internationale-2026-09-04/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128595" href="https://gdg.community.dev/events/details/google-gdg-lubumbashi-presents-open-source-votre-passerelle-vers-une-carriere-tech-internationale-2026-09-04/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128595" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-lubumbashi/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -213,7 +247,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Join Aqsa Kausar, GDE and AI/ML Head at Red Buffer, on September 5th at 7 PM for an online session exploring why LLM systems often falter in real-world applications. Discover common pitfalls and gain practical insights into creating more robust systems. Ideal for students, engineers, and anyone curious about LLMs.</p>
         <div class="tags"></div>
         <ul class="people"><li><span class="role">speaker</span> <strong>Aqsa Kausar</strong> <span class="muted">Google Developer Expert (ML), Tech Lead @Red Buffer</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Aqsa%20Kausar%20Tech%20Lead%20%40Red%20Buffer" target="_blank" rel="noopener">find on LinkedIn</a></li><li><span class="role">host</span> <strong>Mahnoor Nadeem</strong> <span class="muted">Women In Tech Lead, GDGoC UMT</span> &middot; <a class="li" href="https://www.linkedin.com/in/mahnoornadeem" target="_blank" rel="noopener">LinkedIn</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-why-your-llm-system-works-in-testing-but-fails-in-production/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129554" href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-why-your-llm-system-works-in-testing-but-fails-in-production/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129554" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-university-of-management-and-technology-lahore-pakistan/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -223,27 +257,27 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">We invite you to participate in our immersive Cloud, AI, and Security Study Jams. This event offers a fantastic opportun...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">Certification Study Group</span> <span class="tag">Google Cloud</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-cloud-ai-and-security-study-jams-kickstart-your-certification-journey/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128665" href="https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-cloud-ai-and-security-study-jams-kickstart-your-certification-journey/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128665" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-cloud-jinja/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Sat Sep 05, 2026 at 12:00 PM ET <span class="badge new">NEW</span> </div>
+      <article class="card">
+        <div class="when">Sat Sep 05, 2026 at 12:00 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-roorkee-institute-of-technology-roorkee-india-presents-insightful-sih-workshop-from-ideation-to-execution/" target="_blank" rel="noopener">Insightful SIH Workshop: From Ideation to Execution</a></h3>
         <div class="meta">GDG on Campus Roorkee Institute of Technology - Roorkee, India &middot; Roorkee, Uttarakhand, IN &middot; Free registration</div>
         <p class="blurb">Join an engaging workshop led by an SIH finalist and multiple hackathon winner to kick-start your tech journey. Learn ideation tips, execution strategies, and gain insights into Smart India Hackathon. Perfect for curious beginners and seasoned coders alike. Discover your next big idea—reserve your spot today for an afternoon of inspiration and practical learning!</p>
         <div class="tags"></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-roorkee-institute-of-technology-roorkee-india-presents-insightful-sih-workshop-from-ideation-to-execution/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129677" href="https://gdg.community.dev/events/details/google-gdg-on-campus-roorkee-institute-of-technology-roorkee-india-presents-insightful-sih-workshop-from-ideation-to-execution/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129677" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-roorkee-institute-of-technology-roorkee-india/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Sat Sep 05, 2026 at 1:00 PM ET <span class="badge new">NEW</span> </div>
+      <article class="card">
+        <div class="when">Sat Sep 05, 2026 at 1:00 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-trabzon-presents-devs-chalksn-gartic-night/" target="_blank" rel="noopener">Devs, Chalks&#x27;n Gartic Night</a></h3>
         <div class="meta">GDG Trabzon &middot; Trabzon, Trabzon, TR &middot; Free registration</div>
         <p class="blurb">Join the &#x27;Devs, Chalks&#x27;n Gartic Night&#x27; for a fun evening with fellow developers on Google Meet. Play Gartic.io, a drawing and guessing game that sparks creativity and quick thinking. Perfect for all skill levels, it&#x27;s a chance to unwind, show off your talent, and make new friends in the developer community. RSVP to be part of the excitement!</p>
         <div class="tags"><span class="tag">Community Building</span> <span class="tag">Networking</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-trabzon-presents-devs-chalksn-gartic-night/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129755" href="https://gdg.community.dev/events/details/google-gdg-trabzon-presents-devs-chalksn-gartic-night/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129755" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-trabzon/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -253,7 +287,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">This Saturday, don&#x27;t miss a chance to hear three founders share their journeys and pitch their ventures. Perfect for entrepreneurs, investors, and startup enthusiasts, this event provides valuable insights and networking to ignite your entrepreneurial passion.</p>
         <div class="tags"><span class="tag">Career Development</span> <span class="tag">Community Building</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-uyo-uyo-nigeria-presents-founders-pitch-series-30-1/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129599" href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-uyo-uyo-nigeria-presents-founders-pitch-series-30-1/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129599" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-university-of-uyo-uyo-nigeria/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -263,7 +297,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">&quot;AI is Eating Software, It Might Eat Itself,&quot;   where we delve into the hyper-fast-moving world of Artificial Intelligen...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">Tech Talk / Meetup</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-bamako-presents-ai-is-eating-software-it-might-eat-itself/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="120930" href="https://gdg.community.dev/events/details/google-gdg-bamako-presents-ai-is-eating-software-it-might-eat-itself/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="120930" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-bamako/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -273,7 +307,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Únete a este evento virtual con Aaron Guerrero, Google Developer Expert en Cloud, para aprender a construir un juego arcade usando Antigravity CLI. Descubre cómo esta herramienta puede optimizar tu flujo de trabajo y mejorar tus proyectos interactivos. Ideal para desarrolladores interesados en llevar sus habilidades al siguiente nivel.</p>
         <div class="tags"><span class="tag">Conference</span> <span class="tag">Tech Talk / Meetup</span> <span class="tag">Workshop / hands-on session</span></div>
         <ul class="people"><li><span class="role">speaker</span> <strong>Aaron Guerrero</strong> <span class="muted">Data Scientist | Google Developer Expert en Cloud, Kayum</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Aaron%20Guerrero%20Kayum" target="_blank" rel="noopener">find on LinkedIn</a> &middot; <a href="https://x.com/aaronthewarrior" target="_blank" rel="noopener">X</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-creando-un-juego-arcade-con-antigravity-cli-1/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129574" href="https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-creando-un-juego-arcade-con-antigravity-cli-1/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129574" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-cloud-mexico-city/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -283,7 +317,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Memória agêntica é uma das peças centrais para construir agentes de IA realmente úteis. Nesta sessão, vamos discutir os ...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">AI - Gemini</span> <span class="tag">Build with AI</span> <span class="tag">Google Cloud</span> <span class="tag">Tech Talk / Meetup</span></div>
         <ul class="people"><li><span class="role">speaker</span> <strong>Gabriel Carvalho</strong> <span class="muted">Data|AI Engineer &amp; GDG Organizer, Sauter Digital</span> &middot; <a class="li" href="https://www.linkedin.com/in/iamgabs" target="_blank" rel="noopener">LinkedIn</a></li><li><span class="role">speaker</span> <strong>Thiago Barros</strong> <span class="muted">ML Engineer &amp; GDG Organizer, MadeiraMadeira</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Thiago%20Barros%20MadeiraMadeira" target="_blank" rel="noopener">find on LinkedIn</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-garanhuns-presents-memoria-agentica-como-agentes-de-ia-lembram-esquecem-e-usam-contexto/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="127138" href="https://gdg.community.dev/events/details/google-gdg-garanhuns-presents-memoria-agentica-como-agentes-de-ia-lembram-esquecem-e-usam-contexto/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="127138" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-garanhuns/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -293,17 +327,17 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Join us for an exciting deep dive into &quot;Cloud-Native Data Science for Beginners&quot;. In this interactive session, we’ll unr...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">Google Cloud</span> <span class="tag">Tech Talk / Meetup</span></div>
         <ul class="people"><li><span class="role">host</span> <strong>Peter Okwukogu</strong> <span class="muted">Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub</span> &middot; <a class="li" href="https://www.linkedin.com/in/ipablo26/" target="_blank" rel="noopener">LinkedIn</a> &middot; <a href="https://x.com/ipablo26" target="_blank" rel="noopener">X</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-06/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="111954" href="https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-06/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="111954" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-cloud-kaduna/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Sun Sep 06, 2026 at 1:00 PM ET <span class="badge new">NEW</span> </div>
+      <article class="card">
+        <div class="when">Sun Sep 06, 2026 at 1:00 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia-presents-control-architecture-episode-3-how-does-vercel-work/" target="_blank" rel="noopener">Control Architecture: Episode 3 - How Does Vercel Work?</a></h3>
         <div class="meta">GDG on Campus HiLCoE School of Computer Science and Technology - Addis Ababa, Ethiopia &middot; Addis Ababa, Addis Ababa, ET &middot; Free registration</div>
         <p class="blurb">Join us as we explore the technology and architecture behind Vercel and discover how it powers and optimizes modern web applications.</p>
         <div class="tags"></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia-presents-control-architecture-episode-3-how-does-vercel-work/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129752" href="https://gdg.community.dev/events/details/google-gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia-presents-control-architecture-episode-3-how-does-vercel-work/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129752" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -313,18 +347,8 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Join GDG Bamenda for our 6-week Deep Dive Series! We are focusing on innovation and practical skill-building for the Bamenda tech and startup ecosystem. Expect intensive 1-hour technical sessions spanning all technology stacks and skill levels, from beginner to expert. Whether you are building the next big startup or mastering a new language, come level up your skills with the community!</p>
         <div class="tags"><span class="tag">Career Development</span> <span class="tag">Community Building</span> <span class="tag">Networking</span> <span class="tag">UX / UI Design</span> <span class="tag">Workshop / hands-on session</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda-2026-09-07/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128449" href="https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda-2026-09-07/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128449" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-bamenda/" target="_blank" rel="noopener">Chapter page (organizers)</a>
-      </article>
-      <article class="card is-new">
-        <div class="when">Tue Sep 08, 2026 at 6:00 PM ET <span class="badge new">NEW</span> </div>
-        <h3><a href="https://gdg.community.dev/events/details/google-gdg-toronto-presents-alerting-nightmare-a-horror-story-from-on-call-devs-and-how-smart-systems-should-manage-alerting-by-removing-noise/" target="_blank" rel="noopener">Alerting nightmare: A horror story from on-call devs and how smart systems should manage alerting by removing noise.</a></h3>
-        <div class="meta">GDG Toronto &middot; Toronto, ON, CA &middot; Free registration</div>
-        <p class="blurb">Discover how to tackle on-call nightmares in this revealing talk on smart alerting systems, a must-attend for developers tired of alert fatigue and false alarms. Learn how to reduce noise, avoid missing critical incidents, and design systems that enhance developer wellbeing and response quality. Ideal for anyone who&#x27;s ever muted a Slack channel in frustration.</p>
-        <div class="tags"><span class="tag">Tech Talk / Meetup</span></div>
-        
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-toronto-presents-alerting-nightmare-a-horror-story-from-on-call-devs-and-how-smart-systems-should-manage-alerting-by-removing-noise/" target="_blank" rel="noopener">View and RSVP</a>
-        <a class="btn ghost" href="https://gdg.community.dev/gdg-toronto/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
         <div class="when">Tue Sep 08, 2026 at 8:00 PM ET  </div>
@@ -333,8 +357,18 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">¿Te has preguntado qué se necesita para convertirse en un Google Developer Expert (GDE)?En esta sesión, Nicolás Lecaros,...</p>
         <div class="tags"><span class="tag">Career Development</span> <span class="tag">Community Building</span> <span class="tag">Networking</span> <span class="tag">Tech Talk / Meetup</span></div>
         <ul class="people"><li><span class="role">speaker</span> <strong>Nicolás Lecaros</strong> <span class="muted">GDE en Google Cloud</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Nicol%C3%A1s%20Lecaros%20GDE%20en%20Google%20Cloud" target="_blank" rel="noopener">find on LinkedIn</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-caracas-presents-road-to-gde-1-el-camino-para-convertirse-en-google-developer-expert-gde/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128076" href="https://gdg.community.dev/events/details/google-gdg-caracas-presents-road-to-gde-1-el-camino-para-convertirse-en-google-developer-expert-gde/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128076" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-caracas/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Wed Sep 09, 2026 at 8:00 AM ET <span class="badge new">NEW</span> </div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/" target="_blank" rel="noopener">Welcome &amp; Connect: GDGoC at UoEm Kickoff</a></h3>
+        <div class="meta">GDG on Campus University of Embu - Embu, Kenya &middot; Embu, Embu, KE &middot; Free registration</div>
+        <p class="blurb">Join the inaugural &quot;Welcome &amp; Connect&quot; event at the University of Embu to celebrate the launch of GDG on Campus. This is ideal for tech enthusiasts of all levels to network, learn about GDG&#x27;s mission, and get involved. Enjoy light refreshments while building a vibrant tech community. RSVP to be part of the excitement.</p>
+        <div class="tags"></div>
+        
+        <a class="btn rsvp" data-id="129861" href="https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129861" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-university-of-embu-embu-kenya/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
         <div class="when">Wed Sep 09, 2026 at 12:00 PM ET  </div>
@@ -343,7 +377,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">TechConnect is our online event series by GDG Salzburg. The idea is simple: one topic, one speaker, one focused talk. Each session runs 30 to 40 minutes, followed by an open Q&amp;A, and the whole thing wraps up within an hour. It&#x27;s built for busy people. You join from wherever you are, learn something new on a specific tech topic, ask your questions directly to the speaker, and get back to your day.</p>
         <div class="tags"><span class="tag">Angular</span> <span class="tag">Tech Talk / Meetup</span> <span class="tag">UX / UI Design</span> <span class="tag">Web</span></div>
         <ul class="people"><li><span class="role">speaker</span> <strong>Manfred Steyer</strong> <span class="muted">Trainer and Consultant with focus on Angular</span> &middot; <a class="li" href="https://www.linkedin.com/in/manfred-steyer-84645821/" target="_blank" rel="noopener">LinkedIn</a></li><li><span class="role">host</span> <strong>Vicky Pirker</strong> <span class="muted">Strategic Business Consultant, Vicky Pirker UX Consulting</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Vicky%20Pirker%20Vicky%20Pirker%20UX%20Consulting" target="_blank" rel="noopener">find on LinkedIn</a></li><li><span class="role">host</span> <strong>Tarik Huber</strong> <span class="muted">CEO, Ecronix</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Tarik%20Huber%20Ecronix" target="_blank" rel="noopener">find on LinkedIn</a> &middot; <a href="https://x.com/TarikHuber" target="_blank" rel="noopener">X</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-salzburg-presents-techconnect-beyond-chatbots-agentic-ui-with-open-standards-free-ticket-raffle-at-the-end/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128469" href="https://gdg.community.dev/events/details/google-gdg-salzburg-presents-techconnect-beyond-chatbots-agentic-ui-with-open-standards-free-ticket-raffle-at-the-end/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128469" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-salzburg/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -353,7 +387,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Join Ricardo Useche on September 9, 2026, for an insightful workshop on blending the Google Maps Platform with AI. Ideal for beginners to intermediates, this session offers innovative solution-building skills and networking with like-minded peers. Don&#x27;t miss the chance to elevate your expertise and start creating. Reserve your spot today!</p>
         <div class="tags"></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-north-carolina-at-state-university-presents-building-innovatively-with-google-maps-and-ai/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129614" href="https://gdg.community.dev/events/details/google-gdg-on-campus-north-carolina-at-state-university-presents-building-innovatively-with-google-maps-and-ai/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129614" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-north-carolina-at-state-university/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -363,7 +397,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Join us for our semester kickoff meeting! Discover the exciting events we have planned and learn how to join our eboard. Enjoy community-building activities to meet fellow members. Perfect for those eager to get involved and make new connections this semester.</p>
         <div class="tags"><span class="tag">Community Building</span> <span class="tag">Tech Talk / Meetup</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-rochester-institute-of-technology-rochester-usa-presents-first-general-meeting-of-the-semester-1/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129520" href="https://gdg.community.dev/events/details/google-gdg-on-campus-rochester-institute-of-technology-rochester-usa-presents-first-general-meeting-of-the-semester-1/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129520" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-rochester-institute-of-technology-rochester-usa/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -373,27 +407,27 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">About this EventIs your small business drowning in manual tasks? Do you know AI can help, but you aren&#x27;t sure where to s...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">AI - Gemini</span> <span class="tag">Build with AI</span> <span class="tag">Google Cloud</span> <span class="tag">Tech Talk / Meetup</span> <span class="tag">Workshop / hands-on session</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-baltimore-presents-small-business-ai-clinic-prompting-amp-automation-lab-virtual-2026-09-10/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="126617" href="https://gdg.community.dev/events/details/google-gdg-baltimore-presents-small-business-ai-clinic-prompting-amp-automation-lab-virtual-2026-09-10/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="126617" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-baltimore/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Thu Sep 10, 2026 at 2:00 PM ET <span class="badge new">NEW</span> </div>
+      <article class="card">
+        <div class="when">Thu Sep 10, 2026 at 2:00 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-2-multiplayer-game/" target="_blank" rel="noopener">AI Lab 2: Multiplayer game</a></h3>
         <div class="meta">GDG Maseru &middot; Maseru, Maseru, LS &middot; Free registration</div>
         <p class="blurb">Participants bring their laptops to explore AI tools in a hands-on Google for Developers lab, gaining experience by launching a multiplayer game.</p>
         <div class="tags"></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-2-multiplayer-game/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129765" href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-2-multiplayer-game/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129765" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-maseru/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Thu Sep 10, 2026 at 7:30 PM ET <span class="badge new">NEW</span> </div>
+      <article class="card">
+        <div class="when">Thu Sep 10, 2026 at 7:30 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-frisco-presents-gdg-frisco-build-night-from-zero-to-hero-ai-powered-flutter-apps/" target="_blank" rel="noopener">GDG Frisco Build Night: From Zero to Hero — AI-Powered Flutter Apps</a></h3>
         <div class="meta">GDG Frisco &middot; Frisco, TX, US &middot; Free registration with Bevy Virtual Conference</div>
         <p class="blurb">In our kickoff session, we explored how AI removes the friction from learning, eliminates boilerplate st...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">AI - Gemini</span> <span class="tag">AI - Gemini Enterprise Agent Platform</span> <span class="tag">Build with AI</span> <span class="tag">Community Building</span> <span class="tag">Flutter</span></div>
         <ul class="people"><li><span class="role">speaker</span> <strong>Martino Yovo</strong> <span class="muted">Product Engineer, Esri</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Martino%20Yovo%20Esri" target="_blank" rel="noopener">find on LinkedIn</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-frisco-presents-gdg-frisco-build-night-from-zero-to-hero-ai-powered-flutter-apps/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="127232" href="https://gdg.community.dev/events/details/google-gdg-frisco-presents-gdg-frisco-build-night-from-zero-to-hero-ai-powered-flutter-apps/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="127232" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-frisco/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -403,7 +437,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">No tienes que ser geógrafo, ni experto en teledetección, ni saber programar. Con Climate Engine obtienes las áreas afect...</p>
         <div class="tags"></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-climate-engine-analisis-satelital-sin-escribir-codigo-sobre-google-earth-engine/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128268" href="https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-climate-engine-analisis-satelital-sin-escribir-codigo-sobre-google-earth-engine/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128268" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-santo-domingo/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -413,27 +447,27 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Connect with Pete and Jim Friday morning to discuss your current projects! Show off your successes! Discuss future plans!</p>
         <div class="tags"><span class="tag">Career Development</span> <span class="tag">Community Building</span> <span class="tag">Networking</span> <span class="tag">Tech Talk / Meetup</span></div>
         <ul class="people"><li><span class="role">host</span> <strong>Pete Gordon</strong> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon" target="_blank" rel="noopener">find on LinkedIn</a> &middot; <a href="https://x.com/petegordon" target="_blank" rel="noopener">X</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-11/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="120248" href="https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-11/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="120248" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-columbus/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Fri Sep 11, 2026 at 12:30 PM ET <span class="badge new">NEW</span> <span class="badge">hybrid</span></div>
+      <article class="card">
+        <div class="when">Fri Sep 11, 2026 at 12:30 PM ET  <span class="badge">hybrid</span></div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-aranjuez-presents-grabacion-en-vivo-inicio-de-temporada-de-welcome-to-la-secta/" target="_blank" rel="noopener">Grabación en Vivo: Inicio de Temporada de &#x27;Welcome to La Secta&#x27;</a></h3>
         <div class="meta">GDG Aranjuez &middot; Centro Cultural Isabel de Farnesio, Aranjuez, MD, ES &middot; Free registration</div>
         <p class="blurb">Participa en la grabación en vivo del primer episodio de la nueva temporada del podcast &#x27;Welcome to La Secta&#x27;. Únete a otros entusiastas de la tecnología en Aranjuez para descubrir lo que los anfitriones tienen preparado. Es una oportunidad única para ver el proceso de creación en directo y conectar con la comunidad. ¡Regístrate y asegura tu lugar!</p>
         <div class="tags"></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-aranjuez-presents-grabacion-en-vivo-inicio-de-temporada-de-welcome-to-la-secta/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129776" href="https://gdg.community.dev/events/details/google-gdg-aranjuez-presents-grabacion-en-vivo-inicio-de-temporada-de-welcome-to-la-secta/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129776" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-aranjuez/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Fri Sep 11, 2026 at 1:30 PM ET <span class="badge new">NEW</span> </div>
+      <article class="card">
+        <div class="when">Fri Sep 11, 2026 at 1:30 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-on-campus-kenyatta-university-nairobi-kenya-presents-hands-on-uxui-workshop/" target="_blank" rel="noopener">Hands-On UX/UI Workshop</a></h3>
         <div class="meta">GDG on Campus Kenyatta University - Nairobi, Kenya &middot; Nairobi, Nairobi County, KE &middot; Free registration</div>
         <p class="blurb">Join an insightful UX/UI design session to create personalized wireframes and understand key design concepts. Network with tech enthusiasts and organizers, enhance your skills, and grow your community. Spread the word and design the future together!</p>
         <div class="tags"><span class="tag">Community Building</span> <span class="tag">UX / UI Design</span> <span class="tag">Workshop / hands-on session</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-kenyatta-university-nairobi-kenya-presents-hands-on-uxui-workshop/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="129671" href="https://gdg.community.dev/events/details/google-gdg-on-campus-kenyatta-university-nairobi-kenya-presents-hands-on-uxui-workshop/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129671" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-kenyatta-university-nairobi-kenya/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -443,7 +477,7 @@ Join us to meet awesome speakers, get free food, and find talented teammates for
         <p class="blurb">Join us for an exclusive Industry Masterclass hosted by Google Developer Groups on Campus Suez University in partnership...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">Tech Talk / Meetup</span> <span class="tag">Workshop / hands-on session</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-on-campus-suez-university-suez-egypt-presents-ai-masterclass-bridging-theory-and-industry-2026-09-11/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128422" href="https://gdg.community.dev/events/details/google-gdg-on-campus-suez-university-suez-egypt-presents-ai-masterclass-bridging-theory-and-industry-2026-09-11/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128422" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-on-campus-suez-university-suez-egypt/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -457,7 +491,7 @@ Focus: The 2026 &quot;Agentic Workflow&quot; trend—moving from one bot to a &q
 * Your ticket gives you access to virtual event venues.</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">Build with AI</span> <span class="tag">Networking</span> <span class="tag">Workshop / hands-on session</span></div>
         <ul class="people"><li><span class="role">speaker</span> <strong>Ankur Roy</strong> <span class="muted">Google Developer Expert • Solutions Architect • Author, Online Partner</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Ankur%20Roy%20Online%20Partner" target="_blank" rel="noopener">find on LinkedIn</a></li><li><span class="role">host</span> <strong>Anna Muzykina</strong> <span class="muted">Founder CTO &amp; CEO @ Proofa, GDG Ahlen Organizer</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Anna%20Muzykina%20GDG%20Ahlen%20Organizer" target="_blank" rel="noopener">find on LinkedIn</a></li><li><span class="role">host</span> <strong>Denys Doroshev</strong> <span class="muted">C0-founder &amp; COO @ Proofa, GDG Ahlen Organizer</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Denys%20Doroshev%20GDG%20Ahlen%20Organizer" target="_blank" rel="noopener">find on LinkedIn</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-build-secure-ai-agents/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128472" href="https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-build-secure-ai-agents/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128472" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-ahlen/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -467,7 +501,7 @@ Focus: The 2026 &quot;Agentic Workflow&quot; trend—moving from one bot to a &q
         <p class="blurb">Join us for an exciting deep dive into &quot;Cloud-Native Data Science for Beginners&quot;. In this interactive session, we’ll unr...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">Google Cloud</span> <span class="tag">Tech Talk / Meetup</span></div>
         <ul class="people"><li><span class="role">host</span> <strong>Peter Okwukogu</strong> <span class="muted">Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub</span> &middot; <a class="li" href="https://www.linkedin.com/in/ipablo26/" target="_blank" rel="noopener">LinkedIn</a> &middot; <a href="https://x.com/ipablo26" target="_blank" rel="noopener">X</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-13/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="111955" href="https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-13/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="111955" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-cloud-kaduna/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card">
@@ -477,28 +511,78 @@ Focus: The 2026 &quot;Agentic Workflow&quot; trend—moving from one bot to a &q
         <p class="blurb">Join GDG Bamenda for our 6-week Deep Dive Series! We are focusing on innovation and practical skill-building for the Bamenda tech and startup ecosystem. Expect intensive 1-hour technical sessions spanning all technology stacks and skill levels, from beginner to expert. Whether you are building the next big startup or mastering a new language, come level up your skills with the community!</p>
         <div class="tags"><span class="tag">Career Development</span> <span class="tag">Community Building</span> <span class="tag">Networking</span> <span class="tag">UX / UI Design</span> <span class="tag">Workshop / hands-on session</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda-2026-09-14/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128447" href="https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda-2026-09-14/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128447" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-bamenda/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
       <article class="card is-new">
-        <div class="when">Tue Sep 15, 2026 at 9:00 PM ET <span class="badge new">NEW</span> </div>
+        <div class="when">Tue Sep 15, 2026 at 7:00 PM ET <span class="badge new">NEW</span> <span class="badge">hybrid</span></div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/" target="_blank" rel="noopener">Code Camp: Mobile Development as a Career</a></h3>
+        <div class="meta">GDG Boston Android &middot; West Village H, Boston, MA, US &middot; Free registration with Bevy Virtual Conference</div>
+        <p class="blurb">Join Dan Peluso for a code camp on mobile career development. Learn to turn app ideas into businesses, prepare for coding interviews, and discover Boston companies hiring mobile developers. Gain insights and ask questions to advance in the dynamic mobile industry. Ideal for aspiring developers in the mobile space.</p>
+        <div class="tags"><span class="tag">Android</span> <span class="tag">Career Development</span></div>
+        <ul class="people"><li><span class="role">speaker</span> <strong>Dan Peluso</strong> <span class="muted">Senior Software Engineer, Klaviyo</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo" target="_blank" rel="noopener">find on LinkedIn</a></li></ul>
+        <a class="btn rsvp" data-id="129799" href="https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129799" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-boston-android/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card">
+        <div class="when">Tue Sep 15, 2026 at 9:00 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-burnaby-presents-from-questions-to-answers-building-cross-system-data-agents-with-googles-data-agent-kit/" target="_blank" rel="noopener">From Questions to Answers: Building Cross-System Data Agents with Google&#x27;s Data Agent Kit</a></h3>
         <div class="meta">GDG Burnaby &middot; Burnaby, BC, CA &middot; Free registration with Bevy Virtual Conference</div>
         <p class="blurb">Discover how Google&#x27;s Data Agent Kit transforms data access by allowing AI agents secure, native access to your data across platforms like BigQuery and Cloud SQL. This session explains DAK’s integration into workflows and showcases its capabilities with a live demo. Ideal for professionals seeking streamlined data querying solutions.</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">AI - Gemini</span> <span class="tag">Workshop / hands-on session</span></div>
         <ul class="people"><li><span class="role">speaker</span> <strong>Sireesha Pulipati</strong> <span class="muted">Staff Data Engineer, Shopify</span> &middot; <a class="li" href="https://www.linkedin.com/in/sireesha-pulipati/" target="_blank" rel="noopener">LinkedIn</a></li></ul>
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-burnaby-presents-from-questions-to-answers-building-cross-system-data-agents-with-googles-data-agent-kit/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128695" href="https://gdg.community.dev/events/details/google-gdg-burnaby-presents-from-questions-to-answers-building-cross-system-data-agents-with-googles-data-agent-kit/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128695" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-burnaby/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article>
-      <article class="card is-new">
-        <div class="when">Wed Sep 16, 2026 at 8:00 PM ET <span class="badge new">NEW</span> </div>
+      <article class="card">
+        <div class="when">Wed Sep 16, 2026 at 8:00 PM ET  </div>
         <h3><a href="https://gdg.community.dev/events/details/google-gdg-lawrence-presents-generative-ai-leader-series-session-3-navigate-the-landscape/" target="_blank" rel="noopener">Generative AI Leader Series - Session #3: Navigate the landscape</a></h3>
         <div class="meta">GDG Lawrence &middot; Lawrence, MA, US &middot; Free registration with Bevy Virtual Conference</div>
         <p class="blurb">Navigate the Landscape is the third course of the Gen AI Leader learning path. Gen AI is changing how we work and intera...</p>
         <div class="tags"><span class="tag">AI</span> <span class="tag">Certification Study Group</span> <span class="tag">Get Certified</span> <span class="tag">Google Cloud</span> <span class="tag">Workshop / hands-on session</span></div>
         
-        <a class="btn" href="https://gdg.community.dev/events/details/google-gdg-lawrence-presents-generative-ai-leader-series-session-3-navigate-the-landscape/" target="_blank" rel="noopener">View and RSVP</a>
+        <a class="btn rsvp" data-id="128464" href="https://gdg.community.dev/events/details/google-gdg-lawrence-presents-generative-ai-leader-series-session-3-navigate-the-landscape/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128464" href="#" hidden>unmark</a>
         <a class="btn ghost" href="https://gdg.community.dev/gdg-lawrence/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 8:00 AM ET <span class="badge new">NEW</span> </div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-cloud-budapest-presents-ai-stories-from-the-trenches-being-an-e2e-software-engineer-in-an-agentic-age/" target="_blank" rel="noopener">AI Stories from the Trenches - Being an E2E software engineer in an agentic age</a></h3>
+        <div class="meta">GDG Cloud Budapest &middot; Budapest, Budapest, HU &middot; Free registration</div>
+        <p class="blurb">Join the free online talk on September 17 at 14:00 (CEST) to explore how coding assistants are revolutionizing software engineering. Led by ML Architect Tamás Móricz, learn practical strategies to enhance coding agents and balance human understanding. Discover methods to evaluate performance, abstraction, and output management through real-world examples. Registration required.</p>
+        <div class="tags"><span class="tag">Tech Talk / Meetup</span></div>
+        
+        <a class="btn rsvp" data-id="129782" href="https://gdg.community.dev/events/details/google-gdg-cloud-budapest-presents-ai-stories-from-the-trenches-being-an-e2e-software-engineer-in-an-agentic-age/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129782" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-cloud-budapest/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 2:00 PM ET <span class="badge new">NEW</span> </div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-3-maps-and-ai/" target="_blank" rel="noopener">AI Lab 3: Maps and AI</a></h3>
+        <div class="meta">GDG Maseru &middot; Maseru, Maseru, LS &middot; Free registration</div>
+        <p class="blurb">Attendees are invited to bring their laptops and discover how the Google Maps Platform and AI can enhance location-based experiences. Ideal for developers and tech enthusiasts eager to integrate advanced mapping and AI technologies into their projects.</p>
+        <div class="tags"></div>
+        
+        <a class="btn rsvp" data-id="129766" href="https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-3-maps-and-ai/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129766" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-maseru/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 7:00 PM ET <span class="badge new">NEW</span> </div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/" target="_blank" rel="noopener">LLM on your browser</a></h3>
+        <div class="meta">GDG San Jose &middot; San Jose, CA, US &middot; Free registration</div>
+        <p class="blurb">Join GDG San Jose for an interactive talk and workshop with Hemanth HM on running Large Language Models directly inside ...</p>
+        <div class="tags"><span class="tag">Build with AI</span> <span class="tag">Tech Talk / Meetup</span> <span class="tag">Workshop / hands-on session</span></div>
+        <ul class="people"><li><span class="role">speaker</span> <strong>Hemanth HM</strong> <span class="muted">GDE, Sr. Staff Software Engineering Manager, PayPal</span> &middot; <a class="li search" href="https://www.linkedin.com/search/results/people/?keywords=Hemanth%20HM%20PayPal" target="_blank" rel="noopener">find on LinkedIn</a> &middot; <a href="https://x.com/gnumanth" target="_blank" rel="noopener">X</a></li></ul>
+        <a class="btn rsvp" data-id="128764" href="https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="128764" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-san-jose/" target="_blank" rel="noopener">Chapter page (organizers)</a>
+      </article>
+      <article class="card is-new">
+        <div class="when">Thu Sep 17, 2026 at 7:00 PM ET <span class="badge new">NEW</span> </div>
+        <h3><a href="https://gdg.community.dev/events/details/google-gdg-nashville-presents-secure-your-stuff-cybersecurity-summit/" target="_blank" rel="noopener">Secure Your Stuff: Cybersecurity Summit</a></h3>
+        <div class="meta">GDG Nashville &middot; Nashville, TN, US &middot; Free registration with Bevy Virtual Conference</div>
+        <p class="blurb">Secure Your Stuff: Cybersecurity Summit offers an engaging virtual session with top experts sharing practical tips on protecting your phone, passwords, social media, and personal information. Ideal for anyone looking to enhance their digital safety, the event is free and interactive. Join to learn how to stay smart and secure in today&#x27;s digital world. Panelists are to be announced soon.</p>
+        <div class="tags"><span class="tag">Accessibility</span> <span class="tag">Community Building</span> <span class="tag">Conference</span> <span class="tag">Web</span></div>
+        
+        <a class="btn rsvp" data-id="129223" href="https://gdg.community.dev/events/details/google-gdg-nashville-presents-secure-your-stuff-cybersecurity-summit/" target="_blank" rel="noopener">View and RSVP</a><a class="unmark" data-id="129223" href="#" hidden>unmark</a>
+        <a class="btn ghost" href="https://gdg.community.dev/gdg-nashville/" target="_blank" rel="noopener">Chapter page (organizers)</a>
       </article></section>
   <section><h2>People to connect with <span class="count">18</span></h2><p class="sub">Speakers and hosts from the events above. "Find on LinkedIn" opens a search for their name and company when they did not list a profile.</p><div class="people-grid">
       <article class="card person">
@@ -534,6 +618,14 @@ Focus: The 2026 &quot;Agentic Workflow&quot; trend—moving from one bot to a &q
         <div class="actions"><a class="btn li-btn search" href="https://www.linkedin.com/search/results/people/?keywords=Aqsa%20Kausar%20Tech%20Lead%20%40Red%20Buffer" target="_blank" rel="noopener">Find on LinkedIn</a></div>
       </article>
       <article class="card person">
+        <div class="when">SPEAKER</div>
+        <h3>Dan Peluso</h3>
+        <div class="meta">Senior Software Engineer, Klaviyo</div>
+        <div class="sessions-label">Session</div>
+        <ul class="sessions"><li><a href="https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/" target="_blank" rel="noopener">Code Camp: Mobile Development as a Career</a> <span class="muted">Tue Sep 15, 2026 at 7:00 PM ET</span></li></ul>
+        <div class="actions"><a class="btn li-btn search" href="https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo" target="_blank" rel="noopener">Find on LinkedIn</a></div>
+      </article>
+      <article class="card person">
         <div class="when">HOST</div>
         <h3>Denys Doroshev</h3>
         <div class="meta">C0-founder &amp; COO @ Proofa, GDG Ahlen Organizer</div>
@@ -551,11 +643,11 @@ Focus: The 2026 &quot;Agentic Workflow&quot; trend—moving from one bot to a &q
       </article>
       <article class="card person">
         <div class="when">SPEAKER</div>
-        <h3>Kevin Quan</h3>
-        <div class="meta">GDG Organizer, GDG Lawrence</div>
+        <h3>Hemanth HM</h3>
+        <div class="meta">GDE, Sr. Staff Software Engineering Manager, PayPal</div>
         <div class="sessions-label">Session</div>
-        <ul class="sessions"><li><a href="https://gdg.community.dev/events/details/google-gdg-lawrence-presents-generative-ai-leader-series-session-2-unlock-foundational-concepts/" target="_blank" rel="noopener">Generative AI Leader Series - Session #2: Unlock Foundational Concepts</a> <span class="muted">Wed Sep 02, 2026 at 8:00 PM ET</span></li></ul>
-        <div class="actions"><a class="btn li-btn search" href="https://www.linkedin.com/search/results/people/?keywords=Kevin%20Quan%20GDG%20Lawrence" target="_blank" rel="noopener">Find on LinkedIn</a></div>
+        <ul class="sessions"><li><a href="https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/" target="_blank" rel="noopener">LLM on your browser</a> <span class="muted">Thu Sep 17, 2026 at 7:00 PM ET</span></li></ul>
+        <div class="actions"><a class="btn li-btn search" href="https://www.linkedin.com/search/results/people/?keywords=Hemanth%20HM%20PayPal" target="_blank" rel="noopener">Find on LinkedIn</a><a class="btn ghost" href="https://x.com/gnumanth" target="_blank" rel="noopener">X profile</a></div>
       </article>
       <article class="card person">
         <div class="when">HOST</div>
@@ -607,14 +699,6 @@ Focus: The 2026 &quot;Agentic Workflow&quot; trend—moving from one bot to a &q
       </article>
       <article class="card person">
         <div class="when">SPEAKER</div>
-        <h3>Roman Jaquez</h3>
-        <div class="meta">Google Developer Expert in Flutter / Dart, Philips Health Systems</div>
-        <div class="sessions-label">Session</div>
-        <ul class="sessions"><li><a href="https://gdg.community.dev/events/details/google-gdg-lawrence-presents-generative-ai-leader-series-session-2-unlock-foundational-concepts/" target="_blank" rel="noopener">Generative AI Leader Series - Session #2: Unlock Foundational Concepts</a> <span class="muted">Wed Sep 02, 2026 at 8:00 PM ET</span></li></ul>
-        <div class="actions"><a class="btn li-btn search" href="https://www.linkedin.com/search/results/people/?keywords=Roman%20Jaquez%20Philips%20Health%20Systems" target="_blank" rel="noopener">Find on LinkedIn</a><a class="btn ghost" href="https://x.com/drcoderz" target="_blank" rel="noopener">X profile</a></div>
-      </article>
-      <article class="card person">
-        <div class="when">SPEAKER</div>
         <h3>Sireesha Pulipati</h3>
         <div class="meta">Staff Data Engineer, Shopify</div>
         <div class="sessions-label">Session</div>
@@ -645,7 +729,40 @@ Focus: The 2026 &quot;Agentic Workflow&quot; trend—moving from one bot to a &q
         <ul class="sessions"><li><a href="https://gdg.community.dev/events/details/google-gdg-salzburg-presents-techconnect-beyond-chatbots-agentic-ui-with-open-standards-free-ticket-raffle-at-the-end/" target="_blank" rel="noopener">TechConnect: Beyond Chatbots: Agentic UI with Open Standards (free ticket raffle at the end!)</a> <span class="muted">Wed Sep 09, 2026 at 12:00 PM ET</span></li></ul>
         <div class="actions"><a class="btn li-btn search" href="https://www.linkedin.com/search/results/people/?keywords=Vicky%20Pirker%20Vicky%20Pirker%20UX%20Consulting" target="_blank" rel="noopener">Find on LinkedIn</a></div>
       </article></div></section>
-  <footer>Data: <a href="https://gdg.community.dev/events/">gdg.community.dev/events</a>. Times converted to Toronto time.</footer>
+  <footer>Data: <a href="https://gdg.community.dev/events/">gdg.community.dev/events</a>. Times converted to Toronto time. Which events you have opened is remembered in this browser only.</footer>
 </main>
+<script>
+(function () {
+  var KEY = "gdg-viewed";
+  function load() { try { return JSON.parse(localStorage.getItem(KEY) || "[]"); } catch (e) { return []; } }
+  function save(ids) { try { localStorage.setItem(KEY, JSON.stringify(ids)); } catch (e) {} }
+  function paint() {
+    var ids = load();
+    document.querySelectorAll("a.rsvp").forEach(function (a) {
+      var seen = ids.indexOf(a.dataset.id) !== -1;
+      a.classList.toggle("viewed", seen);
+      a.textContent = seen ? "Viewed" : "View and RSVP";
+      var u = a.nextElementSibling;
+      if (u && u.classList.contains("unmark")) u.hidden = !seen;
+    });
+  }
+  document.addEventListener("click", function (ev) {
+    var a = ev.target.closest("a.rsvp");
+    if (a) {
+      var ids = load();
+      if (ids.indexOf(a.dataset.id) === -1) { ids.push(a.dataset.id); save(ids); }
+      paint();
+      return;
+    }
+    var u = ev.target.closest("a.unmark");
+    if (u) {
+      ev.preventDefault();
+      save(load().filter(function (x) { return x !== u.dataset.id; }));
+      paint();
+    }
+  });
+  paint();
+})();
+</script>
 </body>
 </html>
