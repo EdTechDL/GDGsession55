@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-04T10:41:39.120140-04:00",
-  "window_start": "2026-09-04",
-  "window_end": "2026-09-18",
+  "generated": "2026-09-05T09:38:08.129598-04:00",
+  "window_start": "2026-09-05",
+  "window_end": "2026-09-19",
   "in_person": [
     {
       "id": 129706,
@@ -118,11 +118,11 @@
       "title": "How to Win a Hackathon: Ideas, Teams & Speaker Night x Shipaton",
       "chapter": "GDG on Campus University of Toronto, St. George Campus - Toronto, Canada",
       "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-toronto-st-george-campus-toronto-canada/",
-      "where": "Myhal Centre for Engineering Innovation and Entrepreneurship (MY), Toronto, ON, CA",
+      "where": "William Doo Auditorium - Room A, Toronto, ON, CA",
       "country": "CA",
-      "start_local": "2026-09-16T16:00:00-04:00",
-      "end_local": "2026-09-16T21:00:00-04:00",
-      "when": "Wed Sep 16, 2026 at 4:00 PM ET",
+      "start_local": "2026-09-16T16:30:00-04:00",
+      "end_local": "2026-09-16T21:30:00-04:00",
+      "when": "Wed Sep 16, 2026 at 4:30 PM ET",
       "registration": "Free registration",
       "tags": [
         "AI",
@@ -155,84 +155,28 @@
       ],
       "blurb": "We’re kicking off a new Build with AI series! Each week, explore a new way to build with AI through hands-on sessions, practical projects, and expert speakers. Whether you’re new to AI or already experimenting, come learn, build, and grow with the community!",
       "url": "https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-build-your-first-ai-companion/",
-      "new": true,
+      "new": false,
       "people": []
     }
   ],
   "online": [
     {
-      "id": 120810,
-      "kind": "online",
-      "audience_type": "HYBRID",
-      "title": "Utah Flutter Meetup",
-      "chapter": "GDG Lindon",
-      "chapter_url": "https://gdg.community.dev/gdg-lindon/",
-      "where": "Domo, Inc, American Fork, UT, UT, US",
-      "country": "US",
-      "start_local": "2026-09-03T21:00:00-04:00",
-      "end_local": "2026-09-03T23:00:00-04:00",
-      "when": "Thu Sep 03, 2026 at 9:00 PM ET",
-      "registration": "External registration",
-      "tags": [
-        "Flutter",
-        "Web"
-      ],
-      "blurb": "To see the agenda go to: https://www.meetup.com/utah-flutter/events/",
-      "url": "https://gdg.community.dev/events/details/google-gdg-lindon-presents-utah-flutter-meetup-2026-09-03/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 120247,
+      "id": 129927,
       "kind": "online",
       "audience_type": "VIRTUAL",
-      "title": "GDG Columbus: Shots On Goal",
-      "chapter": "GDG Columbus",
-      "chapter_url": "https://gdg.community.dev/gdg-columbus/",
-      "where": "Columbus, OH, US",
-      "country": "US",
-      "start_local": "2026-09-04T08:00:00-04:00",
-      "end_local": "2026-09-04T09:00:00-04:00",
-      "when": "Fri Sep 04, 2026 at 8:00 AM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Career Development",
-        "Community Building",
-        "Networking",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Connect with Pete and Jim Friday morning to discuss your current projects! Show off your successes! Discuss future plans!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-04/",
-      "new": false,
-      "people": [
-        {
-          "name": "Pete Gordon",
-          "role": "host",
-          "title": "",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon",
-          "linkedin_exact": false,
-          "twitter": "petegordon"
-        }
-      ]
-    },
-    {
-      "id": 128595,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Open Source : Votre passerelle vers une carrière tech internationale",
-      "chapter": "GDG Lubumbashi",
-      "chapter_url": "https://gdg.community.dev/gdg-lubumbashi/",
-      "where": "Lubumbashi, Haut-Katanga, CD",
-      "country": "CD",
-      "start_local": "2026-09-04T14:00:00-04:00",
-      "end_local": "2026-09-04T15:30:00-04:00",
-      "when": "Fri Sep 04, 2026 at 2:00 PM ET",
+      "title": "Connected by Code: Alumni Meetup",
+      "chapter": "GDG on Campus Vidyalankar Institute of Technology - Mumbai, India",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india/",
+      "where": "Mumbai, Maharashtra, IN",
+      "country": "IN",
+      "start_local": "2026-09-05T08:03:39-04:00",
+      "end_local": "2026-09-05T09:03:39-04:00",
+      "when": "Sat Sep 05, 2026 at 8:03 AM ET",
       "registration": "Free registration",
       "tags": [],
-      "blurb": "Et si votre prochain projet, votre prochaine collaboration ou même votre prochaine opportunité professionnelle venait de...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-lubumbashi-presents-open-source-votre-passerelle-vers-une-carriere-tech-internationale-2026-09-04/",
-      "new": false,
+      "blurb": "On August 27, 2026, at 5 PM, 'Connected by Code' kicks off at Vidyalankar Institute of Technology. Alumni are invited to reconnect, share tech journeys, and explore collaboration on innovative projects. Join this inspiring event to exchange ideas and strengthen community ties. RSVP to shape the future together.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india-presents-connected-by-code-alumni-meetup/",
+      "new": true,
       "people": []
     },
     {
@@ -272,29 +216,6 @@
           "twitter": ""
         }
       ]
-    },
-    {
-      "id": 128665,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Cloud, AI and Security Study Jams - Kickstart your certification journey",
-      "chapter": "GDG Cloud Jinja",
-      "chapter_url": "https://gdg.community.dev/gdg-cloud-jinja/",
-      "where": "Jinja, Eastern Region, UG",
-      "country": "UG",
-      "start_local": "2026-09-05T11:00:00-04:00",
-      "end_local": "2026-09-05T12:00:00-04:00",
-      "when": "Sat Sep 05, 2026 at 11:00 AM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "AI",
-        "Certification Study Group",
-        "Google Cloud"
-      ],
-      "blurb": "We invite you to participate in our immersive Cloud, AI, and Security Study Jams. This event offers a fantastic opportun...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-cloud-ai-and-security-study-jams-kickstart-your-certification-journey/",
-      "new": false,
-      "people": []
     },
     {
       "id": 129677,
@@ -459,6 +380,41 @@
       ]
     },
     {
+      "id": 129900,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Introducción al Cálculo Infinitesimal & Avanzado",
+      "chapter": "GDG CDMX",
+      "chapter_url": "https://gdg.community.dev/gdg-cdmx/",
+      "where": "Mexico City, CDMX, MX",
+      "country": "MX",
+      "start_local": "2026-09-05T21:00:00-04:00",
+      "end_local": "2026-09-05T22:00:00-04:00",
+      "when": "Sat Sep 05, 2026 at 9:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Explora el cálculo infinitesimal y avanzado con una revisión de derivadas y optimización. Aprende sobre el gradiente, su aplicación en IA y codifica el algoritmo de descenso del gradiente en Python. Visualiza convergencias usando Matplotlib y Seaborn. Ideal para quienes buscan comprender la minimización de funciones de error y cómo usar SciPy para la optimización matemática.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado/",
+      "new": true,
+      "people": [
+        {
+          "name": "Geovanni Zepeda",
+          "role": "speaker",
+          "title": "Data Scientist",
+          "company": "DEVF",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
       "id": 111954,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -508,6 +464,27 @@
       "blurb": "Join us as we explore the technology and architecture behind Vercel and discover how it powers and optimizes modern web applications.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia-presents-control-architecture-episode-3-how-does-vercel-work/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 129690,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Miss GDG ? We Miss You Too! 👀💙",
+      "chapter": "GDG on Campus Priyadarshini College of Engineering - Nagpur, India",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-priyadarshini-college-of-engineering-nagpur-india/",
+      "where": "Nagpur, Maharashtra, IN",
+      "country": "IN",
+      "start_local": "2026-09-07T11:00:00-04:00",
+      "end_local": "2026-09-07T11:30:00-04:00",
+      "when": "Mon Sep 07, 2026 at 11:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Discover the exciting journey of GDG On Campus at Priyadarshini College of Engineering, Nagpur. This info session reveals upcoming initiatives, events, and learning opportunities within the GDG OC community. Learn how to get involved and grow with us as we explore a new year of possibilities. Ideal for those eager to connect and expand their horizons. Join us curious and leave inspired.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-priyadarshini-college-of-engineering-nagpur-india-presents-miss-gdg-we-miss-you-too/",
+      "new": true,
       "people": []
     },
     {
@@ -585,7 +562,7 @@
       "tags": [],
       "blurb": "Join the inaugural \"Welcome & Connect\" event at the University of Embu to celebrate the launch of GDG on Campus. This is ideal for tech enthusiasts of all levels to network, learn about GDG's mission, and get involved. Enjoy light refreshments while building a vibrant tech community. RSVP to be part of the excitement.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1012,7 +989,7 @@
       ],
       "blurb": "Join Dan Peluso for a code camp on mobile career development. Learn to turn app ideas into businesses, prepare for coding interviews, and discover Boston companies hiring mobile developers. Gain insights and ask questions to advance in the dynamic mobile industry. Ideal for aspiring developers in the mobile space.",
       "url": "https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Dan Peluso",
@@ -1101,7 +1078,7 @@
       ],
       "blurb": "Join the free online talk on September 17 at 14:00 (CEST) to explore how coding assistants are revolutionizing software engineering. Led by ML Architect Tamás Móricz, learn practical strategies to enhance coding agents and balance human understanding. Discover methods to evaluate performance, abstraction, and output management through real-world examples. Registration required.",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-budapest-presents-ai-stories-from-the-trenches-being-an-e2e-software-engineer-in-an-agentic-age/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1120,7 +1097,7 @@
       "tags": [],
       "blurb": "Attendees are invited to bring their laptops and discover how the Google Maps Platform and AI can enhance location-based experiences. Ideal for developers and tech enthusiasts eager to integrate advanced mapping and AI technologies into their projects.",
       "url": "https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-3-maps-and-ai/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1143,7 +1120,7 @@
       ],
       "blurb": "Join GDG San Jose for an interactive talk and workshop with Hemanth HM on running Large Language Models directly inside ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Hemanth HM",
@@ -1177,8 +1154,103 @@
       ],
       "blurb": "Secure Your Stuff: Cybersecurity Summit offers an engaging virtual session with top experts sharing practical tips on protecting your phone, passwords, social media, and personal information. Ideal for anyone looking to enhance their digital safety, the event is free and interactive. Join to learn how to stay smart and secure in today's digital world. Panelists are to be announced soon.",
       "url": "https://gdg.community.dev/events/details/google-gdg-nashville-presents-secure-your-stuff-cybersecurity-summit/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 120254,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "GDG Columbus: Shots On Goal",
+      "chapter": "GDG Columbus",
+      "chapter_url": "https://gdg.community.dev/gdg-columbus/",
+      "where": "Columbus, OH, US",
+      "country": "US",
+      "start_local": "2026-09-18T08:00:00-04:00",
+      "end_local": "2026-09-18T09:00:00-04:00",
+      "when": "Fri Sep 18, 2026 at 8:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Career Development",
+        "Community Building",
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Connect with Pete and Jim Friday morning to discuss your current projects! Show off your successes! Discuss future plans!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-18/",
+      "new": true,
+      "people": [
+        {
+          "name": "Pete Gordon",
+          "role": "host",
+          "title": "",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon",
+          "linkedin_exact": false,
+          "twitter": "petegordon"
+        }
+      ]
+    },
+    {
+      "id": 129055,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Chai اور Code : ep#2",
+      "chapter": "GDG Live Pakistan",
+      "chapter_url": "https://gdg.community.dev/gdg-live-pakistan/",
+      "where": "Peshawar, Khyber Pakhtunkhwa, PK",
+      "country": "PK",
+      "start_local": "2026-09-18T11:30:00-04:00",
+      "end_local": "2026-09-21T14:00:00-04:00",
+      "when": "Fri Sep 18, 2026 at 11:30 AM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Chai اور Code is our monthly build session. two hours, one theme, whatever you can ship.ep1 had 220+ people. 110+ shippe...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-chai-wr-code-ep2/",
       "new": true,
       "people": []
+    },
+    {
+      "id": 129634,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Applying concepts from Domain-Driven Design to Agentic Development",
+      "chapter": "GDG Madison",
+      "chapter_url": "https://gdg.community.dev/gdg-madison/",
+      "where": "Madison, WI, US",
+      "country": "US",
+      "start_local": "2026-09-18T13:00:00-04:00",
+      "end_local": "2026-09-18T14:00:00-04:00",
+      "when": "Fri Sep 18, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "Build with AI",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Explore the evolution of software architecture with domain mapping and bounded context design. This event is perfect for developers and architects eager to integrate these foundational practices in the age of agentic development.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-madison-presents-applying-concepts-from-domain-driven-design-to-agentic-development/",
+      "new": true,
+      "people": [
+        {
+          "name": "Josh Armstrong",
+          "role": "speaker",
+          "title": "Principal Architect",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Josh%20Armstrong",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Naveen VK",
+          "role": "host",
+          "title": "Technical Director",
+          "company": "nvisia",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Naveen%20VK%20nvisia",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     }
   ],
   "people": [
@@ -1295,6 +1367,22 @@
       ]
     },
     {
+      "name": "Geovanni Zepeda",
+      "role": "speaker",
+      "title": "Data Scientist",
+      "company": "DEVF",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Introducción al Cálculo Infinitesimal & Avanzado",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado/",
+          "when": "Sat Sep 05, 2026 at 9:00 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Hemanth HM",
       "role": "speaker",
       "title": "GDE, Sr. Staff Software Engineering Manager",
@@ -1307,6 +1395,22 @@
           "title": "LLM on your browser",
           "url": "https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/",
           "when": "Thu Sep 17, 2026 at 7:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Josh Armstrong",
+      "role": "speaker",
+      "title": "Principal Architect",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Josh%20Armstrong",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Applying concepts from Domain-Driven Design to Agentic Development",
+          "url": "https://gdg.community.dev/events/details/google-gdg-madison-presents-applying-concepts-from-domain-driven-design-to-agentic-development/",
+          "when": "Fri Sep 18, 2026 at 1:00 PM ET"
         }
       ]
     },
@@ -1359,6 +1463,22 @@
       ]
     },
     {
+      "name": "Naveen VK",
+      "role": "host",
+      "title": "Technical Director",
+      "company": "nvisia",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Naveen%20VK%20nvisia",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Applying concepts from Domain-Driven Design to Agentic Development",
+          "url": "https://gdg.community.dev/events/details/google-gdg-madison-presents-applying-concepts-from-domain-driven-design-to-agentic-development/",
+          "when": "Fri Sep 18, 2026 at 1:00 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Nicolás Lecaros",
       "role": "speaker",
       "title": "",
@@ -1385,13 +1505,13 @@
       "events": [
         {
           "title": "GDG Columbus: Shots On Goal",
-          "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-04/",
-          "when": "Fri Sep 04, 2026 at 8:00 AM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-11/",
+          "when": "Fri Sep 11, 2026 at 8:00 AM ET"
         },
         {
           "title": "GDG Columbus: Shots On Goal",
-          "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-11/",
-          "when": "Fri Sep 11, 2026 at 8:00 AM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-18/",
+          "when": "Fri Sep 18, 2026 at 8:00 AM ET"
         }
       ]
     },

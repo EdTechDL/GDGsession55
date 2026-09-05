@@ -1,25 +1,25 @@
-# GDG events, Sep 04 to Sep 18
+# GDG events, Sep 05 to Sep 19
 
-Generated Fri Sep 04, 2026 10:41 AM ET. 7 in person nearby, 37 online, 7 new since the last check.
+Generated Sat Sep 05, 2026 9:38 AM ET. 7 in person nearby, 39 online, 6 new since the last check.
 
 ## New since the last check
 
-- **Wed Sep 09, 2026 at 8:00 AM ET** **NEW**: [Welcome & Connect: GDGoC at UoEm Kickoff](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/)  
-  GDG on Campus University of Embu - Embu, Kenya | Embu, Embu, KE | Free registration
-- **Tue Sep 15, 2026 at 7:00 PM ET** **NEW**: [Code Camp: Mobile Development as a Career](https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/) (hybrid, also online)  
-  GDG Boston Android | West Village H, Boston, MA, US | Free registration with Bevy Virtual Conference  
-  speaker: Dan Peluso | Senior Software Engineer, Klaviyo ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo))
-- **Thu Sep 17, 2026 at 8:00 AM ET** **NEW**: [AI Stories from the Trenches - Being an E2E software engineer in an agentic age](https://gdg.community.dev/events/details/google-gdg-cloud-budapest-presents-ai-stories-from-the-trenches-being-an-e2e-software-engineer-in-an-agentic-age/)  
-  GDG Cloud Budapest | Budapest, Budapest, HU | Free registration
-- **Thu Sep 17, 2026 at 2:00 PM ET** **NEW**: [AI Lab 3: Maps and AI](https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-3-maps-and-ai/)  
-  GDG Maseru | Maseru, Maseru, LS | Free registration
-- **Thu Sep 17, 2026 at 6:00 PM ET** **NEW**: [Build with AI: Build Your First AI Companion](https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-build-your-first-ai-companion/)  
-  GDG Mississauga | IDEA Mississauga, Mississauga, ON, CA | Free registration
-- **Thu Sep 17, 2026 at 7:00 PM ET** **NEW**: [LLM on your browser](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/)  
-  GDG San Jose | San Jose, CA, US | Free registration  
-  speaker: Hemanth HM | GDE, Sr. Staff Software Engineering Manager, PayPal ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Hemanth%20HM%20PayPal))
-- **Thu Sep 17, 2026 at 7:00 PM ET** **NEW**: [Secure Your Stuff: Cybersecurity Summit](https://gdg.community.dev/events/details/google-gdg-nashville-presents-secure-your-stuff-cybersecurity-summit/)  
-  GDG Nashville | Nashville, TN, US | Free registration with Bevy Virtual Conference
+- **Sat Sep 05, 2026 at 8:03 AM ET** **NEW**: [Connected by Code: Alumni Meetup](https://gdg.community.dev/events/details/google-gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india-presents-connected-by-code-alumni-meetup/)  
+  GDG on Campus Vidyalankar Institute of Technology - Mumbai, India | Mumbai, Maharashtra, IN | Free registration
+- **Sat Sep 05, 2026 at 9:00 PM ET** **NEW**: [Introducción al Cálculo Infinitesimal & Avanzado](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado/)  
+  GDG CDMX | Mexico City, CDMX, MX | Free registration  
+  speaker: Geovanni Zepeda | Data Scientist, DEVF ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF))
+- **Mon Sep 07, 2026 at 11:00 AM ET** **NEW**: [Miss GDG ? We Miss You Too! 👀💙](https://gdg.community.dev/events/details/google-gdg-on-campus-priyadarshini-college-of-engineering-nagpur-india-presents-miss-gdg-we-miss-you-too/)  
+  GDG on Campus Priyadarshini College of Engineering - Nagpur, India | Nagpur, Maharashtra, IN | Free registration
+- **Fri Sep 18, 2026 at 8:00 AM ET** **NEW**: [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-18/)  
+  GDG Columbus | Columbus, OH, US | Free registration  
+  host: Pete Gordon ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon))
+- **Fri Sep 18, 2026 at 11:30 AM ET** **NEW**: [Chai اور Code : ep#2](https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-chai-wr-code-ep2/)  
+  GDG Live Pakistan | Peshawar, Khyber Pakhtunkhwa, PK | Free registration
+- **Fri Sep 18, 2026 at 1:00 PM ET** **NEW**: [Applying concepts from Domain-Driven Design to Agentic Development](https://gdg.community.dev/events/details/google-gdg-madison-presents-applying-concepts-from-domain-driven-design-to-agentic-development/)  
+  GDG Madison | Madison, WI, US | Free registration  
+  speaker: Josh Armstrong | Principal Architect ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Josh%20Armstrong))  
+  host: Naveen VK | Technical Director, nvisia ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Naveen%20VK%20nvisia))
 
 ## In person: Ontario (Windsor to Ottawa) and Michigan
 
@@ -33,26 +33,19 @@ Generated Fri Sep 04, 2026 10:41 AM ET. 7 in person nearby, 37 online, 7 new sin
   GDG on Campus Wilfrid Laurier University - Waterloo, Canada | Spur Innovation Loft, Kitchener, ON, CA | External registration
 - **Mon Sep 14, 2026 at 6:30 PM ET**: [GDG Ottawa Ice Cream Social: Devfest  Info Exchange](https://gdg.community.dev/events/details/google-gdg-ottawa-presents-gdg-ottawa-ice-cream-social-devfest-info-exchange/)  
   GDG Ottawa | Room #101, Kingston Hall, Kingston, ON, CA | External registration
-- **Wed Sep 16, 2026 at 4:00 PM ET**: [How to Win a Hackathon: Ideas, Teams & Speaker Night x Shipaton](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-toronto-st-george-campus-toronto-canada-presents-how-to-win-a-hackathon-ideas-teams-amp-speaker-night-x-shipaton/)  
-  GDG on Campus University of Toronto, St. George Campus - Toronto, Canada | Myhal Centre for Engineering Innovation and Entrepreneurship (MY), Toronto, ON, CA | Free registration
-- **Thu Sep 17, 2026 at 6:00 PM ET** **NEW**: [Build with AI: Build Your First AI Companion](https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-build-your-first-ai-companion/)  
+- **Wed Sep 16, 2026 at 4:30 PM ET**: [How to Win a Hackathon: Ideas, Teams & Speaker Night x Shipaton](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-toronto-st-george-campus-toronto-canada-presents-how-to-win-a-hackathon-ideas-teams-amp-speaker-night-x-shipaton/)  
+  GDG on Campus University of Toronto, St. George Campus - Toronto, Canada | William Doo Auditorium - Room A, Toronto, ON, CA | Free registration
+- **Thu Sep 17, 2026 at 6:00 PM ET**: [Build with AI: Build Your First AI Companion](https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-build-your-first-ai-companion/)  
   GDG Mississauga | IDEA Mississauga, Mississauga, ON, CA | Free registration
 
 ## Online (starting 8 am to 9 pm ET)
 
-- **Thu Sep 03, 2026 at 9:00 PM ET**: [Utah Flutter Meetup](https://gdg.community.dev/events/details/google-gdg-lindon-presents-utah-flutter-meetup-2026-09-03/) (hybrid, also online)  
-  GDG Lindon | Domo, Inc, American Fork, UT, UT, US | External registration
-- **Fri Sep 04, 2026 at 8:00 AM ET**: [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-04/)  
-  GDG Columbus | Columbus, OH, US | Free registration  
-  host: Pete Gordon ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon))
-- **Fri Sep 04, 2026 at 2:00 PM ET**: [Open Source : Votre passerelle vers une carrière tech internationale](https://gdg.community.dev/events/details/google-gdg-lubumbashi-presents-open-source-votre-passerelle-vers-une-carriere-tech-internationale-2026-09-04/)  
-  GDG Lubumbashi | Lubumbashi, Haut-Katanga, CD | Free registration
+- **Sat Sep 05, 2026 at 8:03 AM ET** **NEW**: [Connected by Code: Alumni Meetup](https://gdg.community.dev/events/details/google-gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india-presents-connected-by-code-alumni-meetup/)  
+  GDG on Campus Vidyalankar Institute of Technology - Mumbai, India | Mumbai, Maharashtra, IN | Free registration
 - **Sat Sep 05, 2026 at 10:00 AM ET**: [Why your LLM system works in Testing but fails in Production](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-why-your-llm-system-works-in-testing-but-fails-in-production/)  
   GDG on Campus University of Management and Technology - Lahore, Pakistan | Lahore, Punjab, PK | Free registration  
   speaker: Aqsa Kausar | Google Developer Expert (ML), Tech Lead @Red Buffer ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Aqsa%20Kausar%20Tech%20Lead%20%40Red%20Buffer))  
   host: Mahnoor Nadeem | Women In Tech Lead, GDGoC UMT ([LinkedIn](https://www.linkedin.com/in/mahnoornadeem))
-- **Sat Sep 05, 2026 at 11:00 AM ET**: [Cloud, AI and Security Study Jams - Kickstart your certification journey](https://gdg.community.dev/events/details/google-gdg-cloud-jinja-presents-cloud-ai-and-security-study-jams-kickstart-your-certification-journey/)  
-  GDG Cloud Jinja | Jinja, Eastern Region, UG | Free registration with Bevy Virtual Conference
 - **Sat Sep 05, 2026 at 12:00 PM ET**: [Insightful SIH Workshop: From Ideation to Execution](https://gdg.community.dev/events/details/google-gdg-on-campus-roorkee-institute-of-technology-roorkee-india-presents-insightful-sih-workshop-from-ideation-to-execution/)  
   GDG on Campus Roorkee Institute of Technology - Roorkee, India | Roorkee, Uttarakhand, IN | Free registration
 - **Sat Sep 05, 2026 at 1:00 PM ET**: [Devs, Chalks'n Gartic Night](https://gdg.community.dev/events/details/google-gdg-trabzon-presents-devs-chalksn-gartic-night/)  
@@ -68,17 +61,22 @@ Generated Fri Sep 04, 2026 10:41 AM ET. 7 in person nearby, 37 online, 7 new sin
   GDG Garanhuns | Garanhuns, PE, BR | Free registration  
   speaker: Gabriel Carvalho | Data|AI Engineer & GDG Organizer, Sauter Digital ([LinkedIn](https://www.linkedin.com/in/iamgabs))  
   speaker: Thiago Barros | ML Engineer & GDG Organizer, MadeiraMadeira ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Thiago%20Barros%20MadeiraMadeira))
+- **Sat Sep 05, 2026 at 9:00 PM ET** **NEW**: [Introducción al Cálculo Infinitesimal & Avanzado](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado/)  
+  GDG CDMX | Mexico City, CDMX, MX | Free registration  
+  speaker: Geovanni Zepeda | Data Scientist, DEVF ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF))
 - **Sun Sep 06, 2026 at 1:00 PM ET**: [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-06/)  
   GDG Cloud Kaduna | Kaduna, Kaduna State, NG | Free registration  
   host: Peter Okwukogu | Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub ([LinkedIn](https://www.linkedin.com/in/ipablo26/))
 - **Sun Sep 06, 2026 at 1:00 PM ET**: [Control Architecture: Episode 3 - How Does Vercel Work?](https://gdg.community.dev/events/details/google-gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia-presents-control-architecture-episode-3-how-does-vercel-work/)  
   GDG on Campus HiLCoE School of Computer Science and Technology - Addis Ababa, Ethiopia | Addis Ababa, Addis Ababa, ET | Free registration
+- **Mon Sep 07, 2026 at 11:00 AM ET** **NEW**: [Miss GDG ? We Miss You Too! 👀💙](https://gdg.community.dev/events/details/google-gdg-on-campus-priyadarshini-college-of-engineering-nagpur-india-presents-miss-gdg-we-miss-you-too/)  
+  GDG on Campus Priyadarshini College of Engineering - Nagpur, India | Nagpur, Maharashtra, IN | Free registration
 - **Mon Sep 07, 2026 at 2:30 PM ET**: [DEEP DIVE SERIES BAMENDA](https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda-2026-09-07/)  
   GDG Bamenda | Bamenda, North-West, CM | Free registration
 - **Tue Sep 08, 2026 at 8:00 PM ET**: [Road to GDE #1: El camino para convertirse en Google Developer Expert (GDE)](https://gdg.community.dev/events/details/google-gdg-caracas-presents-road-to-gde-1-el-camino-para-convertirse-en-google-developer-expert-gde/)  
   GDG Caracas | Caracas, Dto. Capital, VE | Free registration with Bevy Virtual Conference  
   speaker: Nicolás Lecaros | GDE en Google Cloud ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Nicol%C3%A1s%20Lecaros%20GDE%20en%20Google%20Cloud))
-- **Wed Sep 09, 2026 at 8:00 AM ET** **NEW**: [Welcome & Connect: GDGoC at UoEm Kickoff](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/)  
+- **Wed Sep 09, 2026 at 8:00 AM ET**: [Welcome & Connect: GDGoC at UoEm Kickoff](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/)  
   GDG on Campus University of Embu - Embu, Kenya | Embu, Embu, KE | Free registration
 - **Wed Sep 09, 2026 at 12:00 PM ET**: [TechConnect: Beyond Chatbots: Agentic UI with Open Standards (free ticket raffle at the end!)](https://gdg.community.dev/events/details/google-gdg-salzburg-presents-techconnect-beyond-chatbots-agentic-ui-with-open-standards-free-ticket-raffle-at-the-end/)  
   GDG Salzburg | Salzburgo, Salsburgo, AT | Free registration with Bevy Virtual Conference  
@@ -117,7 +115,7 @@ Generated Fri Sep 04, 2026 10:41 AM ET. 7 in person nearby, 37 online, 7 new sin
   host: Peter Okwukogu | Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub ([LinkedIn](https://www.linkedin.com/in/ipablo26/))
 - **Mon Sep 14, 2026 at 2:30 PM ET**: [DEEP DIVE SERIES BAMENDA](https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda-2026-09-14/)  
   GDG Bamenda | Bamenda, North-West, CM | Free registration
-- **Tue Sep 15, 2026 at 7:00 PM ET** **NEW**: [Code Camp: Mobile Development as a Career](https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/) (hybrid, also online)  
+- **Tue Sep 15, 2026 at 7:00 PM ET**: [Code Camp: Mobile Development as a Career](https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/) (hybrid, also online)  
   GDG Boston Android | West Village H, Boston, MA, US | Free registration with Bevy Virtual Conference  
   speaker: Dan Peluso | Senior Software Engineer, Klaviyo ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo))
 - **Tue Sep 15, 2026 at 9:00 PM ET**: [From Questions to Answers: Building Cross-System Data Agents with Google's Data Agent Kit](https://gdg.community.dev/events/details/google-gdg-burnaby-presents-from-questions-to-answers-building-cross-system-data-agents-with-googles-data-agent-kit/)  
@@ -125,15 +123,24 @@ Generated Fri Sep 04, 2026 10:41 AM ET. 7 in person nearby, 37 online, 7 new sin
   speaker: Sireesha Pulipati | Staff Data Engineer, Shopify ([LinkedIn](https://www.linkedin.com/in/sireesha-pulipati/))
 - **Wed Sep 16, 2026 at 8:00 PM ET**: [Generative AI Leader Series - Session #3: Navigate the landscape](https://gdg.community.dev/events/details/google-gdg-lawrence-presents-generative-ai-leader-series-session-3-navigate-the-landscape/)  
   GDG Lawrence | Lawrence, MA, US | Free registration with Bevy Virtual Conference
-- **Thu Sep 17, 2026 at 8:00 AM ET** **NEW**: [AI Stories from the Trenches - Being an E2E software engineer in an agentic age](https://gdg.community.dev/events/details/google-gdg-cloud-budapest-presents-ai-stories-from-the-trenches-being-an-e2e-software-engineer-in-an-agentic-age/)  
+- **Thu Sep 17, 2026 at 8:00 AM ET**: [AI Stories from the Trenches - Being an E2E software engineer in an agentic age](https://gdg.community.dev/events/details/google-gdg-cloud-budapest-presents-ai-stories-from-the-trenches-being-an-e2e-software-engineer-in-an-agentic-age/)  
   GDG Cloud Budapest | Budapest, Budapest, HU | Free registration
-- **Thu Sep 17, 2026 at 2:00 PM ET** **NEW**: [AI Lab 3: Maps and AI](https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-3-maps-and-ai/)  
+- **Thu Sep 17, 2026 at 2:00 PM ET**: [AI Lab 3: Maps and AI](https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-3-maps-and-ai/)  
   GDG Maseru | Maseru, Maseru, LS | Free registration
-- **Thu Sep 17, 2026 at 7:00 PM ET** **NEW**: [LLM on your browser](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/)  
+- **Thu Sep 17, 2026 at 7:00 PM ET**: [LLM on your browser](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/)  
   GDG San Jose | San Jose, CA, US | Free registration  
   speaker: Hemanth HM | GDE, Sr. Staff Software Engineering Manager, PayPal ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Hemanth%20HM%20PayPal))
-- **Thu Sep 17, 2026 at 7:00 PM ET** **NEW**: [Secure Your Stuff: Cybersecurity Summit](https://gdg.community.dev/events/details/google-gdg-nashville-presents-secure-your-stuff-cybersecurity-summit/)  
+- **Thu Sep 17, 2026 at 7:00 PM ET**: [Secure Your Stuff: Cybersecurity Summit](https://gdg.community.dev/events/details/google-gdg-nashville-presents-secure-your-stuff-cybersecurity-summit/)  
   GDG Nashville | Nashville, TN, US | Free registration with Bevy Virtual Conference
+- **Fri Sep 18, 2026 at 8:00 AM ET** **NEW**: [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-18/)  
+  GDG Columbus | Columbus, OH, US | Free registration  
+  host: Pete Gordon ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon))
+- **Fri Sep 18, 2026 at 11:30 AM ET** **NEW**: [Chai اور Code : ep#2](https://gdg.community.dev/events/details/google-gdg-live-pakistan-presents-chai-wr-code-ep2/)  
+  GDG Live Pakistan | Peshawar, Khyber Pakhtunkhwa, PK | Free registration
+- **Fri Sep 18, 2026 at 1:00 PM ET** **NEW**: [Applying concepts from Domain-Driven Design to Agentic Development](https://gdg.community.dev/events/details/google-gdg-madison-presents-applying-concepts-from-domain-driven-design-to-agentic-development/)  
+  GDG Madison | Madison, WI, US | Free registration  
+  speaker: Josh Armstrong | Principal Architect ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Josh%20Armstrong))  
+  host: Naveen VK | Technical Director, nvisia ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Naveen%20VK%20nvisia))
 
 ## People to connect with (speakers and hosts)
 
@@ -144,12 +151,15 @@ Generated Fri Sep 04, 2026 10:41 AM ET. 7 in person nearby, 37 online, 7 new sin
 - Dan Peluso | Senior Software Engineer, Klaviyo ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo)) at [Code Camp: Mobile Development as a Career](https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/)
 - Denys Doroshev | C0-founder & COO @ Proofa, GDG Ahlen Organizer ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Denys%20Doroshev%20GDG%20Ahlen%20Organizer)) at [Build with AI 2026: Build Secure AI Agents 🚀](https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-build-secure-ai-agents/)
 - Gabriel Carvalho | Data|AI Engineer & GDG Organizer, Sauter Digital ([LinkedIn](https://www.linkedin.com/in/iamgabs)) at [Memória Agêntica: como agentes de IA lembram, esquecem e usam contexto](https://gdg.community.dev/events/details/google-gdg-garanhuns-presents-memoria-agentica-como-agentes-de-ia-lembram-esquecem-e-usam-contexto/)
+- Geovanni Zepeda | Data Scientist, DEVF ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF)) at [Introducción al Cálculo Infinitesimal & Avanzado](https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado/)
 - Hemanth HM | GDE, Sr. Staff Software Engineering Manager, PayPal ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Hemanth%20HM%20PayPal)) at [LLM on your browser](https://gdg.community.dev/events/details/google-gdg-san-jose-presents-llm-on-your-browser/)
+- Josh Armstrong | Principal Architect ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Josh%20Armstrong)) at [Applying concepts from Domain-Driven Design to Agentic Development](https://gdg.community.dev/events/details/google-gdg-madison-presents-applying-concepts-from-domain-driven-design-to-agentic-development/)
 - Mahnoor Nadeem | Women In Tech Lead, GDGoC UMT ([LinkedIn](https://www.linkedin.com/in/mahnoornadeem)) at [Why your LLM system works in Testing but fails in Production](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-why-your-llm-system-works-in-testing-but-fails-in-production/)
 - Manfred Steyer | Trainer and Consultant with focus on Angular ([LinkedIn](https://www.linkedin.com/in/manfred-steyer-84645821/)) at [TechConnect: Beyond Chatbots: Agentic UI with Open Standards (free ticket raffle at the end!)](https://gdg.community.dev/events/details/google-gdg-salzburg-presents-techconnect-beyond-chatbots-agentic-ui-with-open-standards-free-ticket-raffle-at-the-end/)
 - Martino Yovo | Product Engineer, Esri ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Martino%20Yovo%20Esri)) at [GDG Frisco Build Night: From Zero to Hero — AI-Powered Flutter Apps](https://gdg.community.dev/events/details/google-gdg-frisco-presents-gdg-frisco-build-night-from-zero-to-hero-ai-powered-flutter-apps/)
+- Naveen VK | Technical Director, nvisia ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Naveen%20VK%20nvisia)) at [Applying concepts from Domain-Driven Design to Agentic Development](https://gdg.community.dev/events/details/google-gdg-madison-presents-applying-concepts-from-domain-driven-design-to-agentic-development/)
 - Nicolás Lecaros | GDE en Google Cloud ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Nicol%C3%A1s%20Lecaros%20GDE%20en%20Google%20Cloud)) at [Road to GDE #1: El camino para convertirse en Google Developer Expert (GDE)](https://gdg.community.dev/events/details/google-gdg-caracas-presents-road-to-gde-1-el-camino-para-convertirse-en-google-developer-expert-gde/)
-- Pete Gordon ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon)) at [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-04/); [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-11/)
+- Pete Gordon ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon)) at [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-11/); [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-09-18/)
 - Peter Okwukogu | Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub ([LinkedIn](https://www.linkedin.com/in/ipablo26/)) at [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-06/); [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-13/)
 - Sireesha Pulipati | Staff Data Engineer, Shopify ([LinkedIn](https://www.linkedin.com/in/sireesha-pulipati/)) at [From Questions to Answers: Building Cross-System Data Agents with Google's Data Agent Kit](https://gdg.community.dev/events/details/google-gdg-burnaby-presents-from-questions-to-answers-building-cross-system-data-agents-with-googles-data-agent-kit/)
 - Tarik Huber | CEO, Ecronix ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Tarik%20Huber%20Ecronix)) at [TechConnect: Beyond Chatbots: Agentic UI with Open Standards (free ticket raffle at the end!)](https://gdg.community.dev/events/details/google-gdg-salzburg-presents-techconnect-beyond-chatbots-agentic-ui-with-open-standards-free-ticket-raffle-at-the-end/)
