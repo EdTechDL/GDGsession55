@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-06T09:52:56.351876-04:00",
-  "window_start": "2026-09-06",
-  "window_end": "2026-09-20",
+  "generated": "2026-09-07T12:14:24.374609-04:00",
+  "window_start": "2026-09-07",
+  "window_end": "2026-09-21",
   "in_person": [
     {
       "id": 129706,
@@ -184,82 +184,39 @@
       ],
       "blurb": "The Detroit Latin Heritage Month Innovation Summit at Wayne State University on September 19th brings together technologists and leaders from Southwest Detroit. Focused on the theme \"Break the Pattern in Michigan's Tech Ecosystem,\" the event features talks, workshops, and networking aimed at advancing equity and innovation. Join to celebrate diverse voices shaping the future of tech.",
       "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 126694,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "Case Closed: Sheridan's Official Case Study Competition",
+      "chapter": "GDG on Campus Sheridan College, Trafalgar Road Campus - Oakville, Canada",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada/",
+      "where": "Touchdown Coworking Space, Oakville, ON, CA",
+      "country": "CA",
+      "start_local": "2026-09-20T09:00:00-04:00",
+      "end_local": "2026-09-20T19:00:00-04:00",
+      "when": "Sun Sep 20, 2026 at 9:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Community Building",
+        "Google Workspace",
+        "Hackathon",
+        "UX / UI Design",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join us at Case Closed, where 60 students come together for an exhilarating one-day competition spanning three key areas...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-case-closed-sheridans-official-case-study-competition/",
       "new": true,
       "people": []
     }
   ],
   "online": [
-    {
-      "id": 129894,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "TechMap",
-      "chapter": "GDG on Campus Asansol Engineering College - Asansol, India",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-asansol-engineering-college-asansol-india/",
-      "where": "Asansol, West Bengal, IN",
-      "country": "IN",
-      "start_local": "2026-09-06T09:30:00-04:00",
-      "end_local": "2026-09-06T12:30:00-04:00",
-      "when": "Sun Sep 06, 2026 at 9:30 AM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Explore the journey from first year to career placement in this insightful event. Ideal for students eager to navigate their academic and professional paths effectively. Gain valuable insights and strategies to achieve career success.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-asansol-engineering-college-asansol-india-presents-techmap/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 111954,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Data Science-AI-Cloud Sundays",
-      "chapter": "GDG Cloud Kaduna",
-      "chapter_url": "https://gdg.community.dev/gdg-cloud-kaduna/",
-      "where": "Kaduna, Kaduna State, NG",
-      "country": "NG",
-      "start_local": "2026-09-06T13:00:00-04:00",
-      "end_local": "2026-09-06T15:00:00-04:00",
-      "when": "Sun Sep 06, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "Google Cloud",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Join us for an exciting deep dive into \"Cloud-Native Data Science for Beginners\". In this interactive session, we’ll unr...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-06/",
-      "new": false,
-      "people": [
-        {
-          "name": "Peter Okwukogu",
-          "role": "host",
-          "title": "Google Developer Expert (GDE) for Data Cloud",
-          "company": "CoLab Innovation Hub",
-          "linkedin": "https://www.linkedin.com/in/ipablo26/",
-          "linkedin_exact": true,
-          "twitter": "ipablo26"
-        }
-      ]
-    },
-    {
-      "id": 129752,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Control Architecture: Episode 3 - How Does Vercel Work?",
-      "chapter": "GDG on Campus HiLCoE School of Computer Science and Technology - Addis Ababa, Ethiopia",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia/",
-      "where": "Addis Ababa, Addis Ababa, ET",
-      "country": "ET",
-      "start_local": "2026-09-06T13:00:00-04:00",
-      "end_local": "2026-09-06T14:00:00-04:00",
-      "when": "Sun Sep 06, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join us as we explore the technology and architecture behind Vercel and discover how it powers and optimizes modern web applications.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-hilcoe-school-of-computer-science-and-technology-addis-ababa-ethiopia-presents-control-architecture-episode-3-how-does-vercel-work/",
-      "new": false,
-      "people": []
-    },
     {
       "id": 129690,
       "kind": "online",
@@ -428,6 +385,28 @@
       "blurb": "Join Ricardo Useche on September 9, 2026, for an insightful workshop on blending the Google Maps Platform with AI. Ideal for beginners to intermediates, this session offers innovative solution-building skills and networking with like-minded peers. Don't miss the chance to elevate your expertise and start creating. Reserve your spot today!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-north-carolina-at-state-university-presents-building-innovatively-with-google-maps-and-ai/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 129984,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Pandas Power Hour",
+      "chapter": "GDG on Campus Kenyatta University - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-kenyatta-university-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-09-09T13:00:00-04:00",
+      "end_local": "2026-09-09T14:00:00-04:00",
+      "when": "Wed Sep 09, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Career Development",
+        "Community Building"
+      ],
+      "blurb": "Explore the power of Pandas, a crucial Python library for data scientists tackling exploratory data analysis and machine learning. This engaging, hands-on session is perfect for those eager to understand its essential role in data workflows.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kenyatta-university-nairobi-kenya-presents-pandas-power-hour/",
+      "new": true,
       "people": []
     },
     {
@@ -784,7 +763,7 @@
       ],
       "blurb": "Prepare for your Google Cloud Professional DevOps Engineer certification with a 6-week Study Group. Enjoy weekly live sessions, access video courses, and engage in hands-on training. Join the supportive online community to ask questions and share insights. Ideal for those looking to enhance their cloud skills and boost their certification readiness.",
       "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-devops-certification/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Yancel Salinas",
@@ -1114,7 +1093,7 @@
       ],
       "blurb": "Salt Lake City's premier developer conference. Deconstruct the reality of modern systems and recompile your knowledge. Two days of deep-stack sessions, workshops, and community.",
       "url": "https://gdg.community.dev/events/details/google-gdg-salt-lake-city-presents-devfest-slc-2026/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "John Christiansen",
@@ -1192,8 +1171,41 @@
       ],
       "blurb": "\"Embrace the AI Revolution: Adapt and Thrive\" .It's 2026, not 2022 and AI is moving fast into production, and it change...",
       "url": "https://gdg.community.dev/events/details/google-gdg-bamako-presents-ai-is-no-longer-coming-its-already-here-and-its-changing-everything/",
-      "new": true,
+      "new": false,
       "people": []
+    },
+    {
+      "id": 111957,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Data Science-AI-Cloud Sundays",
+      "chapter": "GDG Cloud Kaduna",
+      "chapter_url": "https://gdg.community.dev/gdg-cloud-kaduna/",
+      "where": "Kaduna, Kaduna State, NG",
+      "country": "NG",
+      "start_local": "2026-09-20T13:00:00-04:00",
+      "end_local": "2026-09-20T15:00:00-04:00",
+      "when": "Sun Sep 20, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "Google Cloud",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join us for an exciting deep dive into \"Cloud-Native Data Science for Beginners\". In this interactive session, we’ll unr...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-20/",
+      "new": true,
+      "people": [
+        {
+          "name": "Peter Okwukogu",
+          "role": "host",
+          "title": "Google Developer Expert (GDE) for Data Cloud",
+          "company": "CoLab Innovation Hub",
+          "linkedin": "https://www.linkedin.com/in/ipablo26/",
+          "linkedin_exact": true,
+          "twitter": "ipablo26"
+        }
+      ]
     }
   ],
   "people": [
@@ -1485,13 +1497,13 @@
       "events": [
         {
           "title": "Data Science-AI-Cloud Sundays",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-06/",
-          "when": "Sun Sep 06, 2026 at 1:00 PM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-13/",
+          "when": "Sun Sep 13, 2026 at 1:00 PM ET"
         },
         {
           "title": "Data Science-AI-Cloud Sundays",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-13/",
-          "when": "Sun Sep 13, 2026 at 1:00 PM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-20/",
+          "when": "Sun Sep 20, 2026 at 1:00 PM ET"
         }
       ]
     },
