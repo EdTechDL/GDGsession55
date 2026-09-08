@@ -1,8 +1,27 @@
 {
-  "generated": "2026-09-07T12:14:24.374609-04:00",
-  "window_start": "2026-09-07",
-  "window_end": "2026-09-21",
+  "generated": "2026-09-08T10:51:00.521013-04:00",
+  "window_start": "2026-09-08",
+  "window_end": "2026-09-22",
   "in_person": [
+    {
+      "id": 130066,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "Quest 2: Intro to Next.js and Firebase",
+      "chapter": "GDG on Campus University of Michigan-Dearborn - Dearborn, United States",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states/",
+      "where": "James C. Renick University Center, Dearborn, MI, US",
+      "country": "US",
+      "start_local": "2026-09-08T13:00:00-04:00",
+      "end_local": "2026-09-08T14:00:00-04:00",
+      "when": "Tue Sep 08, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "The 2nd installment in our Weekly Workshop series, cueing up to Hack Dearborn. Come join us to learn more about Next.js and Firebase!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states-presents-quest-2-intro-to-nextjs-and-firebase/",
+      "new": true,
+      "people": []
+    },
     {
       "id": 129706,
       "kind": "in_person",
@@ -21,32 +40,8 @@
         "Conference",
         "Tech Talk / Meetup"
       ],
-      "blurb": "Join GDG on Campus MSU to launch the 2026 semester! Meet the team, discover future plans, and find out how to get involved. Connect with fellow students who share an interest in tech, community, and professional growth.",
+      "blurb": "Join GDG on Campus MSU to launch the 2026 semester! Meet the team, discover future plans, and find out how to get involved. Connect with fellow students who share an interest in tech, community, and professional growth.\nLocation: engineering building , room 1225",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-michigan-state-university-east-lansing-united-states-presents-fall-2026-kickoff/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 128979,
-      "kind": "in_person",
-      "audience_type": "IN_PERSON",
-      "title": "Welcome to GDG @ Seneca: Info Session",
-      "chapter": "GDG on Campus Seneca Polytechnic - Toronto, Canada",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-seneca-polytechnic-toronto-canada/",
-      "where": "Seneca Polytechnic Newnham Campus (HELIX Conference Room), Toronto, ON, CA",
-      "country": "CA",
-      "start_local": "2026-09-10T13:00:00-04:00",
-      "end_local": "2026-09-10T16:00:00-04:00",
-      "when": "Thu Sep 10, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Career Development",
-        "Community Building",
-        "Networking",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Kick Off the Fall with GDG @ Seneca!📍 Location: Newnham Campus – Helix Conference Room📅 Date: Wednesday, September 9th🕐 ...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-welcome-to-gdg-seneca-info-session/",
       "new": false,
       "people": []
     },
@@ -109,6 +104,27 @@
       "blurb": "The GDG Ottawa Ice Cream Social kicks off the season at Queen's U, offering a chance to learn about the upcoming Devfest and Qmind Hackathon. Enjoy ice cream while networking and discovering opportunities to get involved. It's a relaxed setting to build connections. Don't miss this chance to dive into the tech community.",
       "url": "https://gdg.community.dev/events/details/google-gdg-ottawa-presents-gdg-ottawa-ice-cream-social-devfest-info-exchange/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 130067,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "Quest 3: Intro to Google ADK",
+      "chapter": "GDG on Campus University of Michigan-Dearborn - Dearborn, United States",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states/",
+      "where": "James C. Renick University Center, Dearborn, MI, US",
+      "country": "US",
+      "start_local": "2026-09-15T15:30:00-04:00",
+      "end_local": "2026-09-15T16:30:00-04:00",
+      "when": "Tue Sep 15, 2026 at 3:30 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Workshop / hands-on session"
+      ],
+      "blurb": "The 3rd installment in our Weekly Workshop series, cueing up to Hack Dearborn. Come join us to learn more about Google ADK!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states-presents-quest-3-intro-to-google-adk/",
+      "new": true,
       "people": []
     },
     {
@@ -212,55 +228,50 @@
       ],
       "blurb": "Join us at Case Closed, where 60 students come together for an exhilarating one-day competition spanning three key areas...",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-case-closed-sheridans-official-case-study-competition/",
-      "new": true,
+      "new": false,
       "people": []
     }
   ],
   "online": [
     {
-      "id": 129690,
+      "id": 130054,
       "kind": "online",
       "audience_type": "VIRTUAL",
-      "title": "Miss GDG ? We Miss You Too! 👀💙",
-      "chapter": "GDG on Campus Priyadarshini College of Engineering - Nagpur, India",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-priyadarshini-college-of-engineering-nagpur-india/",
-      "where": "Nagpur, Maharashtra, IN",
-      "country": "IN",
-      "start_local": "2026-09-07T11:00:00-04:00",
-      "end_local": "2026-09-07T11:30:00-04:00",
-      "when": "Mon Sep 07, 2026 at 11:00 AM ET",
+      "title": "Perfect your Pitch/Career Fair Prep",
+      "chapter": "GDG on Campus Rensselaer Polytechnic Institute - Troy, United States",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-rensselaer-polytechnic-institute-troy-united-states/",
+      "where": "Troy, NY, US",
+      "country": "US",
+      "start_local": "2026-09-08T18:00:00-04:00",
+      "end_local": "2026-09-08T20:00:00-04:00",
+      "when": "Tue Sep 08, 2026 at 6:00 PM ET",
       "registration": "Free registration",
-      "tags": [
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Discover the exciting journey of GDG On Campus at Priyadarshini College of Engineering, Nagpur. This info session reveals upcoming initiatives, events, and learning opportunities within the GDG OC community. Learn how to get involved and grow with us as we explore a new year of possibilities. Ideal for those eager to connect and expand their horizons. Join us curious and leave inspired.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-priyadarshini-college-of-engineering-nagpur-india-presents-miss-gdg-we-miss-you-too/",
-      "new": false,
+      "tags": [],
+      "blurb": "Join us Tuesday at 6pm in LOW 3051 for a networking workshop focused on making memorable impressions. Learn techniques to effectively present yourself and practice with fellow attendees. Enhance your ability to stand out in a crowd and increase your success. Don't miss this opportunity to boost your skills.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-rensselaer-polytechnic-institute-troy-united-states-presents-perfect-your-pitchcareer-fair-prep/",
+      "new": true,
       "people": []
     },
     {
-      "id": 128449,
+      "id": 130070,
       "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "DEEP DIVE SERIES BAMENDA",
-      "chapter": "GDG Bamenda",
-      "chapter_url": "https://gdg.community.dev/gdg-bamenda/",
-      "where": "Bamenda, North-West, CM",
-      "country": "CM",
-      "start_local": "2026-09-07T14:30:00-04:00",
-      "end_local": "2026-09-07T15:30:00-04:00",
-      "when": "Mon Sep 07, 2026 at 2:30 PM ET",
-      "registration": "Free registration",
+      "audience_type": "HYBRID",
+      "title": "GDG UWGB Bi-Weekly Meeting 26-1",
+      "chapter": "GDG on Campus University of Wisconsin - Green Bay",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-wisconsin-green-bay/",
+      "where": "University Union , Room 125, Green Bay, WI, US",
+      "country": "US",
+      "start_local": "2026-09-08T19:00:00-04:00",
+      "end_local": "2026-09-08T20:30:00-04:00",
+      "when": "Tue Sep 08, 2026 at 7:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
       "tags": [
-        "Career Development",
-        "Community Building",
         "Networking",
-        "UX / UI Design",
-        "Workshop / hands-on session"
+        "Tech Talk / Meetup"
       ],
-      "blurb": "Join GDG Bamenda for our 6-week Deep Dive Series! We are focusing on innovation and practical skill-building for the Bamenda tech and startup ecosystem. Expect intensive 1-hour technical sessions spanning all technology stacks and skill levels, from beginner to expert. Whether you are building the next big startup or mastering a new language, come level up your skills with the community!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda-2026-09-07/",
-      "new": false,
+      "blurb": "The GDG UWGB Bi-Weekly Meeting on September 8, 2026, at the University of Wisconsin–Green Bay is open to all members. Attendees will hear updates, discuss future events, explore tech topics, and discover involvement opportunities. It’s a chance for both new and returning members to engage with the community and learn about GDG UWGB activities.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-wisconsin-green-bay-presents-gdg-uwgb-bi-weekly-meeting-26-1/",
+      "new": true,
       "people": []
     },
     {
@@ -296,25 +307,6 @@
           "twitter": ""
         }
       ]
-    },
-    {
-      "id": 129861,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Welcome & Connect: GDGoC at UoEm Kickoff",
-      "chapter": "GDG on Campus University of Embu - Embu, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-embu-embu-kenya/",
-      "where": "Embu, Embu, KE",
-      "country": "KE",
-      "start_local": "2026-09-09T08:00:00-04:00",
-      "end_local": "2026-09-09T09:00:00-04:00",
-      "when": "Wed Sep 09, 2026 at 8:00 AM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join the inaugural \"Welcome & Connect\" event at the University of Embu to celebrate the launch of GDG on Campus. This is ideal for tech enthusiasts of all levels to network, learn about GDG's mission, and get involved. Enjoy light refreshments while building a vibrant tech community. RSVP to be part of the excitement.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-welcome-amp-connect-gdgoc-at-uoem-kickoff/",
-      "new": false,
-      "people": []
     },
     {
       "id": 128469,
@@ -406,7 +398,7 @@
       ],
       "blurb": "Explore the power of Pandas, a crucial Python library for data scientists tackling exploratory data analysis and machine learning. This engaging, hands-on session is perfect for those eager to understand its essential role in data workflows.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kenyatta-university-nairobi-kenya-presents-pandas-power-hour/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -532,7 +524,26 @@
       "blurb": "No tienes que ser geógrafo, ni experto en teledetección, ni saber programar. Con Climate Engine obtienes las áreas afect...",
       "url": "https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-climate-engine-analisis-satelital-sin-escribir-codigo-sobre-google-earth-engine/",
       "new": false,
-      "people": []
+      "people": [
+        {
+          "name": "Alberto Castillo Aroca",
+          "role": "speaker",
+          "title": "Forward Deployed Engineer",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/in/alcastaro",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Juana Casique",
+          "role": "speaker",
+          "title": "Google Cloud & AI Technical Trainer",
+          "company": "Google Developers Group",
+          "linkedin": "https://www.linkedin.com/in/juanacasique",
+          "linkedin_exact": true,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 120248,
@@ -544,7 +555,7 @@
       "where": "Columbus, OH, US",
       "country": "US",
       "start_local": "2026-09-11T08:00:00-04:00",
-      "end_local": "2026-09-11T09:00:00-04:00",
+      "end_local": "2026-09-11T08:30:00-04:00",
       "when": "Fri Sep 11, 2026 at 8:00 AM ET",
       "registration": "Free registration",
       "tags": [
@@ -681,6 +692,35 @@
           "company": "GDG Ahlen Organizer",
           "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Denys%20Doroshev%20GDG%20Ahlen%20Organizer",
           "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
+      "id": 130053,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "AyosPush : comment créez votre bot",
+      "chapter": "GDG Libreville",
+      "chapter_url": "https://gdg.community.dev/gdg-libreville/",
+      "where": "Libreville, Estuaire, GA",
+      "country": "GA",
+      "start_local": "2026-09-12T13:00:00-04:00",
+      "end_local": "2026-09-12T16:00:00-04:00",
+      "when": "Sat Sep 12, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Créez votre premier bot WhatsApp de A à Z avec Arthur MVONE AYORATOU, à partir du cas réel AyosPush : compte Meta, accès à l'API et automatisation. En ligne et gratuit.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-libreville-presents-ayospush-comment-creez-votre-bot/",
+      "new": true,
+      "people": [
+        {
+          "name": "Arthur MVONE AYORATOU",
+          "role": "speaker",
+          "title": "Développeur backend",
+          "company": "ANINF",
+          "linkedin": "https://www.linkedin.com/in/mvone-ayoratou-arthur-bb967a1aa",
+          "linkedin_exact": true,
           "twitter": ""
         }
       ]
@@ -1194,7 +1234,7 @@
       ],
       "blurb": "Join us for an exciting deep dive into \"Cloud-Native Data Science for Beginners\". In this interactive session, we’ll unr...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-20/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Peter Okwukogu",
@@ -1206,9 +1246,61 @@
           "twitter": "ipablo26"
         }
       ]
+    },
+    {
+      "id": 129859,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Agent Improv: Build an AI Agent Live",
+      "chapter": "GDG Tirana",
+      "chapter_url": "https://gdg.community.dev/gdg-tirana/",
+      "where": "Tiranë, Tirana County, AL",
+      "country": "AL",
+      "start_local": "2026-09-21T12:00:00-04:00",
+      "end_local": "2026-09-21T13:15:00-04:00",
+      "when": "Mon Sep 21, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "AI - Gemini Enterprise Agent Platform",
+        "AI - Gemma",
+        "Google Cloud",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "What happens when you let the audience decide what you build?",
+      "url": "https://gdg.community.dev/events/details/google-gdg-tirana-presents-agent-improv-build-an-ai-agent-live/",
+      "new": true,
+      "people": [
+        {
+          "name": "Holt Skinner",
+          "role": "speaker",
+          "title": "Developer Advocate, Cloud AI",
+          "company": "Google",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Holt%20Skinner%20Google",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     }
   ],
   "people": [
+    {
+      "name": "Alberto Castillo Aroca",
+      "role": "speaker",
+      "title": "Forward Deployed Engineer",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/in/alcastaro",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Climate Engine: análisis satelital sin escribir código, sobre Google Earth Engine",
+          "url": "https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-climate-engine-analisis-satelital-sin-escribir-codigo-sobre-google-earth-engine/",
+          "when": "Thu Sep 10, 2026 at 7:30 PM ET"
+        }
+      ]
+    },
     {
       "name": "Ankur Roy",
       "role": "speaker",
@@ -1238,6 +1330,22 @@
           "title": "Build with AI 2026: Build Secure AI Agents 🚀",
           "url": "https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-build-secure-ai-agents/",
           "when": "Sat Sep 12, 2026 at 10:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Arthur MVONE AYORATOU",
+      "role": "speaker",
+      "title": "Développeur backend",
+      "company": "ANINF",
+      "linkedin": "https://www.linkedin.com/in/mvone-ayoratou-arthur-bb967a1aa",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "AyosPush : comment créez votre bot",
+          "url": "https://gdg.community.dev/events/details/google-gdg-libreville-presents-ayospush-comment-creez-votre-bot/",
+          "when": "Sat Sep 12, 2026 at 1:00 PM ET"
         }
       ]
     },
@@ -1322,6 +1430,22 @@
       ]
     },
     {
+      "name": "Holt Skinner",
+      "role": "speaker",
+      "title": "Developer Advocate, Cloud AI",
+      "company": "Google",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Holt%20Skinner%20Google",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Agent Improv: Build an AI Agent Live",
+          "url": "https://gdg.community.dev/events/details/google-gdg-tirana-presents-agent-improv-build-an-ai-agent-live/",
+          "when": "Mon Sep 21, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
       "name": "John Christiansen",
       "role": "speaker",
       "title": "Professor",
@@ -1382,6 +1506,22 @@
           "title": "DevFest SLC 2026",
           "url": "https://gdg.community.dev/events/details/google-gdg-salt-lake-city-presents-devfest-slc-2026/",
           "when": "Sat Sep 19, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Juana Casique",
+      "role": "speaker",
+      "title": "Google Cloud & AI Technical Trainer",
+      "company": "Google Developers Group",
+      "linkedin": "https://www.linkedin.com/in/juanacasique",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Climate Engine: análisis satelital sin escribir código, sobre Google Earth Engine",
+          "url": "https://gdg.community.dev/events/details/google-gdg-santo-domingo-presents-climate-engine-analisis-satelital-sin-escribir-codigo-sobre-google-earth-engine/",
+          "when": "Thu Sep 10, 2026 at 7:30 PM ET"
         }
       ]
     },
