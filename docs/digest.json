@@ -1,50 +1,8 @@
 {
-  "generated": "2026-09-08T10:51:00.521013-04:00",
-  "window_start": "2026-09-08",
-  "window_end": "2026-09-22",
+  "generated": "2026-09-09T10:57:59.362867-04:00",
+  "window_start": "2026-09-09",
+  "window_end": "2026-09-23",
   "in_person": [
-    {
-      "id": 130066,
-      "kind": "in_person",
-      "audience_type": "IN_PERSON",
-      "title": "Quest 2: Intro to Next.js and Firebase",
-      "chapter": "GDG on Campus University of Michigan-Dearborn - Dearborn, United States",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states/",
-      "where": "James C. Renick University Center, Dearborn, MI, US",
-      "country": "US",
-      "start_local": "2026-09-08T13:00:00-04:00",
-      "end_local": "2026-09-08T14:00:00-04:00",
-      "when": "Tue Sep 08, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "The 2nd installment in our Weekly Workshop series, cueing up to Hack Dearborn. Come join us to learn more about Next.js and Firebase!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states-presents-quest-2-intro-to-nextjs-and-firebase/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 129706,
-      "kind": "in_person",
-      "audience_type": "IN_PERSON",
-      "title": "Fall 2026 Kickoff",
-      "chapter": "GDG on Campus Michigan State University - East Lansing, United States",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-michigan-state-university-east-lansing-united-states/",
-      "where": "MSU College of Engineering, East Lansing, MI, US",
-      "country": "US",
-      "start_local": "2026-09-08T18:00:00-04:00",
-      "end_local": "2026-09-08T19:00:00-04:00",
-      "when": "Tue Sep 08, 2026 at 6:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Community Building",
-        "Conference",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Join GDG on Campus MSU to launch the 2026 semester! Meet the team, discover future plans, and find out how to get involved. Connect with fellow students who share an interest in tech, community, and professional growth.\nLocation: engineering building , room 1225",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-michigan-state-university-east-lansing-united-states-presents-fall-2026-kickoff/",
-      "new": false,
-      "people": []
-    },
     {
       "id": 129484,
       "kind": "in_person",
@@ -124,7 +82,7 @@
       ],
       "blurb": "The 3rd installment in our Weekly Workshop series, cueing up to Hack Dearborn. Come join us to learn more about Google ADK!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states-presents-quest-3-intro-to-google-adk/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -230,84 +188,30 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-sheridan-college-trafalgar-road-campus-oakville-canada-presents-case-closed-sheridans-official-case-study-competition/",
       "new": false,
       "people": []
+    },
+    {
+      "id": 130068,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "Quest 4: Intro to PyTorch and OpenCV",
+      "chapter": "GDG on Campus University of Michigan-Dearborn - Dearborn, United States",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states/",
+      "where": "James C. Renick University Center, Dearborn, MI, US",
+      "country": "US",
+      "start_local": "2026-09-22T13:00:00-04:00",
+      "end_local": "2026-09-22T14:00:00-04:00",
+      "when": "Tue Sep 22, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Workshop / hands-on session"
+      ],
+      "blurb": "The 4th installment in our Weekly Workshop series, cueing up to Hack Dearborn. Come join us to learn more about PyTorch and OpenCV!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states-presents-quest-4-intro-to-pytorch-and-opencv/",
+      "new": true,
+      "people": []
     }
   ],
   "online": [
-    {
-      "id": 130054,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Perfect your Pitch/Career Fair Prep",
-      "chapter": "GDG on Campus Rensselaer Polytechnic Institute - Troy, United States",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-rensselaer-polytechnic-institute-troy-united-states/",
-      "where": "Troy, NY, US",
-      "country": "US",
-      "start_local": "2026-09-08T18:00:00-04:00",
-      "end_local": "2026-09-08T20:00:00-04:00",
-      "when": "Tue Sep 08, 2026 at 6:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join us Tuesday at 6pm in LOW 3051 for a networking workshop focused on making memorable impressions. Learn techniques to effectively present yourself and practice with fellow attendees. Enhance your ability to stand out in a crowd and increase your success. Don't miss this opportunity to boost your skills.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-rensselaer-polytechnic-institute-troy-united-states-presents-perfect-your-pitchcareer-fair-prep/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 130070,
-      "kind": "online",
-      "audience_type": "HYBRID",
-      "title": "GDG UWGB Bi-Weekly Meeting 26-1",
-      "chapter": "GDG on Campus University of Wisconsin - Green Bay",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-wisconsin-green-bay/",
-      "where": "University Union , Room 125, Green Bay, WI, US",
-      "country": "US",
-      "start_local": "2026-09-08T19:00:00-04:00",
-      "end_local": "2026-09-08T20:30:00-04:00",
-      "when": "Tue Sep 08, 2026 at 7:00 PM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "Networking",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "The GDG UWGB Bi-Weekly Meeting on September 8, 2026, at the University of Wisconsin–Green Bay is open to all members. Attendees will hear updates, discuss future events, explore tech topics, and discover involvement opportunities. It’s a chance for both new and returning members to engage with the community and learn about GDG UWGB activities.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-wisconsin-green-bay-presents-gdg-uwgb-bi-weekly-meeting-26-1/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 128076,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Road to GDE #1: El camino para convertirse en Google Developer Expert (GDE)",
-      "chapter": "GDG Caracas",
-      "chapter_url": "https://gdg.community.dev/gdg-caracas/",
-      "where": "Caracas, Dto. Capital, VE",
-      "country": "VE",
-      "start_local": "2026-09-08T20:00:00-04:00",
-      "end_local": "2026-09-08T21:30:00-04:00",
-      "when": "Tue Sep 08, 2026 at 8:00 PM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "Career Development",
-        "Community Building",
-        "Networking",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "¿Te has preguntado qué se necesita para convertirse en un Google Developer Expert (GDE)?En esta sesión, Nicolás Lecaros,...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-caracas-presents-road-to-gde-1-el-camino-para-convertirse-en-google-developer-expert-gde/",
-      "new": false,
-      "people": [
-        {
-          "name": "Nicolás Lecaros",
-          "role": "speaker",
-          "title": "",
-          "company": "GDE en Google Cloud",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nicol%C3%A1s%20Lecaros%20GDE%20en%20Google%20Cloud",
-          "linkedin_exact": false,
-          "twitter": ""
-        }
-      ]
-    },
     {
       "id": 128469,
       "kind": "online",
@@ -359,6 +263,25 @@
           "twitter": "TarikHuber"
         }
       ]
+    },
+    {
+      "id": 130206,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Become a GDG On Campus Organizer!",
+      "chapter": "GDG on Campus Ramgarh Engineering College - Ramgarh, India",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-ramgarh-engineering-college-ramgarh-india/",
+      "where": "Ramgarh, Jharkhand, IN",
+      "country": "IN",
+      "start_local": "2026-09-09T12:00:00-04:00",
+      "end_local": "2026-09-09T13:00:00-04:00",
+      "when": "Wed Sep 09, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join the GDG Info Session at Ramgarh Engineering College on September 9, 2026, at 9:30 PM to learn how to become an organizer for the 2026-27 term. Enhance your leadership skills and contribute significantly to the community. Discover application steps, responsibilities, and get your questions answered. Bring your passion and ideas to help shape the future of our GDG community.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-ramgarh-engineering-college-ramgarh-india-presents-become-a-gdg-on-campus-organizer/",
+      "new": true,
+      "people": []
     },
     {
       "id": 129614,
@@ -422,6 +345,102 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-rochester-institute-of-technology-rochester-usa-presents-first-general-meeting-of-the-semester-1/",
       "new": false,
       "people": []
+    },
+    {
+      "id": 130193,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Internal Hackathon for  Smart India Hackathon 2026",
+      "chapter": "GDG on Campus MCKV Institute of Engineering - Howrah, India",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-mckv-institute-of-engineering-howrah-india/",
+      "where": "Howrah, West Bengal, IN",
+      "country": "IN",
+      "start_local": "2026-09-10T10:00:00-04:00",
+      "end_local": "2026-09-11T13:00:00-04:00",
+      "when": "Thu Sep 10, 2026 at 10:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Conference",
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "The Motivational Talk Series 2026 features inspiring speakers across two evenings, starting September 10th with Mr. Abhijit Bose and Mr. Abhay Nath at 7:30 PM and 8:00 PM, respectively. On September 11th, hear from Dr. Soumyajit Ghorai, Mr. Sudeep Samanta, and Mr. Rahul Chakraborty from 7:30 PM. Join for motivation and stories that inspire dreams and achievement. Don't miss it!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+      "new": true,
+      "people": [
+        {
+          "name": "Mr. Avijit Bose",
+          "role": "speaker",
+          "title": "HOD CSE",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Avijit%20Bose",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Mr. Abhay Nath",
+          "role": "speaker",
+          "title": "AI-ML Research Scientist-II",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/in/abhaynath001/",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Dr. Soumyajit Ghorai",
+          "role": "speaker",
+          "title": "Assistant Professor",
+          "company": "Basic Science and Humanities",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dr.%20Soumyajit%20Ghorai%20Basic%20Science%20and%20Humanities",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Rahul Chakraborty",
+          "role": "speaker",
+          "title": "Senior DevOps and GenAI Architecr",
+          "company": "Ericsson",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rahul%20Chakraborty%20Ericsson",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Mr. Sudeep Samanta",
+          "role": "speaker",
+          "title": "Assistant Professor",
+          "company": "Electrical Engineering",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Sudeep%20Samanta%20Electrical%20Engineering",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Debayan Ghosh",
+          "role": "host",
+          "title": "GDGOC MCKVIE ORGANIZER",
+          "company": "MCKV Institute of Engineering",
+          "linkedin": "https://www.linkedin.com/in/myself-debayan-ghosh/",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Debroop Datta",
+          "role": "host",
+          "title": "CSE 4th YEAR",
+          "company": "MCKV Institute of Engineering",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Debroop%20Datta%20MCKV%20Institute%20of%20Engineering",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Indrajit Biswas",
+          "role": "host",
+          "title": "CSE 4th YEAR",
+          "company": "MCKV Institute of Engineering",
+          "linkedin": "https://www.linkedin.com/in/indrajit-biswas404/",
+          "linkedin_exact": true,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 126617,
@@ -645,6 +664,46 @@
       "people": []
     },
     {
+      "id": 130205,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Kubernetes para quem já desenvolve",
+      "chapter": "GDG Petrolina",
+      "chapter_url": "https://gdg.community.dev/gdg-petrolina/",
+      "where": "Petrolina, PE, BR",
+      "country": "BR",
+      "start_local": "2026-09-11T18:00:00-04:00",
+      "end_local": "2026-09-11T21:30:00-04:00",
+      "when": "Fri Sep 11, 2026 at 6:00 PM ET",
+      "registration": "Paid registration",
+      "tags": [
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join Esron Silva on September 11, 2026, for a practical online workshop designed for software developers who want to learn Kubernetes. Discover key concepts, deploy a simple API on a local cluster, and troubleshoot using kubectl. Gain insights into YAML, explore Pods, ReplicaSets, and more. Ideal for those with intermediate skills seeking to enhance their Kubernetes knowledge.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-petrolina-presents-kubernetes-para-quem-ja-desenvolve/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 130146,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "From Idea to Interface | UI/UX Workshop",
+      "chapter": "GDG on Campus Suez University - Suez, Egypt",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-suez-university-suez-egypt/",
+      "where": "Suez, Egypt, Suez, EG",
+      "country": "EG",
+      "start_local": "2026-09-12T08:00:00-04:00",
+      "end_local": "2026-10-03T10:00:00-04:00",
+      "when": "Sat Sep 12, 2026 at 8:00 AM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join GDG On Campus Suez University for a 4-session UI/UX workshop starting September 12, every Saturday at 3 PM. Led by Maryam Tamer, explore UI vs UX, design thinking, typography, color theory, grids, spacing, auto layout, and more. This is perfect for those looking to transform ideas into engaging digital experiences. Register now to secure your spot.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-suez-university-suez-egypt-presents-from-idea-to-interface-uiux-workshop-2026-09-12/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 128472,
       "kind": "online",
       "audience_type": "HYBRID",
@@ -712,7 +771,7 @@
       "tags": [],
       "blurb": "Créez votre premier bot WhatsApp de A à Z avec Arthur MVONE AYORATOU, à partir du cas réel AyosPush : compte Meta, accès à l'API et automatisation. En ligne et gratuit.",
       "url": "https://gdg.community.dev/events/details/google-gdg-libreville-presents-ayospush-comment-creez-votre-bot/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Arthur MVONE AYORATOU",
@@ -852,6 +911,40 @@
           "title": "Senior Software Engineer",
           "company": "Klaviyo",
           "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
+      "id": 128076,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Road to GDE #1: El camino para convertirse en Google Developer Expert (GDE)",
+      "chapter": "GDG Caracas",
+      "chapter_url": "https://gdg.community.dev/gdg-caracas/",
+      "where": "Caracas, Dto. Capital, VE",
+      "country": "VE",
+      "start_local": "2026-09-15T20:00:00-04:00",
+      "end_local": "2026-09-15T21:30:00-04:00",
+      "when": "Tue Sep 15, 2026 at 8:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Career Development",
+        "Community Building",
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "¿Te has preguntado qué se necesita para convertirse en un Google Developer Expert (GDE)?En esta sesión, Nicolás Lecaros,...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-caracas-presents-road-to-gde-1-el-camino-para-convertirse-en-google-developer-expert-gde/",
+      "new": false,
+      "people": [
+        {
+          "name": "Nicolás Lecaros",
+          "role": "speaker",
+          "title": "",
+          "company": "GDE en Google Cloud",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nicol%C3%A1s%20Lecaros%20GDE%20en%20Google%20Cloud",
           "linkedin_exact": false,
           "twitter": ""
         }
@@ -1108,6 +1201,25 @@
       ]
     },
     {
+      "id": 130150,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "From Idea to Interface | UI/UX Workshop",
+      "chapter": "GDG on Campus Suez University - Suez, Egypt",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-suez-university-suez-egypt/",
+      "where": "Suez, Egypt, Suez, EG",
+      "country": "EG",
+      "start_local": "2026-09-19T08:00:00-04:00",
+      "end_local": "2026-10-10T10:00:00-04:00",
+      "when": "Sat Sep 19, 2026 at 8:00 AM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join GDG On Campus Suez University for a comprehensive 4-session UI/UX workshop starting September 12. Dive into design fundamentals, including UI vs. UX, Design Thinking, Typography, Color Theory, Grids, and more, under the guidance of Maryam Tamer. Sessions are every Saturday at 3 PM. Ideal for anyone eager to enhance their digital design skills. Register now to bring your ideas to life.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-suez-university-suez-egypt-presents-from-idea-to-interface-uiux-workshop-2026-09-19/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 124980,
       "kind": "online",
       "audience_type": "HYBRID",
@@ -1270,7 +1382,7 @@
       ],
       "blurb": "What happens when you let the audience decide what you build?",
       "url": "https://gdg.community.dev/events/details/google-gdg-tirana-presents-agent-improv-build-an-ai-agent-live/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Holt Skinner",
@@ -1282,6 +1394,54 @@
           "twitter": ""
         }
       ]
+    },
+    {
+      "id": 123457,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Virtual \"Show and Tell\" of Projects by the Community",
+      "chapter": "GDG Central Florida",
+      "chapter_url": "https://gdg.community.dev/gdg-central-florida/",
+      "where": "Orlando, FL, US",
+      "country": "US",
+      "start_local": "2026-09-22T19:00:00-04:00",
+      "end_local": "2026-09-22T20:00:00-04:00",
+      "when": "Tue Sep 22, 2026 at 7:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "Android",
+        "Community Building",
+        "Firebase",
+        "Google Cloud",
+        "Web"
+      ],
+      "blurb": "Ready to showcase your creativity and ingenuity? Want to see what fun, cool, and innovative projects community members a...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-central-florida-presents-virtual-show-and-tell-of-projects-by-the-community-2026-09-22/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 130071,
+      "kind": "online",
+      "audience_type": "HYBRID",
+      "title": "GDG UWGB Bi-Weekly Meeting 26-2",
+      "chapter": "GDG on Campus University of Wisconsin - Green Bay",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-wisconsin-green-bay/",
+      "where": "University Union, Room 125, Green Bay, WI, US",
+      "country": "US",
+      "start_local": "2026-09-22T19:00:00-04:00",
+      "end_local": "2026-09-22T20:30:00-04:00",
+      "when": "Tue Sep 22, 2026 at 7:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "GDG UWGB invites all members and tech enthusiasts to their Bi-Weekly Kickoff Meeting. Attendees will enjoy community updates, discussions on upcoming events, and explorations of tech topics. It's an opportunity to connect, share ideas, and get involved with GDG on Campus UW–Green Bay. Join to start a vibrant tech journey together.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-wisconsin-green-bay-presents-gdg-uwgb-bi-weekly-meeting-26-2/",
+      "new": true,
+      "people": []
     }
   ],
   "people": [
@@ -1398,6 +1558,38 @@
       ]
     },
     {
+      "name": "Debayan Ghosh",
+      "role": "host",
+      "title": "GDGOC MCKVIE ORGANIZER",
+      "company": "MCKV Institute of Engineering",
+      "linkedin": "https://www.linkedin.com/in/myself-debayan-ghosh/",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Internal Hackathon for  Smart India Hackathon 2026",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Debroop Datta",
+      "role": "host",
+      "title": "CSE 4th YEAR",
+      "company": "MCKV Institute of Engineering",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Debroop%20Datta%20MCKV%20Institute%20of%20Engineering",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Internal Hackathon for  Smart India Hackathon 2026",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Denys Doroshev",
       "role": "host",
       "title": "C0-founder & COO @ Proofa",
@@ -1410,6 +1602,22 @@
           "title": "Build with AI 2026: Build Secure AI Agents 🚀",
           "url": "https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-build-secure-ai-agents/",
           "when": "Sat Sep 12, 2026 at 10:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Dr. Soumyajit Ghorai",
+      "role": "speaker",
+      "title": "Assistant Professor",
+      "company": "Basic Science and Humanities",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dr.%20Soumyajit%20Ghorai%20Basic%20Science%20and%20Humanities",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Internal Hackathon for  Smart India Hackathon 2026",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
         }
       ]
     },
@@ -1442,6 +1650,22 @@
           "title": "Agent Improv: Build an AI Agent Live",
           "url": "https://gdg.community.dev/events/details/google-gdg-tirana-presents-agent-improv-build-an-ai-agent-live/",
           "when": "Mon Sep 21, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Indrajit Biswas",
+      "role": "host",
+      "title": "CSE 4th YEAR",
+      "company": "MCKV Institute of Engineering",
+      "linkedin": "https://www.linkedin.com/in/indrajit-biswas404/",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Internal Hackathon for  Smart India Hackathon 2026",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
         }
       ]
     },
@@ -1574,6 +1798,54 @@
       ]
     },
     {
+      "name": "Mr. Abhay Nath",
+      "role": "speaker",
+      "title": "AI-ML Research Scientist-II",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/in/abhaynath001/",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Internal Hackathon for  Smart India Hackathon 2026",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Mr. Avijit Bose",
+      "role": "speaker",
+      "title": "HOD CSE",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Avijit%20Bose",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Internal Hackathon for  Smart India Hackathon 2026",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Mr. Sudeep Samanta",
+      "role": "speaker",
+      "title": "Assistant Professor",
+      "company": "Electrical Engineering",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Sudeep%20Samanta%20Electrical%20Engineering",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Internal Hackathon for  Smart India Hackathon 2026",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Naveen VK",
       "role": "host",
       "title": "Technical Director",
@@ -1601,7 +1873,7 @@
         {
           "title": "Road to GDE #1: El camino para convertirse en Google Developer Expert (GDE)",
           "url": "https://gdg.community.dev/events/details/google-gdg-caracas-presents-road-to-gde-1-el-camino-para-convertirse-en-google-developer-expert-gde/",
-          "when": "Tue Sep 08, 2026 at 8:00 PM ET"
+          "when": "Tue Sep 15, 2026 at 8:00 PM ET"
         }
       ]
     },
@@ -1644,6 +1916,22 @@
           "title": "Data Science-AI-Cloud Sundays",
           "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-20/",
           "when": "Sun Sep 20, 2026 at 1:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Rahul Chakraborty",
+      "role": "speaker",
+      "title": "Senior DevOps and GenAI Architecr",
+      "company": "Ericsson",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Rahul%20Chakraborty%20Ericsson",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Internal Hackathon for  Smart India Hackathon 2026",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
+          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
         }
       ]
     },
