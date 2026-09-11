@@ -1,27 +1,8 @@
 {
-  "generated": "2026-09-10T10:43:16.044412-04:00",
-  "window_start": "2026-09-10",
-  "window_end": "2026-09-24",
+  "generated": "2026-09-11T10:47:04.115480-04:00",
+  "window_start": "2026-09-11",
+  "window_end": "2026-09-25",
   "in_person": [
-    {
-      "id": 129484,
-      "kind": "in_person",
-      "audience_type": "IN_PERSON",
-      "title": "GDG McMaster 2026-27 Info Session",
-      "chapter": "GDG on Campus McMaster University - Hamilton, Canada",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-mcmaster-university-hamilton-canada/",
-      "where": "McMaster University - Hatch 204A/B, Hamilton, ON, CA",
-      "country": "CA",
-      "start_local": "2026-09-10T18:30:00-04:00",
-      "end_local": "2026-09-10T19:30:00-04:00",
-      "when": "Thu Sep 10, 2026 at 6:30 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join GDG McMaster on Thursday, September 10 at 6:30 PM in Hatch 204A/B to learn about upcoming events and meet the leads!\n\nDiscover exciting new opportunities to get involved and find out what we're seeking in recruits.\n\nFollow us on Instagram @gdgmcmaster for updates! \n\nApplications to join the team are open until September 16, 11:59 PM EST.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-gdg-mcmaster-2026-27-info-session/",
-      "new": false,
-      "people": []
-    },
     {
       "id": 128434,
       "kind": "in_person",
@@ -29,7 +10,7 @@
       "title": "From Prompt to Pipeline: Automating Workflows With AI",
       "chapter": "GDG on Campus Wilfrid Laurier University - Waterloo, Canada",
       "chapter_url": "https://gdg.community.dev/gdg-on-campus-wilfrid-laurier-university-waterloo-canada/",
-      "where": "Spur Innovation Loft, Kitchener, ON, CA",
+      "where": "2240 University Ave E, Waterloo, ON, CA",
       "country": "CA",
       "start_local": "2026-09-12T15:00:00-04:00",
       "end_local": "2026-09-12T18:30:00-04:00",
@@ -203,191 +184,53 @@
       ],
       "blurb": "Kick Off the Fall with GDG @ Seneca!📍 Location: Newnham Campus – Helix Conference Room 📅 Date: Wednesday, September 23rd 🕐 ...",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-welcome-to-gdg-seneca-info-session/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 130298,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "How to Actually Build Projects",
+      "chapter": "GDG on Campus Ontario Tech University - Oshawa, Canada",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-ontario-tech-university-oshawa-canada/",
+      "where": "Ontario Tech University, Oshawa, ON, CA",
+      "country": "CA",
+      "start_local": "2026-09-24T16:00:00-04:00",
+      "end_local": "2026-09-24T17:00:19-04:00",
+      "when": "Thu Sep 24, 2026 at 4:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join an inspiring session with Edrees, an intern at General Motors, as he shares his journey of building projects for over 100,000 users. Learn creative project ideas, development tips, and enjoy the building process. Engage with a successful peer and start your own project journey. Perfect for anyone eager to innovate and network. Register now and bring friends for an evening of creativity.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-ontario-tech-university-oshawa-canada-presents-how-to-actually-build-projects/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 128538,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "Build with AI: ADK Crash Course - From Beginner to Expert",
+      "chapter": "GDG Mississauga",
+      "chapter_url": "https://gdg.community.dev/gdg-mississauga/",
+      "where": "IDEA Square One (IDEA Mississauga), Mississauga, ON, CA",
+      "country": "CA",
+      "start_local": "2026-09-24T18:00:00-04:00",
+      "end_local": "2026-09-24T21:00:00-04:00",
+      "when": "Thu Sep 24, 2026 at 6:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI"
+      ],
+      "blurb": "We’re kicking off a new Build with AI series! Each week, explore a new way to build with AI through hands-on sessions, practical projects, and expert speakers. Whether you’re new to AI or already experimenting, come learn, build, and grow with the community!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-mississauga-presents-build-with-ai-adk-crash-course-from-beginner-to-expert/",
       "new": true,
       "people": []
     }
   ],
   "online": [
-    {
-      "id": 130193,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Internal Hackathon for  Smart India Hackathon 2026",
-      "chapter": "GDG on Campus MCKV Institute of Engineering - Howrah, India",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-mckv-institute-of-engineering-howrah-india/",
-      "where": "Howrah, West Bengal, IN",
-      "country": "IN",
-      "start_local": "2026-09-10T10:00:00-04:00",
-      "end_local": "2026-09-11T13:00:00-04:00",
-      "when": "Thu Sep 10, 2026 at 10:00 AM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Conference",
-        "Tech Talk / Meetup",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "The Motivational Talk Series 2026 features inspiring speakers across two evenings, starting September 10th with Mr. Abhijit Bose and Mr. Abhay Nath at 7:30 PM and 8:00 PM, respectively. On September 11th, hear from Dr. Soumyajit Ghorai, Mr. Sudeep Samanta, and Mr. Rahul Chakraborty from 7:30 PM. Join for motivation and stories that inspire dreams and achievement. Don't miss it!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-      "new": false,
-      "people": [
-        {
-          "name": "Mr. Avijit Bose",
-          "role": "speaker",
-          "title": "Assistant Professor and HOD",
-          "company": "Computer Science and Engineering",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Avijit%20Bose%20Computer%20Science%20and%20Engineering",
-          "linkedin_exact": false,
-          "twitter": ""
-        },
-        {
-          "name": "Mr. Abhay Nath",
-          "role": "speaker",
-          "title": "AI-ML Research Scientist-II",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/in/abhaynath001/",
-          "linkedin_exact": true,
-          "twitter": ""
-        },
-        {
-          "name": "Dr. Soumyajit Ghorai",
-          "role": "speaker",
-          "title": "Assistant Professor",
-          "company": "Basic Science and Humanities",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dr.%20Soumyajit%20Ghorai%20Basic%20Science%20and%20Humanities",
-          "linkedin_exact": false,
-          "twitter": ""
-        },
-        {
-          "name": "Mr. Rahul Chakraborty",
-          "role": "speaker",
-          "title": "Senior DevOps and GenAI Architect",
-          "company": "Ericsson",
-          "linkedin": "https://www.linkedin.com/in/rahul-chakraborty-b16446b3/",
-          "linkedin_exact": true,
-          "twitter": ""
-        },
-        {
-          "name": "Mr. Sudeep Samanta",
-          "role": "speaker",
-          "title": "Assistant Professor",
-          "company": "Electrical Engineering",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Sudeep%20Samanta%20Electrical%20Engineering",
-          "linkedin_exact": false,
-          "twitter": ""
-        },
-        {
-          "name": "Debayan Ghosh",
-          "role": "host",
-          "title": "GDGOC MCKVIE ORGANIZER",
-          "company": "MCKV Institute of Engineering",
-          "linkedin": "https://www.linkedin.com/in/myself-debayan-ghosh/",
-          "linkedin_exact": true,
-          "twitter": ""
-        },
-        {
-          "name": "Debroop Datta",
-          "role": "host",
-          "title": "CSE 4th YEAR",
-          "company": "MCKV Institute of Engineering",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Debroop%20Datta%20MCKV%20Institute%20of%20Engineering",
-          "linkedin_exact": false,
-          "twitter": ""
-        },
-        {
-          "name": "Indrajit Biswas",
-          "role": "host",
-          "title": "CSE 4th YEAR",
-          "company": "MCKV Institute of Engineering",
-          "linkedin": "https://www.linkedin.com/in/indrajit-biswas404/",
-          "linkedin_exact": true,
-          "twitter": ""
-        }
-      ]
-    },
-    {
-      "id": 126617,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Small Business AI Clinic: Prompting & Automation Lab (Virtual)",
-      "chapter": "GDG Baltimore",
-      "chapter_url": "https://gdg.community.dev/gdg-baltimore/",
-      "where": "Baltimore, MD, US",
-      "country": "US",
-      "start_local": "2026-09-10T12:00:00-04:00",
-      "end_local": "2026-09-10T13:00:00-04:00",
-      "when": "Thu Sep 10, 2026 at 12:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Build with AI",
-        "Google Cloud",
-        "Tech Talk / Meetup",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "About this EventIs your small business drowning in manual tasks? Do you know AI can help, but you aren't sure where to s...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-baltimore-presents-small-business-ai-clinic-prompting-amp-automation-lab-virtual-2026-09-10/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 129765,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "AI Lab 2: Multiplayer game",
-      "chapter": "GDG Maseru",
-      "chapter_url": "https://gdg.community.dev/gdg-maseru/",
-      "where": "Maseru, Maseru, LS",
-      "country": "LS",
-      "start_local": "2026-09-10T14:00:35-04:00",
-      "end_local": "2026-09-10T15:30:35-04:00",
-      "when": "Thu Sep 10, 2026 at 2:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Participants bring their laptops to explore AI tools in a hands-on Google for Developers lab, gaining experience by launching a multiplayer game.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-2-multiplayer-game/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 127232,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "GDG Frisco Build Night: From Zero to Hero — AI-Powered Flutter Apps",
-      "chapter": "GDG Frisco",
-      "chapter_url": "https://gdg.community.dev/gdg-frisco/",
-      "where": "Frisco, TX, US",
-      "country": "US",
-      "start_local": "2026-09-10T19:30:00-04:00",
-      "end_local": "2026-09-10T20:30:00-04:00",
-      "when": "Thu Sep 10, 2026 at 7:30 PM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "AI - Gemini Enterprise Agent Platform",
-        "Build with AI",
-        "Community Building",
-        "Flutter",
-        "Google Cloud",
-        "Networking",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "In our kickoff session, we explored how AI removes the friction from learning, eliminates boilerplate st...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-frisco-presents-gdg-frisco-build-night-from-zero-to-hero-ai-powered-flutter-apps/",
-      "new": false,
-      "people": [
-        {
-          "name": "Martino Yovo",
-          "role": "speaker",
-          "title": "Product Engineer",
-          "company": "Esri",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Martino%20Yovo%20Esri",
-          "linkedin_exact": false,
-          "twitter": ""
-        }
-      ]
-    },
     {
       "id": 120248,
       "kind": "online",
@@ -423,6 +266,28 @@
       ]
     },
     {
+      "id": 130333,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Be The Next GDGoC Organizer",
+      "chapter": "GDG on Campus St George's College - Erattupetta, India",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-st-georges-college-erattupetta-india/",
+      "where": "Erattupetta, Kerala, IN",
+      "country": "IN",
+      "start_local": "2026-09-11T09:30:00-04:00",
+      "end_local": "2026-09-11T10:30:00-04:00",
+      "when": "Fri Sep 11, 2026 at 9:30 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Community Building",
+        "Networking"
+      ],
+      "blurb": "Join the Info Session to explore becoming a GDGoC Organizer. Discover the role, opportunities, and ways to get involved. Happening on Friday, September 11th at 7:00 PM via Google Meet. Perfect for anyone eager to learn, build, grow, and connect with the GDGoC community.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-st-georges-college-erattupetta-india-presents-be-the-next-gdgoc-organizer/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 129776,
       "kind": "online",
       "audience_type": "HYBRID",
@@ -439,6 +304,28 @@
       "blurb": "Participa en la grabación en vivo del primer episodio de la nueva temporada del podcast 'Welcome to La Secta'. Únete a otros entusiastas de la tecnología en Aranjuez para descubrir lo que los anfitriones tienen preparado. Es una oportunidad única para ver el proceso de creación en directo y conectar con la comunidad. ¡Regístrate y asegura tu lugar!",
       "url": "https://gdg.community.dev/events/details/google-gdg-aranjuez-presents-grabacion-en-vivo-inicio-de-temporada-de-welcome-to-la-secta/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 130163,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Introduction to GDG: Unveiling Opportunities",
+      "chapter": "GDG on Campus Technical University of Kenya - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-technical-university-of-kenya-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-09-11T12:30:00-04:00",
+      "end_local": "2026-09-11T13:30:00-04:00",
+      "when": "Fri Sep 11, 2026 at 12:30 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Conference",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Explore GDG on Campus and discover opportunities, benefits, and exciting projects. Connect with technology enthusiasts and be part of a dynamic, innovative community. Join this enlightening session to learn more and network with peers. Don't miss the chance to innovate together!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-kenya-nairobi-kenya-presents-introduction-to-gdg-unveiling-opportunities/",
+      "new": true,
       "people": []
     },
     {
@@ -599,7 +486,7 @@
       ],
       "blurb": "Join the GDG DeKUT Info Session to discover how you can learn, explore, build, and grow with our community as you kickstart your tech journey!🥳",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-gdg-dekut-info-session-kickstart-your-tech-journey/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -630,6 +517,67 @@
           "twitter": ""
         }
       ]
+    },
+    {
+      "id": 130276,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Empower Yourself: The Art of Self-Learning",
+      "chapter": "GDG on Campus Mustaqbal University",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-mustaqbal-university/",
+      "where": "Buraidá, Kasim, SA",
+      "country": "SA",
+      "start_local": "2026-09-12T13:00:56-04:00",
+      "end_local": "2026-09-12T14:00:56-04:00",
+      "when": "Sat Sep 12, 2026 at 1:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Explore the power of self-learning with GDG on Campus at Mustaqbal University. This inspiring session offers strategies to boost your educational journey, share experiences, and connect with peers. Ideal for students of all levels eager to take control and unlock their potential. Join a community focused on growth and innovation. RSVP now!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mustaqbal-university-presents-empower-yourself-the-art-of-self-learning/",
+      "new": true,
+      "people": [
+        {
+          "name": "Muhammed Almushaiqah",
+          "role": "speaker",
+          "title": "Ai Engineer",
+          "company": "Senior High School Student",
+          "linkedin": "https://www.linkedin.com/in/muhammed-al-mushaiqah-343848344?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+          "linkedin_exact": true,
+          "twitter": "PazeedAbuShnobe"
+        },
+        {
+          "name": "Jood Almutairi",
+          "role": "host",
+          "title": "Software Engineer",
+          "company": "Mustaqbal University",
+          "linkedin": "https://www.linkedin.com/in/devjood",
+          "linkedin_exact": true,
+          "twitter": "devjood"
+        }
+      ]
+    },
+    {
+      "id": 130286,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Founders Pitch Series 4.0",
+      "chapter": "GDG on Campus University of Uyo - Uyo, Nigeria",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-uyo-uyo-nigeria/",
+      "where": "Uyo, Akwa Ibom State, NG",
+      "country": "NG",
+      "start_local": "2026-09-12T15:00:00-04:00",
+      "end_local": "2026-09-12T17:00:00-04:00",
+      "when": "Sat Sep 12, 2026 at 3:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Career Development"
+      ],
+      "blurb": "The Founders Pitch Series returns this Saturday at 8:00 PM. Join to hear inspiring stories and innovative pitches from three dynamic entrepreneurs: Ajose Rehoboth of Nearuni, Ekerette Ekanem from Lisah, and Victor Chukwuebuka of VictorWorks. Ideal for aspiring entrepreneurs, investors, and those interested in groundbreaking business ideas.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-uyo-uyo-nigeria-presents-founders-pitch-series-40/",
+      "new": true,
+      "people": []
     },
     {
       "id": 111955,
@@ -747,7 +695,7 @@
       "tags": [],
       "blurb": "Attend the 'Building Multi-Agent Teams' workshop to explore how AI and robotics agents collaborate effectively. Ideal for enthusiasts of AI, robotics, or team dynamics, this session offers valuable insights and hands-on activities. Enhance your skills and connect with peers. Secure your place now to be a part of the future of collaborative technology!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-building-multi-agent-teams-workshop/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Joy Langat",
@@ -925,7 +873,7 @@
       ],
       "blurb": "Building modern, scalable applications requires more than just writing code-it demands a robust, automated, and cloud-native foundation. Platform engineering simplifies developer workflows by creating automated internal platforms that streamline container deployment, cluster orchestration, and infrastructure management.",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mbarara-presents-cloud-native-platform-engineering-gke-docker-amp-antigravity-cli-in-action-devfest-mbarara-2026/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1318,7 +1266,7 @@
       ],
       "blurb": "🤖 Let us talk AI architecture and how to apply Gen AI to real projects.\n\n☁️ Join GDG Cloud Munich for an exclusive hybrid meetup featuring the MunichTech Expo Conference. \n\n🎟️ Whether in person or online, grab your spot now and be part of the conversation!",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-hybrid-september-community-gathering-feat-munichtech-expo/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Shashank Pandey",
@@ -1348,6 +1296,25 @@
           "twitter": ""
         }
       ]
+    },
+    {
+      "id": 130312,
+      "kind": "online",
+      "audience_type": "HYBRID",
+      "title": "Knowns and Unknowns: Testing AI Generated Code",
+      "chapter": "GDG Jacksonville",
+      "chapter_url": "https://gdg.community.dev/gdg-jacksonville/",
+      "where": "Interactive Resources LLC, Jacksonville, FL, US",
+      "country": "US",
+      "start_local": "2026-09-22T18:00:00-04:00",
+      "end_local": "2026-09-22T19:30:00-04:00",
+      "when": "Tue Sep 22, 2026 at 6:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Explore three phases of testing AI-written code with Java expert Billy Korando in this hybrid event. Learn how to manage challenges like bugs and unintended behavior using spec-driven development, property-based testing, and static analysis. Ideal for developers looking to boost confidence in AI-assisted coding. Join online or in person.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-jacksonville-presents-knowns-and-unknowns-testing-ai-generated-code/",
+      "new": true,
+      "people": []
     },
     {
       "id": 123457,
@@ -1413,7 +1380,7 @@
       "tags": [],
       "blurb": "Join Balaji Subramaniam for ‘Accelerate AI with Cloud Run: New Labs Walkthrough’ on September 23-24, 2026. Ideal for those with intermediate skills eager to enhance their AI projects, this session offers direct learning through engaging labs. Connect with tech enthusiasts across EMEA, AMER, and APAC. Don't miss this chance to elevate your AI expertise!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-north-carolina-at-state-university-presents-accelerate-ai-with-cloud-run-new-labs-walkthrough/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1434,7 +1401,7 @@
       ],
       "blurb": "Most business owners lose leads and frustrate customers the same way: someone visits the website outside of business hours, has a simple question, can't find the answer, and leaves. A chatbot fixes that problem completely. It answers the question, keeps the customer engaged, and hands off to a human when things get more complex.",
       "url": "https://gdg.community.dev/events/details/google-gdg-pittsburgh-presents-for-entrepreneurs-building-ai-chatbots-for-customer-support/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1474,6 +1441,93 @@
           "twitter": ""
         }
       ]
+    },
+    {
+      "id": 126616,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Small Business AI Clinic: Prompting & Automation Lab (Virtual)",
+      "chapter": "GDG Baltimore",
+      "chapter_url": "https://gdg.community.dev/gdg-baltimore/",
+      "where": "Baltimore, MD, US",
+      "country": "US",
+      "start_local": "2026-09-24T12:00:00-04:00",
+      "end_local": "2026-09-24T13:00:00-04:00",
+      "when": "Thu Sep 24, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Google Cloud",
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "About this EventIs your small business drowning in manual tasks? Do you know AI can help, but you aren't sure where to s...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-baltimore-presents-small-business-ai-clinic-prompting-amp-automation-lab-virtual-2026-09-24/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 129767,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "AI Lab 4: Google ecosystem",
+      "chapter": "GDG Maseru",
+      "chapter_url": "https://gdg.community.dev/gdg-maseru/",
+      "where": "Maseru, Maseru, LS",
+      "country": "LS",
+      "start_local": "2026-09-24T14:00:56-04:00",
+      "end_local": "2026-09-24T15:30:56-04:00",
+      "when": "Thu Sep 24, 2026 at 2:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join the practical Google for Developers lab where attendees learn to integrate Google tools into an AI app. Ideal for developers looking to expand their skills in AI application using Google technologies. Bring your laptop and get hands-on experience in this engaging session.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-maseru-presents-ai-lab-4-google-ecosystem/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 119261,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Informal Meetup - Virtual",
+      "chapter": "GDG Sincelejo",
+      "chapter_url": "https://gdg.community.dev/gdg-sincelejo/",
+      "where": "Sincelejo, Sucre, CO",
+      "country": "CO",
+      "start_local": "2026-09-24T20:00:00-04:00",
+      "end_local": "2026-09-24T21:00:00-04:00",
+      "when": "Thu Sep 24, 2026 at 8:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Community Building",
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "¿Te apasiona la tecnología? ¿Quieres conectar con otros entusiastas y aprender sobre las últimas tendencias? ¡Entonces e...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-sincelejo-presents-informal-meetup-virtual-2026-09-24/",
+      "new": true,
+      "people": [
+        {
+          "name": "Yesid Lazaro",
+          "role": "host",
+          "title": "Software Engineer | Android Developer",
+          "company": "Globant",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Yesid%20Lazaro%20Globant",
+          "linkedin_exact": false,
+          "twitter": "ingyesid"
+        },
+        {
+          "name": "Andrea Burbano",
+          "role": "host",
+          "title": "Docente Universitaria",
+          "company": "CECAR",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andrea%20Burbano%20CECAR",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     }
   ],
   "people": [
@@ -1506,6 +1560,22 @@
           "title": "Hybrid: September Community Gathering - feat. MunichTech Expo",
           "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-hybrid-september-community-gathering-feat-munichtech-expo/",
           "when": "Tue Sep 22, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Andrea Burbano",
+      "role": "host",
+      "title": "Docente Universitaria",
+      "company": "CECAR",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andrea%20Burbano%20CECAR",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Informal Meetup - Virtual",
+          "url": "https://gdg.community.dev/events/details/google-gdg-sincelejo-presents-informal-meetup-virtual-2026-09-24/",
+          "when": "Thu Sep 24, 2026 at 8:00 PM ET"
         }
       ]
     },
@@ -1606,38 +1676,6 @@
       ]
     },
     {
-      "name": "Debayan Ghosh",
-      "role": "host",
-      "title": "GDGOC MCKVIE ORGANIZER",
-      "company": "MCKV Institute of Engineering",
-      "linkedin": "https://www.linkedin.com/in/myself-debayan-ghosh/",
-      "linkedin_exact": true,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Internal Hackathon for  Smart India Hackathon 2026",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
-        }
-      ]
-    },
-    {
-      "name": "Debroop Datta",
-      "role": "host",
-      "title": "CSE 4th YEAR",
-      "company": "MCKV Institute of Engineering",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Debroop%20Datta%20MCKV%20Institute%20of%20Engineering",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Internal Hackathon for  Smart India Hackathon 2026",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
-        }
-      ]
-    },
-    {
       "name": "Denys Doroshev",
       "role": "host",
       "title": "C0-founder & COO @ Proofa",
@@ -1650,22 +1688,6 @@
           "title": "Build with AI 2026: Build Secure AI Agents 🚀",
           "url": "https://gdg.community.dev/events/details/google-gdg-ahlen-presents-build-with-ai-2026-build-secure-ai-agents/",
           "when": "Sat Sep 12, 2026 at 10:30 AM ET"
-        }
-      ]
-    },
-    {
-      "name": "Dr. Soumyajit Ghorai",
-      "role": "speaker",
-      "title": "Assistant Professor",
-      "company": "Basic Science and Humanities",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dr.%20Soumyajit%20Ghorai%20Basic%20Science%20and%20Humanities",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Internal Hackathon for  Smart India Hackathon 2026",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
         }
       ]
     },
@@ -1702,22 +1724,6 @@
       ]
     },
     {
-      "name": "Indrajit Biswas",
-      "role": "host",
-      "title": "CSE 4th YEAR",
-      "company": "MCKV Institute of Engineering",
-      "linkedin": "https://www.linkedin.com/in/indrajit-biswas404/",
-      "linkedin_exact": true,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Internal Hackathon for  Smart India Hackathon 2026",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
-        }
-      ]
-    },
-    {
       "name": "Janise Tan",
       "role": "host",
       "title": "Google",
@@ -1746,6 +1752,22 @@
           "title": "DevFest SLC 2026",
           "url": "https://gdg.community.dev/events/details/google-gdg-salt-lake-city-presents-devfest-slc-2026/",
           "when": "Sat Sep 19, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Jood Almutairi",
+      "role": "host",
+      "title": "Software Engineer",
+      "company": "Mustaqbal University",
+      "linkedin": "https://www.linkedin.com/in/devjood",
+      "linkedin_exact": true,
+      "twitter": "devjood",
+      "events": [
+        {
+          "title": "Empower Yourself: The Art of Self-Learning",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mustaqbal-university-presents-empower-yourself-the-art-of-self-learning/",
+          "when": "Sat Sep 12, 2026 at 1:00 PM ET"
         }
       ]
     },
@@ -1830,22 +1852,6 @@
       ]
     },
     {
-      "name": "Martino Yovo",
-      "role": "speaker",
-      "title": "Product Engineer",
-      "company": "Esri",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Martino%20Yovo%20Esri",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "GDG Frisco Build Night: From Zero to Hero — AI-Powered Flutter Apps",
-          "url": "https://gdg.community.dev/events/details/google-gdg-frisco-presents-gdg-frisco-build-night-from-zero-to-hero-ai-powered-flutter-apps/",
-          "when": "Thu Sep 10, 2026 at 7:30 PM ET"
-        }
-      ]
-    },
-    {
       "name": "Matthew Christiansen",
       "role": "speaker",
       "title": "From Startup Visionary to Angular Innovator, Software Engineer",
@@ -1862,66 +1868,18 @@
       ]
     },
     {
-      "name": "Mr. Abhay Nath",
+      "name": "Muhammed Almushaiqah",
       "role": "speaker",
-      "title": "AI-ML Research Scientist-II",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/in/abhaynath001/",
+      "title": "Ai Engineer",
+      "company": "Senior High School Student",
+      "linkedin": "https://www.linkedin.com/in/muhammed-al-mushaiqah-343848344?utm_source=share_via&utm_content=profile&utm_medium=member_android",
       "linkedin_exact": true,
-      "twitter": "",
+      "twitter": "PazeedAbuShnobe",
       "events": [
         {
-          "title": "Internal Hackathon for  Smart India Hackathon 2026",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
-        }
-      ]
-    },
-    {
-      "name": "Mr. Avijit Bose",
-      "role": "speaker",
-      "title": "Assistant Professor and HOD",
-      "company": "Computer Science and Engineering",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Avijit%20Bose%20Computer%20Science%20and%20Engineering",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Internal Hackathon for  Smart India Hackathon 2026",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
-        }
-      ]
-    },
-    {
-      "name": "Mr. Rahul Chakraborty",
-      "role": "speaker",
-      "title": "Senior DevOps and GenAI Architect",
-      "company": "Ericsson",
-      "linkedin": "https://www.linkedin.com/in/rahul-chakraborty-b16446b3/",
-      "linkedin_exact": true,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Internal Hackathon for  Smart India Hackathon 2026",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
-        }
-      ]
-    },
-    {
-      "name": "Mr. Sudeep Samanta",
-      "role": "speaker",
-      "title": "Assistant Professor",
-      "company": "Electrical Engineering",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Mr.%20Sudeep%20Samanta%20Electrical%20Engineering",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Internal Hackathon for  Smart India Hackathon 2026",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mckv-institute-of-engineering-howrah-india-presents-internal-hackathon-for-smart-india-hackathon-2026/",
-          "when": "Thu Sep 10, 2026 at 10:00 AM ET"
+          "title": "Empower Yourself: The Art of Self-Learning",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mustaqbal-university-presents-empower-yourself-the-art-of-self-learning/",
+          "when": "Sat Sep 12, 2026 at 1:00 PM ET"
         }
       ]
     },
@@ -2060,6 +2018,22 @@
           "title": "Certification Study Group - DevOps Certification",
           "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-devops-certification/",
           "when": "Mon Sep 14, 2026 at 8:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Yesid Lazaro",
+      "role": "host",
+      "title": "Software Engineer | Android Developer",
+      "company": "Globant",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Yesid%20Lazaro%20Globant",
+      "linkedin_exact": false,
+      "twitter": "ingyesid",
+      "events": [
+        {
+          "title": "Informal Meetup - Virtual",
+          "url": "https://gdg.community.dev/events/details/google-gdg-sincelejo-presents-informal-meetup-virtual-2026-09-24/",
+          "when": "Thu Sep 24, 2026 at 8:00 PM ET"
         }
       ]
     }
