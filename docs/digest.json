@@ -1,29 +1,8 @@
 {
-  "generated": "2026-09-14T12:44:10.605935-04:00",
-  "window_start": "2026-09-14",
-  "window_end": "2026-09-28",
+  "generated": "2026-09-15T11:23:10.746582-04:00",
+  "window_start": "2026-09-15",
+  "window_end": "2026-09-29",
   "in_person": [
-    {
-      "id": 129622,
-      "kind": "in_person",
-      "audience_type": "IN_PERSON",
-      "title": "GDG Ottawa Ice Cream Social: Devfest  Info Exchange",
-      "chapter": "GDG Ottawa",
-      "chapter_url": "https://gdg.community.dev/gdg-ottawa/",
-      "where": "Room #101, Kingston Hall, Kingston, ON, CA",
-      "country": "CA",
-      "start_local": "2026-09-14T18:30:50-04:00",
-      "end_local": "2026-09-14T20:00:50-04:00",
-      "when": "Mon Sep 14, 2026 at 6:30 PM ET",
-      "registration": "External registration",
-      "tags": [
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "The GDG Ottawa Ice Cream Social kicks off the season at Queen's U, offering a chance to learn about the upcoming Devfest and Qmind Hackathon. Enjoy ice cream while networking and discovering opportunities to get involved. It's a relaxed setting to build connections. Don't miss this chance to dive into the tech community.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-ottawa-presents-gdg-ottawa-ice-cream-social-devfest-info-exchange/",
-      "new": false,
-      "people": []
-    },
     {
       "id": 130067,
       "kind": "in_person",
@@ -119,6 +98,94 @@
       "blurb": "The Detroit Latin Heritage Month Innovation Summit at Wayne State University on September 19th brings together technologists and leaders from Southwest Detroit. Focused on the theme \"Break the Pattern in Michigan's Tech Ecosystem,\" the event features talks, workshops, and networking aimed at advancing equity and innovation. Join to celebrate diverse voices shaping the future of tech.",
       "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
       "new": false,
+      "people": [
+        {
+          "name": "Andre Arbelaez",
+          "role": "speaker",
+          "title": "President & CEO",
+          "company": "@ Hispanic C-Suite Corporate Council",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andre%20Arbelaez%20%40%20Hispanic%20C-Suite%20Corporate%20Council",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Greg Miller",
+          "role": "speaker",
+          "title": "UX Engineer & Founder",
+          "company": "@ Shrinkray Interactive, LLC",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Greg%20Miller%20%40%20Shrinkray%20Interactive%2C%20LLC",
+          "linkedin_exact": false,
+          "twitter": "grmiller"
+        },
+        {
+          "name": "Julea Ferrara",
+          "role": "speaker",
+          "title": "CEO / Founder",
+          "company": "@ J. Ferrara Consulting Solutions",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Julea%20Ferrara%20%40%20J.%20Ferrara%20Consulting%20Solutions",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Ricardo Tapia Vargas",
+          "role": "speaker",
+          "title": "Manufacturing FCG: Controls Engineering",
+          "company": "@ Ford",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ricardo%20Tapia%20Vargas%20%40%20Ford",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Shugmi Shumunov",
+          "role": "speaker",
+          "title": "Developer & Founder",
+          "company": "@ Shumunov Solutions",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Shugmi%20Shumunov%20%40%20Shumunov%20Solutions",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Umelo Onyejiaka",
+          "role": "speaker",
+          "title": "Founder & Cloud Solutions Engineer",
+          "company": "@ DevOps Detroit",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Umelo%20Onyejiaka%20%40%20DevOps%20Detroit",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "William Bowen",
+          "role": "speaker",
+          "title": "IT Specialist",
+          "company": "@ US Army",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=William%20Bowen%20%40%20US%20Army",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
+      "id": 130586,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "GDG Mississauga x Beyond Networking: Women in Tech Rooftop Brunch",
+      "chapter": "GDG Mississauga",
+      "chapter_url": "https://gdg.community.dev/gdg-mississauga/",
+      "where": "135 Lower Sherbourne St, Toronto, ON, CA",
+      "country": "CA",
+      "start_local": "2026-09-20T11:00:00-04:00",
+      "end_local": "2026-09-20T14:00:00-04:00",
+      "when": "Sun Sep 20, 2026 at 11:00 AM ET",
+      "registration": "External registration",
+      "tags": [
+        "Career Development",
+        "Community Building",
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join Beyond Networking – Women in Tech for a rooftop brunch in Toronto — an afternoon created for women in tech to meet, connect, share stories, and build relationships that continue beyond the event.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-mississauga-presents-gdg-mississauga-x-beyond-networking-women-in-tech-rooftop-brunch/",
+      "new": true,
       "people": []
     },
     {
@@ -284,7 +351,7 @@
       ],
       "blurb": "Join GDG's Resume Roast, where McMaster alumni and students offer live resume reviews and tips to impress tech recruiters. Perfect for students at any stage, whether starting or refining a resume for big tech. Expect honest feedback, insider strategies, and a fun, growth-focused session with food included.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-resume-roast-1/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -364,90 +431,6 @@
   ],
   "online": [
     {
-      "id": 130542,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Kickstart with React: Your Roadmap to Web Development",
-      "chapter": "GDG on Campus Bakhtiyarpur College of Engineering - Patna, India",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-bakhtiyarpur-college-of-engineering-patna-india/",
-      "where": "Patna, BR, IN",
-      "country": "IN",
-      "start_local": "2026-09-14T10:39:46-04:00",
-      "end_local": "2026-09-14T11:39:46-04:00",
-      "when": "Mon Sep 14, 2026 at 10:39 AM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join 'Kickstart with React: Your Roadmap to Web Development' for essential insights into mastering React. Learn from experts, enjoy hands-on sessions, and network with peers. Ideal for beginners and those looking to enhance their skills, this event is a gateway to dynamic web app development. Reserve your spot at BCE and step into the future of web development.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-bakhtiyarpur-college-of-engineering-patna-india-presents-kickstart-with-react-your-roadmap-to-web-development/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 130472,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Introduction to Git and GitHub: Kickstart Your Tech Journey",
-      "chapter": "GDG on Campus University of Embu - Embu, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-embu-embu-kenya/",
-      "where": "Embu, Embu, KE",
-      "country": "KE",
-      "start_local": "2026-09-14T13:00:00-04:00",
-      "end_local": "2026-09-14T14:30:00-04:00",
-      "when": "Mon Sep 14, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join this exciting beginner’s session to jumpstart your tech journey! Learn Git and GitHub basics, and gain hands-on experience with essential developer tools. Perfect for new members eager to dive into coding and version control. Reserve your spot and start building your tech foundation today!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-introduction-to-git-and-github-kickstart-your-tech-journey/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 130466,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "GDG Meru Leadership Kickoff",
-      "chapter": "GDG on Campus Meru University of Science & Technology - Meru, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-meru-university-of-science-technology-meru-kenya/",
-      "where": "Meru, Meru County, KE",
-      "country": "KE",
-      "start_local": "2026-09-14T13:30:00-04:00",
-      "end_local": "2026-09-14T14:00:00-04:00",
-      "when": "Mon Sep 14, 2026 at 1:30 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Community Building"
-      ],
-      "blurb": "The GDG Meru leadership team holds an onboarding and alignment meeting to discuss mission, vision, goals, roles, and priorities. This session is exclusively for current leads, but a broader welcome session for everyone is on the horizon. Stay tuned for future opportunities to join GDG Meru's journey.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-meru-university-of-science-technology-meru-kenya-presents-gdg-meru-leadership-kickoff/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 128447,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "DEEP DIVE SERIES BAMENDA",
-      "chapter": "GDG Bamenda",
-      "chapter_url": "https://gdg.community.dev/gdg-bamenda/",
-      "where": "Bamenda, North-West, CM",
-      "country": "CM",
-      "start_local": "2026-09-14T14:30:00-04:00",
-      "end_local": "2026-09-14T15:30:00-04:00",
-      "when": "Mon Sep 14, 2026 at 2:30 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Career Development",
-        "Community Building",
-        "Networking",
-        "UX / UI Design",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Join GDG Bamenda for our 6-week Deep Dive Series! We are focusing on innovation and practical skill-building for the Bamenda tech and startup ecosystem. Expect intensive 1-hour technical sessions spanning all technology stacks and skill levels, from beginner to expert. Whether you are building the next big startup or mastering a new language, come level up your skills with the community!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda-2026-09-14/",
-      "new": false,
-      "people": []
-    },
-    {
       "id": 129957,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -505,7 +488,7 @@
       "tags": [],
       "blurb": "Join Build Something Real, a global online hackathon for Flutter developers hosted by Serverpod. Compete for over $20,000 in prizes by creating any app using Serverpod for the backend. Open to all skill levels, participants can work solo or in teams, and use AI tools if desired. It's a unique chance to turn app ideas into reality and connect with a worldwide community.",
       "url": "https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-serverpod-hackathon/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -536,6 +519,25 @@
           "twitter": ""
         }
       ]
+    },
+    {
+      "id": 130575,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Kickstart Your Journey: UI in Frontend Development",
+      "chapter": "GDG on Campus University of Embu - Embu, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-embu-embu-kenya/",
+      "where": "Embu, Embu, KE",
+      "country": "KE",
+      "start_local": "2026-09-15T14:00:00-04:00",
+      "end_local": "2026-09-15T15:00:00-04:00",
+      "when": "Tue Sep 15, 2026 at 2:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join us for an engaging session on 'Introduction to Frontend Development from a UI Perspective'. This event is perfect for those ready to dive into the world of tech, focusing on crafting intuitive and user-friendly interfaces",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-kickstart-your-journey-ui-in-frontend-development/",
+      "new": true,
+      "people": []
     },
     {
       "id": 129799,
@@ -697,7 +699,7 @@
       "tags": [],
       "blurb": "Join GDG AAMU for the Resume & LinkedIn Glow-Up Workshop on Wednesday, September 16th, from 12–1 PM at ETB 110. Ibrahim, a senior with tech interview success, shares tips to enhance your resume and LinkedIn profile. Ideal for those prepping for recruiting season, attendees can edit materials on the spot. Boost your visibility and land more interviews!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-alabama-am-university-huntsville-united-states-presents-resume-and-linkedin-glow-up/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -718,7 +720,7 @@
       ],
       "blurb": "Dive into mobile development with insights on Kotlin, Swift, and Flutter. Perfect for both beginners and pros, this session sets the stage for our mobile dev track. Join us in Embu to connect, learn, and innovate. RSVP now to be part of the tech transformation!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-kickstart-your-journey-in-mobile-development/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Rodgers Abraham",
@@ -749,7 +751,7 @@
       ],
       "blurb": "Join an interactive web development cohort open to beginners and those enhancing skills. Learn from basic HTML and CSS to launching a complete project. Collaborate in a supportive community and showcase your work. Bring your laptop and enthusiasm to discover the power of web technologies. Register now and start your web development journey!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eastern-africa-baraton-eldoret-kenya-presents-build-your-first-web-project-hands-on-cohort-2026-09-16/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1334,7 +1336,7 @@
       ],
       "blurb": "We are thrilled to present a comprehensive 6-week program designed to foster innovation and accelerate hands-on skill-building within the Bamenda tech and startup ecosystem. This series is our primary strategic focus for the upcoming period, giving developers, engineers, and tech enthusiasts the dedicated time and space to truly master the tools and methodologies that power today's industry.",
       "url": "https://gdg.community.dev/events/details/google-gdg-bamenda-presents-deep-dive-series-bamenda/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1412,7 +1414,7 @@
       ],
       "blurb": "Join an engaging workshop to dive into Android development. Learn to create your first app with Google's Android Studio under expert guidance. Ideal for beginners, this session provides foundational skills to kickstart your mobile app journey. Enhance your tech skills and connect with peers. Sign up now to begin your path as an Android developer!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eastern-africa-baraton-eldoret-kenya-presents-kickstart-your-android-development-journey/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1521,7 +1523,7 @@
       ],
       "blurb": "Join a hands-on web development cohort and transform your skills, from basic HTML and CSS to launching a complete project. Perfect for beginners and those looking to enhance their abilities, this event offers a supportive community to learn and collaborate. Bring your laptop and enthusiasm to start your journey as a web developer. Register now to secure your spot.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eastern-africa-baraton-eldoret-kenya-presents-build-your-first-web-project-hands-on-cohort-2026-09-23/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1686,7 +1688,7 @@
       ],
       "blurb": "John Molson and Gina Cody students are invited to an exclusive workshop on September 24th from 6-9 PM, led by Senior Solutions Architect Alexandre Debargis. Collaborate using Gemini or your own agents on bridging business tech and engineering. Food, drinks, and prizes are included. Register by September 20th; venue details follow. Bring your laptop!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-concordia-university-montreal-canada-presents-genai-student-hack-night-google-montreal-google-x-jsba-x-gdg/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1710,7 +1712,7 @@
       ],
       "blurb": "Join GDG's Resume Roast, where McMaster alumni and students offer live resume reviews and tips to impress tech recruiters. Perfect for students at any stage, whether starting or refining a resume for big tech. Expect honest feedback, insider strategies, and a fun, growth-focused session with food included.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-resume-roast-1/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1853,7 +1855,7 @@
       ],
       "blurb": "Join GDG Brooklyn for a dynamic 1-hour workshop on Modern Web Guidance. Perfect for developers using Gemini-powered tools, Copilot, Cursor, or custom AI agents, this session offers hands-on experience to embed best practices and modern web expertise into your coding agents. Enhance your skills and steer away from legacy patterns to craft efficient, compliant code.",
       "url": "https://gdg.community.dev/events/details/google-gdg-brooklyn-presents-join-us-for-a-hands-on-workshop-on-modern-web-guidance/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Patti Shin",
@@ -1908,7 +1910,7 @@
       ],
       "blurb": "What happens when humans make the same mistakes we criticise AI for?",
       "url": "https://gdg.community.dev/events/details/google-gdg-surrey-presents-you-are-the-algorithm/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Priti Yadav",
@@ -2009,7 +2011,7 @@
       ],
       "blurb": "Join us for an exciting deep dive into \"Cloud-Native Data Science for Beginners\". In this interactive session, we’ll unr...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-27/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Peter Okwukogu",
@@ -2038,6 +2040,29 @@
       "tags": [],
       "blurb": "Join Nashville's Monthly Virtual Meet-Up to connect with tech enthusiasts, explore innovative technologies, and discuss using tech for social change. Perfect for developers, data scientists, students, and tech lovers. Present your story or project to inspire and engage. Register now to be part of a vibrant community. Don't miss this chance to network and learn!",
       "url": "https://gdg.community.dev/events/details/google-gdg-nashville-presents-gdg-nashvilles-first-monthly-virtual-meet-up-2026-09-27/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 130409,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Fork Yeah! Mastering GitHub",
+      "chapter": "GDG on Campus KCA University - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-kca-university-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-09-28T12:00:00-04:00",
+      "end_local": "2026-09-28T13:30:00-04:00",
+      "when": "Mon Sep 28, 2026 at 12:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Career Development",
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join \"Commit to Greatness\" and transform your GitHub skills from basic to expert. This hands-on session covers essential workflows like branches, commits, and pull requests. Ideal for beginners and those looking to enhance collaboration and project management skills. Elevate your developer portfolio by mastering GitHub's tools and features. Come for the commits, stay for the merges!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-fork-yeah-mastering-github/",
       "new": true,
       "people": []
     }
@@ -2072,6 +2097,22 @@
           "title": "Hybrid: September Community Gathering - feat. MunichTech Expo",
           "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-hybrid-september-community-gathering-feat-munichtech-expo/",
           "when": "Tue Sep 22, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Andre Arbelaez",
+      "role": "speaker",
+      "title": "President & CEO",
+      "company": "@ Hispanic C-Suite Corporate Council",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andre%20Arbelaez%20%40%20Hispanic%20C-Suite%20Corporate%20Council",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
         }
       ]
     },
@@ -2236,6 +2277,22 @@
       ]
     },
     {
+      "name": "Greg Miller",
+      "role": "speaker",
+      "title": "UX Engineer & Founder",
+      "company": "@ Shrinkray Interactive, LLC",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Greg%20Miller%20%40%20Shrinkray%20Interactive%2C%20LLC",
+      "linkedin_exact": false,
+      "twitter": "grmiller",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Hemanth HM",
       "role": "speaker",
       "title": "GDE, Sr. Staff Software Engineering Manager",
@@ -2380,6 +2437,22 @@
       ]
     },
     {
+      "name": "Julea Ferrara",
+      "role": "speaker",
+      "title": "CEO / Founder",
+      "company": "@ J. Ferrara Consulting Solutions",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Julea%20Ferrara%20%40%20J.%20Ferrara%20Consulting%20Solutions",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Lucas Krawczak",
       "role": "speaker",
       "title": "VP Tech Lead",
@@ -2518,6 +2591,22 @@
       ]
     },
     {
+      "name": "Ricardo Tapia Vargas",
+      "role": "speaker",
+      "title": "Manufacturing FCG: Controls Engineering",
+      "company": "@ Ford",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ricardo%20Tapia%20Vargas%20%40%20Ford",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Rodgers Abraham",
       "role": "speaker",
       "title": "Mobile Developer",
@@ -2546,6 +2635,22 @@
           "title": "Hybrid: September Community Gathering - feat. MunichTech Expo",
           "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-hybrid-september-community-gathering-feat-munichtech-expo/",
           "when": "Tue Sep 22, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Shugmi Shumunov",
+      "role": "speaker",
+      "title": "Developer & Founder",
+      "company": "@ Shumunov Solutions",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Shugmi%20Shumunov%20%40%20Shumunov%20Solutions",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
         }
       ]
     },
@@ -2626,6 +2731,38 @@
           "title": "Welcome to GDG @ Seneca: Info Session",
           "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-welcome-to-gdg-seneca-info-session/",
           "when": "Wed Sep 23, 2026 at 1:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Umelo Onyejiaka",
+      "role": "speaker",
+      "title": "Founder & Cloud Solutions Engineer",
+      "company": "@ DevOps Detroit",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Umelo%20Onyejiaka%20%40%20DevOps%20Detroit",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "William Bowen",
+      "role": "speaker",
+      "title": "IT Specialist",
+      "company": "@ US Army",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=William%20Bowen%20%40%20US%20Army",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
         }
       ]
     },
