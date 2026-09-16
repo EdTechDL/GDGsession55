@@ -1,29 +1,8 @@
 {
-  "generated": "2026-09-15T11:23:10.746582-04:00",
-  "window_start": "2026-09-15",
-  "window_end": "2026-09-29",
+  "generated": "2026-09-16T11:16:21.795870-04:00",
+  "window_start": "2026-09-16",
+  "window_end": "2026-09-30",
   "in_person": [
-    {
-      "id": 130067,
-      "kind": "in_person",
-      "audience_type": "IN_PERSON",
-      "title": "Quest 3: Intro to Google ADK",
-      "chapter": "GDG on Campus University of Michigan-Dearborn - Dearborn, United States",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states/",
-      "where": "James C. Renick University Center, Dearborn, MI, US",
-      "country": "US",
-      "start_local": "2026-09-15T15:30:00-04:00",
-      "end_local": "2026-09-15T16:30:00-04:00",
-      "when": "Tue Sep 15, 2026 at 3:30 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Workshop / hands-on session"
-      ],
-      "blurb": "The 3rd installment in our Weekly Workshop series, cueing up to Hack Dearborn. Come join us to learn more about Google ADK!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states-presents-quest-3-intro-to-google-adk/",
-      "new": false,
-      "people": []
-    },
     {
       "id": 129075,
       "kind": "in_person",
@@ -109,6 +88,15 @@
           "twitter": ""
         },
         {
+          "name": "Cindy Cruz-Rodriguez",
+          "role": "speaker",
+          "title": "Supplier Quality Engineer",
+          "company": "@ General Motors",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cindy%20Cruz-Rodriguez%20%40%20General%20Motors",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
           "name": "Greg Miller",
           "role": "speaker",
           "title": "UX Engineer & Founder",
@@ -123,6 +111,24 @@
           "title": "CEO / Founder",
           "company": "@ J. Ferrara Consulting Solutions",
           "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Julea%20Ferrara%20%40%20J.%20Ferrara%20Consulting%20Solutions",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Maridy Mazaira",
+          "role": "speaker",
+          "title": "President",
+          "company": "@ SHPE Detroit Professional",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Maridy%20Mazaira%20%40%20SHPE%20Detroit%20Professional",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Raquel Estrada",
+          "role": "speaker",
+          "title": "Process Optimization Manager | President",
+          "company": "@ Ally Financial | SHPE Detroit",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Raquel%20Estrada%20%40%20Ally%20Financial%20%7C%20SHPE%20Detroit",
           "linkedin_exact": false,
           "twitter": ""
         },
@@ -185,7 +191,7 @@
       ],
       "blurb": "Join Beyond Networking – Women in Tech for a rooftop brunch in Toronto — an afternoon created for women in tech to meet, connect, share stories, and build relationships that continue beyond the event.",
       "url": "https://gdg.community.dev/events/details/google-gdg-mississauga-presents-gdg-mississauga-x-beyond-networking-women-in-tech-rooftop-brunch/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -207,6 +213,25 @@
       "blurb": "The 4th installment in our Weekly Workshop series, cueing up to Hack Dearborn. Come join us to learn more about PyTorch and OpenCV!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-michigan-dearborn-dearborn-united-states-presents-quest-4-intro-to-pytorch-and-opencv/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 129913,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "Fall 2026 Kickoff",
+      "chapter": "GDG on Campus Calvin University - Grand Rapids, United States",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-calvin-university-grand-rapids-united-states/",
+      "where": "SB 372 - Science Building - Calvin University, Grand Rapids, MI, US",
+      "country": "US",
+      "start_local": "2026-09-22T17:30:53-04:00",
+      "end_local": "2026-09-22T18:30:53-04:00",
+      "when": "Tue Sep 22, 2026 at 5:30 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Meet the leadership team and discover upcoming events for this semester. Ideal for members looking to engage and participate in planned activities.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-calvin-university-grand-rapids-united-states-presents-fall-2026-kickoff/",
+      "new": true,
       "people": []
     },
     {
@@ -431,147 +456,6 @@
   ],
   "online": [
     {
-      "id": 129957,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Certification Study Group - DevOps Certification",
-      "chapter": "GDG Open",
-      "chapter_url": "https://gdg.community.dev/gdg-open/",
-      "where": "Lima, Lima region, PE",
-      "country": "PE",
-      "start_local": "2026-09-14T20:00:00-04:00",
-      "end_local": "2026-10-12T23:00:00-04:00",
-      "when": "Mon Sep 14, 2026 at 8:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Certification Study Group",
-        "Get Certified",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Prepare for your Google Cloud Professional DevOps Engineer certification with a 6-week Study Group. Enjoy weekly live sessions, access video courses, and engage in hands-on training. Join the supportive online community to ask questions and share insights. Ideal for those looking to enhance their cloud skills and boost their certification readiness.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-devops-certification/",
-      "new": false,
-      "people": [
-        {
-          "name": "Yancel Salinas",
-          "role": "host",
-          "title": "",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Yancel%20Salinas",
-          "linkedin_exact": false,
-          "twitter": "yancel_salinas"
-        },
-        {
-          "name": "Jose Carlos Guerra Martinez",
-          "role": "host",
-          "title": "",
-          "company": "Xertica",
-          "linkedin": "https://www.linkedin.com/in/jose-carlos-guerra-martinez/",
-          "linkedin_exact": true,
-          "twitter": ""
-        }
-      ]
-    },
-    {
-      "id": 130532,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Serverpod Hackathon !",
-      "chapter": "GDG Bordeaux",
-      "chapter_url": "https://gdg.community.dev/gdg-bordeaux/",
-      "where": "Bordeaux, Nouvelle-Aquitaine, FR",
-      "country": "FR",
-      "start_local": "2026-09-15T13:00:00-04:00",
-      "end_local": "2026-10-22T14:00:00-04:00",
-      "when": "Tue Sep 15, 2026 at 1:00 PM ET",
-      "registration": "External registration",
-      "tags": [],
-      "blurb": "Join Build Something Real, a global online hackathon for Flutter developers hosted by Serverpod. Compete for over $20,000 in prizes by creating any app using Serverpod for the backend. Open to all skill levels, participants can work solo or in teams, and use AI tools if desired. It's a unique chance to turn app ideas into reality and connect with a worldwide community.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-bordeaux-presents-serverpod-hackathon/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 130261,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Building Multi-Agent Teams Workshop",
-      "chapter": "GDG on Campus The Catholic University of Eastern Africa - Nairobi, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya/",
-      "where": "Nairobi, Nairobi County, KE",
-      "country": "KE",
-      "start_local": "2026-09-15T13:00:02-04:00",
-      "end_local": "2026-09-15T14:00:02-04:00",
-      "when": "Tue Sep 15, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Attend the 'Building Multi-Agent Teams' workshop to explore how AI and robotics agents collaborate effectively. Ideal for enthusiasts of AI, robotics, or team dynamics, this session offers valuable insights and hands-on activities. Enhance your skills and connect with peers. Secure your place now to be a part of the future of collaborative technology!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-building-multi-agent-teams-workshop/",
-      "new": false,
-      "people": [
-        {
-          "name": "Joy Langat",
-          "role": "speaker",
-          "title": "Lead",
-          "company": "GDSC",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joy%20Langat%20GDSC",
-          "linkedin_exact": false,
-          "twitter": ""
-        }
-      ]
-    },
-    {
-      "id": 130575,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Kickstart Your Journey: UI in Frontend Development",
-      "chapter": "GDG on Campus University of Embu - Embu, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-embu-embu-kenya/",
-      "where": "Embu, Embu, KE",
-      "country": "KE",
-      "start_local": "2026-09-15T14:00:00-04:00",
-      "end_local": "2026-09-15T15:00:00-04:00",
-      "when": "Tue Sep 15, 2026 at 2:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join us for an engaging session on 'Introduction to Frontend Development from a UI Perspective'. This event is perfect for those ready to dive into the world of tech, focusing on crafting intuitive and user-friendly interfaces",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-kickstart-your-journey-ui-in-frontend-development/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 129799,
-      "kind": "online",
-      "audience_type": "HYBRID",
-      "title": "Code Camp: Mobile Development as a Career",
-      "chapter": "GDG Boston Android",
-      "chapter_url": "https://gdg.community.dev/gdg-boston-android/",
-      "where": "West Village H, Boston, MA, US",
-      "country": "US",
-      "start_local": "2026-09-15T19:00:00-04:00",
-      "end_local": "2026-09-15T20:00:00-04:00",
-      "when": "Tue Sep 15, 2026 at 7:00 PM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "Android",
-        "Career Development"
-      ],
-      "blurb": "Join Dan Peluso for a code camp on mobile career development. Learn to turn app ideas into businesses, prepare for coding interviews, and discover Boston companies hiring mobile developers. Gain insights and ask questions to advance in the dynamic mobile industry. Ideal for aspiring developers in the mobile space.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/",
-      "new": false,
-      "people": [
-        {
-          "name": "Dan Peluso",
-          "role": "speaker",
-          "title": "Senior Software Engineer",
-          "company": "Klaviyo",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo",
-          "linkedin_exact": false,
-          "twitter": ""
-        }
-      ]
-    },
-    {
       "id": 128076,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -614,9 +498,9 @@
       "chapter_url": "https://gdg.community.dev/gdg-burnaby/",
       "where": "Burnaby, BC, CA",
       "country": "CA",
-      "start_local": "2026-09-15T21:00:00-04:00",
+      "start_local": "2026-09-15T20:45:00-04:00",
       "end_local": "2026-09-15T23:00:00-04:00",
-      "when": "Tue Sep 15, 2026 at 9:00 PM ET",
+      "when": "Tue Sep 15, 2026 at 8:45 PM ET",
       "registration": "Free registration with Bevy Virtual Conference",
       "tags": [
         "AI",
@@ -1094,6 +978,27 @@
       "people": []
     },
     {
+      "id": 130651,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Building a Career in Post-Quantum Cryptography",
+      "chapter": "GDG on Campus Obafemi Awolowo University - Ife, Nigeria",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-obafemi-awolowo-university-ife-nigeria/",
+      "where": "Ife, Osun State, NG",
+      "country": "NG",
+      "start_local": "2026-09-19T09:30:00-04:00",
+      "end_local": "2026-09-19T10:30:00-04:00",
+      "when": "Sat Sep 19, 2026 at 9:30 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join this enlightening webinar on \"Building a Career in Post Quantum Cryptography.\" Learn about the field, debunk myths, and get beginner-level guidance for undergraduates. Ideal for those passionate about cybersecurity and cryptography. Register now to start your journey and join our WhatsApp community for updates.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-obafemi-awolowo-university-ife-nigeria-presents-building-a-career-in-post-quantum-cryptography/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 124980,
       "kind": "online",
       "audience_type": "HYBRID",
@@ -1199,6 +1104,65 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-bamako-presents-ai-is-no-longer-coming-its-already-here-and-its-changing-everything/",
       "new": false,
       "people": []
+    },
+    {
+      "id": 130327,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Certification Study Group - Info Session - Digital Leader",
+      "chapter": "GDG Open",
+      "chapter_url": "https://gdg.community.dev/gdg-open/",
+      "where": "Lima, Lima region, PE",
+      "country": "PE",
+      "start_local": "2026-09-20T12:00:00-04:00",
+      "end_local": "2026-09-20T13:00:00-04:00",
+      "when": "Sun Sep 20, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Get Certified",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join the Certification Study Group Info Session to explore Google Cloud certifications. Learn about the demand for cloud computing roles, the value of Google Cloud certificates, details of the Study Group program, available certification paths, prerequisites, and access to Google Skills. Ideal for those seeking to enhance their expertise and career in cloud technology.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-info-session-digital-leader/",
+      "new": true,
+      "people": [
+        {
+          "name": "Jose Carlos Guerra Martinez",
+          "role": "host",
+          "title": "",
+          "company": "Xertica",
+          "linkedin": "https://www.linkedin.com/in/jose-carlos-guerra-martinez/",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Yancel Salinas",
+          "role": "host",
+          "title": "",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Yancel%20Salinas",
+          "linkedin_exact": false,
+          "twitter": "yancel_salinas"
+        },
+        {
+          "name": "Cristians Bregante Tintaya",
+          "role": "host",
+          "title": "Senior Frontend Developer at Prosegur / GDG Organizer at @GDGOpenLima",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristians%20Bregante%20Tintaya",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Jose Flores",
+          "role": "host",
+          "title": "Full-Stack Developer",
+          "company": "Clínica de Especialidades Médicas",
+          "linkedin": "https://www.linkedin.com/in/jfloresxc/",
+          "linkedin_exact": true,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 111957,
@@ -2063,11 +2027,93 @@
       ],
       "blurb": "Join \"Commit to Greatness\" and transform your GitHub skills from basic to expert. This hands-on session covers essential workflows like branches, commits, and pull requests. Ideal for beginners and those looking to enhance collaboration and project management skills. Elevate your developer portfolio by mastering GitHub's tools and features. Come for the commits, stay for the merges!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-fork-yeah-mastering-github/",
-      "new": true,
+      "new": false,
       "people": []
+    },
+    {
+      "id": 130491,
+      "kind": "online",
+      "audience_type": "HYBRID",
+      "title": "Build with Gemini: The Extended Workshops",
+      "chapter": "GDG Cloud Munich",
+      "chapter_url": "https://gdg.community.dev/gdg-cloud-munich/",
+      "where": "Google Munich - 10x Space, München, BY, DE",
+      "country": "DE",
+      "start_local": "2026-09-29T12:00:00-04:00",
+      "end_local": "2026-09-29T16:00:00-04:00",
+      "when": "Tue Sep 29, 2026 at 12:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "AI - Gemma",
+        "Build with AI",
+        "Career Development",
+        "Community Building",
+        "Google Cloud",
+        "Networking",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "🤖 Let us get our hands dirty. Extend your Build with Gemini experience with two practical evening workshops.\n\n☁️ Join the GDG Cloud Munich for an exclusive hybrid meetup featuring the Google Cloud DevRel team.\n\n🎟️ Whether in person or online, grab your spot now and be part of the conversat",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-build-with-gemini-the-extended-workshops/",
+      "new": true,
+      "people": [
+        {
+          "name": "Abdel SGHIOUAR",
+          "role": "speaker",
+          "title": "Senior Cloud Engineer @Google Cloud",
+          "company": "Google",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdel%20SGHIOUAR%20Google",
+          "linkedin_exact": false,
+          "twitter": "boredabdel"
+        },
+        {
+          "name": "Dawid Ostrowski",
+          "role": "speaker",
+          "title": "",
+          "company": "Google",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dawid%20Ostrowski%20Google",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Katsiaryna Skwarek",
+          "role": "host",
+          "title": "Regional Lead for DACH & CEE",
+          "company": "GDG program",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Katsiaryna%20Skwarek%20GDG%20program",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Janise Tan",
+          "role": "host",
+          "title": "Google",
+          "company": "Head of Google Developer Experts (GDE) - Europe, the Middle East and Africa (EMEA)",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Janise%20Tan%20Head%20of%20Google%20Developer%20Experts%20%28GDE%29%20-%20Europe%2C%20the%20Middle%20East%20and%20Africa%20%28EMEA%29",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     }
   ],
   "people": [
+    {
+      "name": "Abdel SGHIOUAR",
+      "role": "speaker",
+      "title": "Senior Cloud Engineer @Google Cloud",
+      "company": "Google",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abdel%20SGHIOUAR%20Google",
+      "linkedin_exact": false,
+      "twitter": "boredabdel",
+      "events": [
+        {
+          "title": "Build with Gemini: The Extended Workshops",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-build-with-gemini-the-extended-workshops/",
+          "when": "Tue Sep 29, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
     {
       "name": "Alberto Castillo Aroca",
       "role": "speaker",
@@ -2229,18 +2275,50 @@
       ]
     },
     {
-      "name": "Dan Peluso",
+      "name": "Cindy Cruz-Rodriguez",
       "role": "speaker",
-      "title": "Senior Software Engineer",
-      "company": "Klaviyo",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dan%20Peluso%20Klaviyo",
+      "title": "Supplier Quality Engineer",
+      "company": "@ General Motors",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cindy%20Cruz-Rodriguez%20%40%20General%20Motors",
       "linkedin_exact": false,
       "twitter": "",
       "events": [
         {
-          "title": "Code Camp: Mobile Development as a Career",
-          "url": "https://gdg.community.dev/events/details/google-gdg-boston-android-presents-code-camp-mobile-development-as-a-career/",
-          "when": "Tue Sep 15, 2026 at 7:00 PM ET"
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Cristians Bregante Tintaya",
+      "role": "host",
+      "title": "Senior Frontend Developer at Prosegur / GDG Organizer at @GDGOpenLima",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Cristians%20Bregante%20Tintaya",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Certification Study Group - Info Session - Digital Leader",
+          "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-info-session-digital-leader/",
+          "when": "Sun Sep 20, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Dawid Ostrowski",
+      "role": "speaker",
+      "title": "",
+      "company": "Google",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dawid%20Ostrowski%20Google",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Build with Gemini: The Extended Workshops",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-build-with-gemini-the-extended-workshops/",
+          "when": "Tue Sep 29, 2026 at 12:00 PM ET"
         }
       ]
     },
@@ -2337,6 +2415,11 @@
           "title": "Hybrid: September Community Gathering - feat. MunichTech Expo",
           "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-hybrid-september-community-gathering-feat-munichtech-expo/",
           "when": "Tue Sep 22, 2026 at 12:00 PM ET"
+        },
+        {
+          "title": "Build with Gemini: The Extended Workshops",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-build-with-gemini-the-extended-workshops/",
+          "when": "Tue Sep 29, 2026 at 12:00 PM ET"
         }
       ]
     },
@@ -2366,9 +2449,25 @@
       "twitter": "",
       "events": [
         {
-          "title": "Certification Study Group - DevOps Certification",
-          "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-devops-certification/",
-          "when": "Mon Sep 14, 2026 at 8:00 PM ET"
+          "title": "Certification Study Group - Info Session - Digital Leader",
+          "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-info-session-digital-leader/",
+          "when": "Sun Sep 20, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Jose Flores",
+      "role": "host",
+      "title": "Full-Stack Developer",
+      "company": "Clínica de Especialidades Médicas",
+      "linkedin": "https://www.linkedin.com/in/jfloresxc/",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Certification Study Group - Info Session - Digital Leader",
+          "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-info-session-digital-leader/",
+          "when": "Sun Sep 20, 2026 at 12:00 PM ET"
         }
       ]
     },
@@ -2385,22 +2484,6 @@
           "title": "Applying concepts from Domain-Driven Design to Agentic Development",
           "url": "https://gdg.community.dev/events/details/google-gdg-madison-presents-applying-concepts-from-domain-driven-design-to-agentic-development/",
           "when": "Fri Sep 18, 2026 at 1:00 PM ET"
-        }
-      ]
-    },
-    {
-      "name": "Joy Langat",
-      "role": "speaker",
-      "title": "Lead",
-      "company": "GDSC",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Joy%20Langat%20GDSC",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Building Multi-Agent Teams Workshop",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-building-multi-agent-teams-workshop/",
-          "when": "Tue Sep 15, 2026 at 1:00 PM ET"
         }
       ]
     },
@@ -2453,6 +2536,22 @@
       ]
     },
     {
+      "name": "Katsiaryna Skwarek",
+      "role": "host",
+      "title": "Regional Lead for DACH & CEE",
+      "company": "GDG program",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Katsiaryna%20Skwarek%20GDG%20program",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Build with Gemini: The Extended Workshops",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-build-with-gemini-the-extended-workshops/",
+          "when": "Tue Sep 29, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Lucas Krawczak",
       "role": "speaker",
       "title": "VP Tech Lead",
@@ -2465,6 +2564,22 @@
           "title": "Welcome to GDG @ Seneca: Info Session",
           "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-seneca-polytechnic-toronto-canada-presents-welcome-to-gdg-seneca-info-session/",
           "when": "Wed Sep 23, 2026 at 1:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Maridy Mazaira",
+      "role": "speaker",
+      "title": "President",
+      "company": "@ SHPE Detroit Professional",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Maridy%20Mazaira%20%40%20SHPE%20Detroit%20Professional",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
         }
       ]
     },
@@ -2591,6 +2706,22 @@
       ]
     },
     {
+      "name": "Raquel Estrada",
+      "role": "speaker",
+      "title": "Process Optimization Manager | President",
+      "company": "@ Ally Financial | SHPE Detroit",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Raquel%20Estrada%20%40%20Ally%20Financial%20%7C%20SHPE%20Detroit",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Detroit Latin Heritage Month Innovation Summit",
+          "url": "https://gdg.community.dev/events/details/google-gdg-detroit-presents-detroit-latin-heritage-month-innovation-summit/",
+          "when": "Sat Sep 19, 2026 at 8:00 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Ricardo Tapia Vargas",
       "role": "speaker",
       "title": "Manufacturing FCG: Controls Engineering",
@@ -2666,7 +2797,7 @@
         {
           "title": "From Questions to Answers: Building Cross-System Data Agents with Google's Data Agent Kit",
           "url": "https://gdg.community.dev/events/details/google-gdg-burnaby-presents-from-questions-to-answers-building-cross-system-data-agents-with-googles-data-agent-kit/",
-          "when": "Tue Sep 15, 2026 at 9:00 PM ET"
+          "when": "Tue Sep 15, 2026 at 8:45 PM ET"
         }
       ]
     },
@@ -2776,9 +2907,9 @@
       "twitter": "yancel_salinas",
       "events": [
         {
-          "title": "Certification Study Group - DevOps Certification",
-          "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-devops-certification/",
-          "when": "Mon Sep 14, 2026 at 8:00 PM ET"
+          "title": "Certification Study Group - Info Session - Digital Leader",
+          "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-info-session-digital-leader/",
+          "when": "Sun Sep 20, 2026 at 12:00 PM ET"
         }
       ]
     },
