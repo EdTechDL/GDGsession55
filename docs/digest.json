@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T11:29:05.590946-04:00",
-  "window_start": "2026-09-27",
-  "window_end": "2026-10-11",
+  "generated": "2026-09-28T14:20:19.233489-04:00",
+  "window_start": "2026-09-28",
+  "window_end": "2026-10-12",
   "in_person": [
     {
       "id": 131359,
@@ -19,7 +19,7 @@
       "tags": [],
       "blurb": "Join an inspiring session with Edrees, a General Motors intern, as he shares his journey of building projects for over 100,000 users. Learn how to generate ideas, develop projects effectively, and enjoy the building process. Don't miss this informative talk at OTU North Campus in Oshawa. Perfect for aspiring innovators and creators. Register now and bring friends!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-ontario-tech-university-oshawa-canada-presents-why-your-tech-projects-are-failing-and-how-you-can-finish-them/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -208,105 +208,11 @@
       ],
       "blurb": "DevFest Milano 2026 — Saturday, October 10, Randstad Box, Milan.One day, two GDG communities, and 300 developers figurin...",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-milano-presents-devfest-milano-2026/",
-      "new": true,
+      "new": false,
       "people": []
     }
   ],
   "online": [
-    {
-      "id": 131012,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Agentes y testing: dos mundos que no pueden separarse",
-      "chapter": "GDG Cartagena",
-      "chapter_url": "https://gdg.community.dev/gdg-cartagena/",
-      "where": "Cartagena, Bolivar, CO",
-      "country": "CO",
-      "start_local": "2026-09-26T20:00:00-04:00",
-      "end_local": "2026-09-26T22:00:00-04:00",
-      "when": "Sat Sep 26, 2026 at 8:00 PM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "AI - Gemini Enterprise Agent Platform",
-        "Tech Talk / Meetup",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Join GDG Cartagena for a virtual session with Michelle Girón on how AI agents are reshaping software development and testing. Ideal for developers and testers eager to explore AI's role in building and validating software. Tune in on September 26, 2026, at 7:00 p.m. (GMT-5) via Google Meet. Don't miss it!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cartagena-presents-agentes-y-testing-dos-mundos-que-no-pueden-separarse/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 131078,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Introducción al Cálculo Infinitesimal & Avanzado parte II",
-      "chapter": "GDG CDMX",
-      "chapter_url": "https://gdg.community.dev/gdg-cdmx/",
-      "where": "Mexico City, CDMX, MX",
-      "country": "MX",
-      "start_local": "2026-09-26T21:00:00-04:00",
-      "end_local": "2026-09-26T22:30:00-04:00",
-      "when": "Sat Sep 26, 2026 at 9:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Build with AI",
-        "Career Development",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "El GDG CDMX invita a ingenieras/os de software, investigadoras/es y entusiastas de la tecnología a la sesión dedicada al análisis del tema: Introducción al Cálculo Infinitesimal & Avanzado parte II. Se trata de una revisión concisa de derivadas, derivadas parciales y gradientes, dando paso a la implementación práctica de optimización y descenso del gradiente desde cero.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado-parte-ii/",
-      "new": false,
-      "people": [
-        {
-          "name": "Geovanni Zepeda",
-          "role": "speaker",
-          "title": "Data Scientist",
-          "company": "DEVF",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF",
-          "linkedin_exact": false,
-          "twitter": ""
-        }
-      ]
-    },
-    {
-      "id": 131130,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Ontology-Augmented Generation: Enhancing AI with Structured Knowledge",
-      "chapter": "GDG Vijayawada",
-      "chapter_url": "https://gdg.community.dev/gdg-vijayawada/",
-      "where": "Vijayawada, AP, IN",
-      "country": "IN",
-      "start_local": "2026-09-27T08:30:27-04:00",
-      "end_local": "2026-09-27T10:30:27-04:00",
-      "when": "Sun Sep 27, 2026 at 8:30 AM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "Conference",
-        "DevFest",
-        "Tech Talk / Meetup",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Explore the synergy of ontologies and Large Language Models in our session on Ontology-Augmented Generation. Ideal for developers, students, and tech enthusiasts, learn the impact of structured knowledge on AI, differences between OAG and RAG, and effective integration methods. Enhance your AI skills and connect with peers. Secure your spot today!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-vijayawada-presents-ontology-augmented-generation-enhancing-ai-with-structured-knowledge/",
-      "new": false,
-      "people": [
-        {
-          "name": "Kowshiq Kattamuri",
-          "role": "speaker",
-          "title": "",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/in/kattamurikowshiq",
-          "linkedin_exact": true,
-          "twitter": ""
-        }
-      ]
-    },
     {
       "id": 131341,
       "kind": "online",
@@ -316,107 +222,15 @@
       "chapter_url": "https://gdg.community.dev/gdg-on-campus-king-faisal-university-al-hofuf-saudi-arabia/",
       "where": "Al Hofuf, Eastern Province, SA",
       "country": "SA",
-      "start_local": "2026-09-27T11:00:00-04:00",
-      "end_local": "2026-09-27T13:00:00-04:00",
-      "when": "Sun Sep 27, 2026 at 11:00 AM ET",
+      "start_local": "2026-09-28T11:00:00-04:00",
+      "end_local": "2026-09-28T13:00:00-04:00",
+      "when": "Mon Sep 28, 2026 at 11:00 AM ET",
       "registration": "Free registration",
       "tags": [
         "AI"
       ],
       "blurb": "Join GDG oC KFU’s virtual workshop, \"AI for Students,\" on September 27, 2026. Learn to use AI tools to enhance study productivity, organize resources, and create summaries with NotebookLM. Sessions run from 6:00 PM to 8:00 PM via Google Meet. Register now to boost your learning! Link: https://forms.gle/CERrm9Bdp32AaWePA",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-king-faisal-university-al-hofuf-saudi-arabia-presents-msdk-ljmy-ldhky-ai-for-students/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 111958,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Data Science-AI-Cloud Sundays",
-      "chapter": "GDG Cloud Kaduna",
-      "chapter_url": "https://gdg.community.dev/gdg-cloud-kaduna/",
-      "where": "Kaduna, Kaduna State, NG",
-      "country": "NG",
-      "start_local": "2026-09-27T13:00:00-04:00",
-      "end_local": "2026-09-27T15:00:00-04:00",
-      "when": "Sun Sep 27, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "Google Cloud",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Join us for an exciting deep dive into \"Cloud-Native Data Science for Beginners\". In this interactive session, we’ll unr...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-27/",
-      "new": false,
-      "people": [
-        {
-          "name": "Peter Okwukogu",
-          "role": "host",
-          "title": "Google Developer Expert (GDE) for Data Cloud",
-          "company": "CoLab Innovation Hub",
-          "linkedin": "https://www.linkedin.com/in/ipablo26/",
-          "linkedin_exact": true,
-          "twitter": "ipablo26"
-        }
-      ]
-    },
-    {
-      "id": 131361,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "CTF",
-      "chapter": "GDG on Campus Taif University, Taif, Saudi Arabia",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-taif-university-taif-saudi-arabia/",
-      "where": "Taif, Makkah Region, SA",
-      "country": "SA",
-      "start_local": "2026-09-27T13:00:00-04:00",
-      "end_local": "2026-09-27T14:00:00-04:00",
-      "when": "Sun Sep 27, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Join the thrilling Capture the Flag (CTF) Workshop to explore cybersecurity challenges. Perfect for beginners or those seeking to enhance skills, participants will learn CTF basics, practice problem-solving, and gain hands-on experience in a supportive setting. Reserve your spot today and embark on your cybersecurity journey!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-taif-university-taif-saudi-arabia-presents-ctf/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 131376,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Berkeley x DeepMind Hackathon: Build. Ship. Pitch. Win.",
-      "chapter": "GDG Stanford",
-      "chapter_url": "https://gdg.community.dev/gdg-stanford/",
-      "where": "Stanford, CA, US",
-      "country": "US",
-      "start_local": "2026-09-27T13:00:00-04:00",
-      "end_local": "2026-09-27T21:00:00-04:00",
-      "when": "Sun Sep 27, 2026 at 1:00 PM ET",
-      "registration": "External registration",
-      "tags": [],
-      "blurb": "Join the elite hackathon at UC Berkeley for a chance to win VC pitch meetings and up to $5M in seed funding. Build projects using Google Gemini, judged by experts from Google, Berkeley, and top VC firms. Participate in-person or online to showcase innovation and market potential, with prizes including GCP credits and direct access to major investors. Ideal for innovators and budding startups.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-stanford-presents-berkeley-x-deepmind-hackathon-build-ship-pitch-win/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 129274,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "GDG Nashville's First Monthly Virtual Meet-Up",
-      "chapter": "GDG Nashville",
-      "chapter_url": "https://gdg.community.dev/gdg-nashville/",
-      "where": "Nashville, TN, US",
-      "country": "US",
-      "start_local": "2026-09-27T18:30:00-04:00",
-      "end_local": "2026-09-27T19:30:00-04:00",
-      "when": "Sun Sep 27, 2026 at 6:30 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join Nashville's Monthly Virtual Meet-Up to connect with tech enthusiasts, explore innovative technologies, and discuss using tech for social change. Perfect for developers, data scientists, students, and tech lovers. Present your story or project to inspire and engage. Register now to be part of a vibrant community. Don't miss this chance to network and learn!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-nashville-presents-gdg-nashvilles-first-monthly-virtual-meet-up-2026-09-27/",
       "new": false,
       "people": []
     },
@@ -429,9 +243,9 @@
       "chapter_url": "https://gdg.community.dev/gdg-tirana/",
       "where": "Tiranë, Tirana County, AL",
       "country": "AL",
-      "start_local": "2026-09-28T12:00:00-04:00",
+      "start_local": "2026-09-28T11:50:00-04:00",
       "end_local": "2026-09-28T13:15:00-04:00",
-      "when": "Mon Sep 28, 2026 at 12:00 PM ET",
+      "when": "Mon Sep 28, 2026 at 11:50 AM ET",
       "registration": "Free registration",
       "tags": [
         "AI",
@@ -516,7 +330,7 @@
       ],
       "blurb": "Join an engaging workshop on Native React to learn the essentials of building dynamic web interfaces. Covering React components, state management, and hooks, this session suits both beginners and those refining their skills. Enhance your frontend development capabilities and connect with fellow tech enthusiasts. Secure your spot today to start mastering Native React!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-kickstart-your-frontend-journey-with-native-react/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -585,6 +399,90 @@
       "people": []
     },
     {
+      "id": 131398,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Inside the Model: How Machine Learning Actually Learns",
+      "chapter": "GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya/",
+      "where": "Juja, Kiambu County, KE",
+      "country": "KE",
+      "start_local": "2026-09-29T10:30:00-04:00",
+      "end_local": "2026-09-29T12:30:00-04:00",
+      "when": "Tue Sep 29, 2026 at 10:30 AM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Explore the inner workings of machine learning at this hands-on event. Understand the learning loop, gradient descent, and the balance of overfitting vs. underfitting through a live code-along. Perfect for both beginners and those with some experience, this session enhances your grasp of what's happening under the hood as you navigate the ML/AI journey.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-inside-the-model-how-machine-learning-actually-learns/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 131406,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Getting Hands-On: Your First Steps in Google Clou",
+      "chapter": "GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya/",
+      "where": "Juja, Kiambu County, KE",
+      "country": "KE",
+      "start_local": "2026-09-29T10:30:00-04:00",
+      "end_local": "2026-09-29T12:00:00-04:00",
+      "when": "Tue Sep 29, 2026 at 10:30 AM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Google Cloud",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Jump into the Google Cloud Console with hands-on guidance in creating projects, managing access with IAM, and setting up billing alerts. Perfect for beginners or those continuing from Session 1, this interactive session empowers participants to confidently navigate and leverage Google Cloud. Bring your laptop, free trial, and questions for a live, practical experience.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-getting-hands-on-your-first-steps-in-google-clou/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 131437,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Building Your First Mobile App 103",
+      "chapter": "GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya/",
+      "where": "Juja, Kiambu County, KE",
+      "country": "KE",
+      "start_local": "2026-09-29T10:30:00-04:00",
+      "end_local": "2026-09-29T12:00:00-04:00",
+      "when": "Tue Sep 29, 2026 at 10:30 AM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI",
+        "Android",
+        "Community Building",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join Session 03 of the GDG JKUAT Mobile Development Track to create your first modern Android app. You'll design a user interface using Kotlin and Jetpack Compose, leverage Google Antigravity AI, and run your app live. Bring your laptop and Android device. Refreshments provided. RSVP to secure your spot!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-building-your-first-mobile-app-103/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 131454,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Linux Local Privilege Escalation",
+      "chapter": "GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya/",
+      "where": "Juja, Kiambu County, KE",
+      "country": "KE",
+      "start_local": "2026-09-29T10:30:00-04:00",
+      "end_local": "2026-09-29T12:30:00-04:00",
+      "when": "Tue Sep 29, 2026 at 10:30 AM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Discover the intricacies of privilege escalation in Linux at our workshop, with a focus on setuid program vulnerabilities. Ideal for developers and tech enthusiasts looking to boost their cybersecurity skills, participants learn to identify threats and secure systems effectively.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-linux-local-privilege-escalation/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 131386,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -605,7 +503,7 @@
       ],
       "blurb": "Join the GDG on Campus Info Session to explore opportunities in software, AI, and technology. Perfect for university students eager to connect theory with practice and engage in projects using Google developer technologies. Discover plans for the year and find out how you can join this global community. Ideal for tech enthusiasts ready to dive into the world of innovation.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-zonguldak-bulent-ecevit-university-zonguldak-turkiye-presents-info-session26/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -692,7 +590,7 @@
       ],
       "blurb": "Dive into web development with our engaging workshop focusing on HTML. Perfect for beginners and those wanting to strengthen skills, participants will gain hands-on experience and create their first web page. Connect with fellow tech enthusiasts and fuel your curiosity. Bring a laptop and join us for this fantastic opportunity to start your coding journey.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-kickstart-your-web-journey-intro-to-html/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -711,6 +609,34 @@
       "tags": [],
       "blurb": "Join an online session on 29/9/2026 to explore data cleaning and interactive dashboards. Learn Excel techniques like Find & Replace and Pivot Tables to transform raw data into insights, using the Jumia Home & Kitchen project as a case study. Perfect for anyone eager to enhance data skills and network with peers. Reserve your spot now!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-mastering-data-excellence-with-jumia-dashboard/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 131501,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Build with Google AI : Study Sprint Edition - Day 1",
+      "chapter": "GDG on Campus Dedan Kimathi University of Technology - Nyeri, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya/",
+      "where": "Nyeri, Nyeri County, KE",
+      "country": "KE",
+      "start_local": "2026-09-29T13:00:00-04:00",
+      "end_local": "2026-09-29T14:00:00-04:00",
+      "when": "Tue Sep 29, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - AI Studio",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "DevFest",
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join us for Day 1 of our three-part study sprint as we dive into AI agents, Google Cloud foundations, and intelligent workflows in preparation for DevFest 2026.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-build-with-google-ai-study-sprint-edition-day-1/",
       "new": true,
       "people": []
     },
@@ -793,7 +719,7 @@
       ],
       "blurb": "Certification Study Groups are weekly events over 6 weeks for those preparing for the Google Cloud Digital Leader certification. Participants engage in 6 live sessions with exam content, access an online community for support, and benefit from video courses and hands-on training on the Google Skills platform.",
       "url": "https://gdg.community.dev/events/details/google-gdg-open-presents-certification-study-group-digital-leader-certification-group-2/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Jose Carlos Guerra Martinez",
@@ -921,6 +847,27 @@
       ]
     },
     {
+      "id": 131414,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Kickstart Your Journey with JavaScript",
+      "chapter": "GDG on Campus Technical University of Kenya - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-technical-university-of-kenya-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-09-30T12:30:00-04:00",
+      "end_local": "2026-09-30T14:30:00-04:00",
+      "when": "Wed Sep 30, 2026 at 12:30 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Web"
+      ],
+      "blurb": "Join GDG on Campus TU-K for an inaugural event exploring the essentials of JavaScript. Perfect for aspiring web developers, this hands-on session covers foundational concepts and key functionalities. Connect with fellow tech enthusiasts, build your skills, and ignite your web development journey. Reserve your spot today and start coding the future.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-kenya-nairobi-kenya-presents-kickstart-your-journey-with-javascript/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 130522,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -957,7 +904,7 @@
       "tags": [],
       "blurb": "Join GDG on Campus at Taif University for 'Welcome to the Gemini Era,' exploring next-gen tech advancements. Discover their impact on industries and daily life while connecting with fellow tech enthusiasts. RSVP to secure your spot and become part of a community shaping the future.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-taif-university-taif-saudi-arabia-presents-welcome-to-the-gemini-era/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -978,7 +925,7 @@
       ],
       "blurb": "انضم إلى فعالية اليوم الوطني السعودي للاحتفاء بالابتكار الثقافي والتراث العريق. تتيح الفعالية للمشاركين حضور نقاشات تفاعلية حول دمج الأصالة والحداثة في المشاريع التقنية والإبداعية. فرصة مميزة للتواصل مع المبدعين وتوسيع معارفك المهنية. سجل الآن وشارك في حركة الابتكار!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-taif-university-taif-saudi-arabia-presents-mn-rthn-l-btkrn/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -999,7 +946,7 @@
       ],
       "blurb": "Join the GDG on Campus CIC Online Info Session on September 30 at 9 PM to learn about our community, teams, and activities. Perfect for both newcomers and those familiar with GDG, this event offers insights into our learning opportunities and how to get involved. RSVP to receive the meeting link. Discover what GDG on Campus CIC has to offer and have your questions answered!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-canadian-international-college-cairo-egypt-presents-online-info-session/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1141,6 +1088,25 @@
       ]
     },
     {
+      "id": 131475,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "GDG Philly September Hangout: Tech & Talk",
+      "chapter": "GDG Philadelphia",
+      "chapter_url": "https://gdg.community.dev/gdg-philadelphia/",
+      "where": "Philadelphia, PA, US",
+      "country": "US",
+      "start_local": "2026-09-30T19:00:00-04:00",
+      "end_local": "2026-09-30T20:00:00-04:00",
+      "when": "Wed Sep 30, 2026 at 7:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "GDG Philly September Hangout invites tech enthusiasts to connect and explore the latest Google technologies in an evening of engaging discussions. Join fellow innovators to share ideas and be part of the growing community. Bring a friend and help shape the future together.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-philadelphia-presents-gdg-philly-september-hangout-tech-amp-talk/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 128460,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1166,6 +1132,62 @@
       "people": []
     },
     {
+      "id": 131400,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "All About Gemma 4!",
+      "chapter": "GDG Udaipur",
+      "chapter_url": "https://gdg.community.dev/gdg-udaipur/",
+      "where": "Udaipur, Rajasthan, IN",
+      "country": "IN",
+      "start_local": "2026-10-01T09:30:00-04:00",
+      "end_local": "2026-10-01T10:30:00-04:00",
+      "when": "Thu Oct 01, 2026 at 9:30 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - Gemma",
+        "Google Cloud",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "All about Gemma 4 is organized by GDG Udaipur in association with Women Techmakers Technovation Udaipur as community partner.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-udaipur-presents-all-about-gemma-4/",
+      "new": true,
+      "people": [
+        {
+          "name": "Krupa Galiya",
+          "role": "speaker",
+          "title": "Google Developer Expert in AI",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Krupa%20Galiya",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
+      "id": 131442,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Disney Data analytics conf reflections",
+      "chapter": "GDG Cloud Almaty",
+      "chapter_url": "https://gdg.community.dev/gdg-cloud-almaty/",
+      "where": "Almaty, Almaty Province, KZ",
+      "country": "KZ",
+      "start_local": "2026-10-01T10:00:00-04:00",
+      "end_local": "2026-10-01T10:30:00-04:00",
+      "when": "Thu Oct 01, 2026 at 10:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join Danaya Bukyenova, Senior Product Analytics Manager at Bloomberg Industry Group, as she discusses insights from the Disney Data Analytics Conference. The stream will take place in the morning, New York time.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-almaty-presents-disney-data-analytics-conf-reflections/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 131319,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1181,7 +1203,7 @@
       "tags": [],
       "blurb": "Dive into mobile development with our inaugural Kotlin Thursdays! Perfect for newcomers and those curious about Kotlin, this event introduces the basics and helps you start building your first mobile app. Learn from fellow enthusiasts and kickstart your tech journey. Bring your enthusiasm and let's create something amazing. Register now to secure your spot!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-moi-university-eldoret-kenya-presents-kotlin-thursdays-introduction-to-mobile-development/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1357,6 +1379,42 @@
       "people": []
     },
     {
+      "id": 131452,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Construye con Google Maps Platform e Inteligencia Artificial",
+      "chapter": "GDG CDMX",
+      "chapter_url": "https://gdg.community.dev/gdg-cdmx/",
+      "where": "Mexico City, CDMX, MX",
+      "country": "MX",
+      "start_local": "2026-10-02T21:00:00-04:00",
+      "end_local": "2026-10-02T22:30:00-04:00",
+      "when": "Fri Oct 02, 2026 at 9:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Google Maps Platform",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "El Google Developer Group CDMX invita a ingenieras/os de software, investigadoras/es y entusiastas de la tecnología a la sesión dedicada al desarrollo del Codelab: Construye con Google Maps Platform e Inteligencia Artificial. En este codelab crearemos un explorador de bloques, un juego geoespacial interactivo que combina datos de mapas en tiempo real con Inteligencia Artificial Generativa.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-construye-con-google-maps-platform-e-inteligencia-artificial/",
+      "new": true,
+      "people": [
+        {
+          "name": "Enrique Diaz",
+          "role": "speaker",
+          "title": "Lead Researcher",
+          "company": "AI Club Condesa",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Enrique%20Diaz%20AI%20Club%20Condesa",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
       "id": 130149,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1443,6 +1501,28 @@
       ]
     },
     {
+      "id": 131466,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Data Detective",
+      "chapter": "GDG on Campus Kenyatta University - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-kenyatta-university-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-10-03T12:00:00-04:00",
+      "end_local": "2026-10-03T13:30:00-04:00",
+      "when": "Sat Oct 03, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Your data is hiding something:\n\nBefore the models, before the charts, before the conclusions. Have you actually investigated your data? \n\nWHAT WE’LL INVESTIGATE\n• Problem-Solving in Data Science\n• Data Screening & Investigation\n• Finding the clues hidden in your data\n\nLet's take data under the microscope.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kenyatta-university-nairobi-kenya-presents-data-detective/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 131027,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1501,7 +1581,7 @@
       "tags": [],
       "blurb": "Join the AI/ML in the Wild Showcase to see projects from Challenge #01. Participants share their journey of teaching machines to see, highlighting successes and lessons learned. Perfect for builders, enthusiasts, or the curious, this event explores AI/ML innovations and community insights. Discover what happens when AI/ML ventures into the wild and what's next in this exciting field.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-aiml-in-the-wild-challenge-01-showcase/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1535,6 +1615,41 @@
           "title": "Ingénieur systèmes et Cloud",
           "company": "",
           "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Corneille%20ALLOGBALO",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
+      "id": 131447,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Probabilidad & Estadística Científica",
+      "chapter": "GDG CDMX",
+      "chapter_url": "https://gdg.community.dev/gdg-cdmx/",
+      "where": "Mexico City, CDMX, MX",
+      "country": "MX",
+      "start_local": "2026-10-03T21:00:00-04:00",
+      "end_local": "2026-10-03T22:30:00-04:00",
+      "when": "Sat Oct 03, 2026 at 9:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Career Development",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "El Club de Matemáticas para la IA invita a ingenieros, investigadores y entusiastas tecnológicos a una sesión sobre Probabilidad y Estadística. Se explorarán variables aleatorias y el Teorema de Bayes con actividades prácticas de análisis de datos y probabilidades usando Pandas y SciPy. Perfecto para quienes desean profundizar en estadística en IA.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-probabilidad-amp-estadistica-cientifica/",
+      "new": true,
+      "people": [
+        {
+          "name": "Geovanni Zepeda",
+          "role": "speaker",
+          "title": "Data Scientist",
+          "company": "DEVF",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF",
           "linkedin_exact": false,
           "twitter": ""
         }
@@ -1616,6 +1731,38 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-cloudy-book-club-becoming-sre-chapter-1-to-4-part-13/",
       "new": false,
       "people": []
+    },
+    {
+      "id": 131472,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "The Agent-Ready web: Architecting applications for WebMCP",
+      "chapter": "GDG Glasgow",
+      "chapter_url": "https://gdg.community.dev/gdg-glasgow/",
+      "where": "Glasgow, V2, GB",
+      "country": "GB",
+      "start_local": "2026-10-06T15:00:00-04:00",
+      "end_local": "2026-10-06T15:30:00-04:00",
+      "when": "Tue Oct 06, 2026 at 3:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI",
+        "Web"
+      ],
+      "blurb": "Explore the future of web design with WebMCP, the new standard enabling AI agents to interact with web services securely. Discover how it redefines human-computer interaction and outperforms traditional methods. Ideal for engineering teams ready to adopt cutting-edge architectural patterns for an AI-driven web ecosystem.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-glasgow-presents-the-agent-ready-web-architecting-applications-for-webmcp/",
+      "new": true,
+      "people": [
+        {
+          "name": "Patty O’Callaghan",
+          "role": "speaker",
+          "title": "Head of AI Architecture and Engineering Group",
+          "company": "Charles River Laboratories",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Patty%20O%E2%80%99Callaghan%20Charles%20River%20Laboratories",
+          "linkedin_exact": false,
+          "twitter": "pattyneta"
+        }
+      ]
     },
     {
       "id": 129570,
@@ -1758,6 +1905,59 @@
       ]
     },
     {
+      "id": 131286,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Build with AI (Virtual): Interactive Geospatial Apps with Google Maps & Gemini",
+      "chapter": "GDG on Campus University of Nairobi - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-nairobi-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-10-07T12:30:00-04:00",
+      "end_local": "2026-10-07T13:30:00-04:00",
+      "when": "Wed Oct 07, 2026 at 12:30 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI - AI Studio",
+        "Build with AI",
+        "Google Maps Platform",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Learn how to build \"Block Explorer\"—an interactive web app combining Google Maps Platform with Gemini generative AI—and earn your Google for Developers learning badge.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-nairobi-nairobi-kenya-presents-build-with-ai-virtual-interactive-geospatial-apps-with-google-maps-amp-gemini/",
+      "new": true,
+      "people": [
+        {
+          "name": "Nathan Mwaniki",
+          "role": "speaker",
+          "title": "GDGoC Organizer",
+          "company": "University of Nairobi",
+          "linkedin": "https://www.linkedin.com/in/nathan-mwaniki/",
+          "linkedin_exact": true,
+          "twitter": "mwaniki_na"
+        }
+      ]
+    },
+    {
+      "id": 131416,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Web Build Lab: Interactive DOM Mastery",
+      "chapter": "GDG on Campus Technical University of Kenya - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-technical-university-of-kenya-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-10-07T12:30:00-04:00",
+      "end_local": "2026-10-07T14:30:00-04:00",
+      "when": "Wed Oct 07, 2026 at 12:30 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join the Web Build Lab to master dynamic DOM interactions! This hands-on workshop is perfect for beginners and those with some experience, offering practical skills to create engaging web pages. Enhance your development capabilities, collaborate with peers, and shape the future of web technologies at TU-K. Bring your laptop and code together with us!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-technical-university-of-kenya-nairobi-kenya-presents-web-build-lab-interactive-dom-mastery/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 130519,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1880,6 +2080,25 @@
       ]
     },
     {
+      "id": 129715,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "AI Agent for Procurement Webinar (Public Service Commission of Canada x GDG Concordia)",
+      "chapter": "GDG on Campus Concordia University - Montreal, Canada",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-concordia-university-montreal-canada/",
+      "where": "Montreal, QC, CA",
+      "country": "CA",
+      "start_local": "2026-10-08T12:00:00-04:00",
+      "end_local": "2026-10-08T12:45:00-04:00",
+      "when": "Thu Oct 08, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join a 45-minute webinar on October 8th at 12:00 PM with PSC Canada's Alexandre Bergeron and Yu Liu to explore AI in the public sector. Discover how AI enhances procurement efficiency and learn about government tech innovations. Students can also find out about opportunities through the Federal Student Work Experience Program. Follow GDG Concordia and PSC for updates.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-concordia-university-montreal-canada-presents-ai-agent-for-procurement-webinar-public-service-commission-of-canada-x-gdg-concordia/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 130416,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1971,7 +2190,7 @@
       ],
       "blurb": "La hackathon convoca el diseño de herramientas de software y plataformas digitales que impacten positivamente en el desa...",
       "url": "https://gdg.community.dev/events/details/google-gdg-piura-presents-hackathon-regional-de-innovacion/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1995,7 +2214,7 @@
       ],
       "blurb": "Join us for an exciting gathering of tech enthusiasts and professionals to explore the incredible advantages of engaging...",
       "url": "https://gdg.community.dev/events/details/google-gdg-bamako-presents-tech-communities-amp-events-benefits-for-developers-amp-tech-enthusiasts/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Moussa Coulibaly",
@@ -2005,6 +2224,39 @@
           "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Moussa%20Coulibaly",
           "linkedin_exact": false,
           "twitter": "Ingmocly"
+        }
+      ]
+    },
+    {
+      "id": 111959,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Data Science-AI-Cloud Sundays",
+      "chapter": "GDG Cloud Kaduna",
+      "chapter_url": "https://gdg.community.dev/gdg-cloud-kaduna/",
+      "where": "Kaduna, Kaduna State, NG",
+      "country": "NG",
+      "start_local": "2026-10-11T13:00:00-04:00",
+      "end_local": "2026-10-11T15:00:00-04:00",
+      "when": "Sun Oct 11, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "Google Cloud",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join us for an exciting deep dive into \"Cloud-Native Data Science for Beginners\". In this interactive session, we’ll unr...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-10-11/",
+      "new": true,
+      "people": [
+        {
+          "name": "Peter Okwukogu",
+          "role": "host",
+          "title": "Google Developer Expert (GDE) for Data Cloud",
+          "company": "CoLab Innovation Hub",
+          "linkedin": "https://www.linkedin.com/in/ipablo26/",
+          "linkedin_exact": true,
+          "twitter": "ipablo26"
         }
       ]
     }
@@ -2160,6 +2412,22 @@
       ]
     },
     {
+      "name": "Enrique Diaz",
+      "role": "speaker",
+      "title": "Lead Researcher",
+      "company": "AI Club Condesa",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Enrique%20Diaz%20AI%20Club%20Condesa",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Construye con Google Maps Platform e Inteligencia Artificial",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-construye-con-google-maps-platform-e-inteligencia-artificial/",
+          "when": "Fri Oct 02, 2026 at 9:00 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Gabriel Coimbra",
       "role": "host",
       "title": "Organizer",
@@ -2185,9 +2453,9 @@
       "twitter": "",
       "events": [
         {
-          "title": "Introducción al Cálculo Infinitesimal & Avanzado parte II",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-introduccion-al-calculo-infinitesimal-amp-avanzado-parte-ii/",
-          "when": "Sat Sep 26, 2026 at 9:00 PM ET"
+          "title": "Probabilidad & Estadística Científica",
+          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-probabilidad-amp-estadistica-cientifica/",
+          "when": "Sat Oct 03, 2026 at 9:00 PM ET"
         }
       ]
     },
@@ -2203,7 +2471,7 @@
         {
           "title": "Agent Improv: Build an AI Agent Live",
           "url": "https://gdg.community.dev/events/details/google-gdg-tirana-presents-agent-improv-build-an-ai-agent-live/",
-          "when": "Mon Sep 28, 2026 at 12:00 PM ET"
+          "when": "Mon Sep 28, 2026 at 11:50 AM ET"
         }
       ]
     },
@@ -2346,18 +2614,18 @@
       ]
     },
     {
-      "name": "Kowshiq Kattamuri",
+      "name": "Krupa Galiya",
       "role": "speaker",
-      "title": "",
+      "title": "Google Developer Expert in AI",
       "company": "",
-      "linkedin": "https://www.linkedin.com/in/kattamurikowshiq",
-      "linkedin_exact": true,
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Krupa%20Galiya",
+      "linkedin_exact": false,
       "twitter": "",
       "events": [
         {
-          "title": "Ontology-Augmented Generation: Enhancing AI with Structured Knowledge",
-          "url": "https://gdg.community.dev/events/details/google-gdg-vijayawada-presents-ontology-augmented-generation-enhancing-ai-with-structured-knowledge/",
-          "when": "Sun Sep 27, 2026 at 8:30 AM ET"
+          "title": "All About Gemma 4!",
+          "url": "https://gdg.community.dev/events/details/google-gdg-udaipur-presents-all-about-gemma-4/",
+          "when": "Thu Oct 01, 2026 at 9:30 AM ET"
         }
       ]
     },
@@ -2410,6 +2678,22 @@
       ]
     },
     {
+      "name": "Nathan Mwaniki",
+      "role": "speaker",
+      "title": "GDGoC Organizer",
+      "company": "University of Nairobi",
+      "linkedin": "https://www.linkedin.com/in/nathan-mwaniki/",
+      "linkedin_exact": true,
+      "twitter": "mwaniki_na",
+      "events": [
+        {
+          "title": "Build with AI (Virtual): Interactive Geospatial Apps with Google Maps & Gemini",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-nairobi-nairobi-kenya-presents-build-with-ai-virtual-interactive-geospatial-apps-with-google-maps-amp-gemini/",
+          "when": "Wed Oct 07, 2026 at 12:30 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Oleksandr (Alex) Snihovyi",
       "role": "speaker",
       "title": "Founder & CEO",
@@ -2438,6 +2722,22 @@
           "title": "Beyond the Persona: Mastering Agent Skills and Commands",
           "url": "https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-beyond-the-persona-mastering-agent-skills-and-commands/",
           "when": "Wed Sep 30, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Patty O’Callaghan",
+      "role": "speaker",
+      "title": "Head of AI Architecture and Engineering Group",
+      "company": "Charles River Laboratories",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Patty%20O%E2%80%99Callaghan%20Charles%20River%20Laboratories",
+      "linkedin_exact": false,
+      "twitter": "pattyneta",
+      "events": [
+        {
+          "title": "The Agent-Ready web: Architecting applications for WebMCP",
+          "url": "https://gdg.community.dev/events/details/google-gdg-glasgow-presents-the-agent-ready-web-architecting-applications-for-webmcp/",
+          "when": "Tue Oct 06, 2026 at 3:00 PM ET"
         }
       ]
     },
@@ -2473,13 +2773,13 @@
       "events": [
         {
           "title": "Data Science-AI-Cloud Sundays",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-09-27/",
-          "when": "Sun Sep 27, 2026 at 1:00 PM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-10-04/",
+          "when": "Sun Oct 04, 2026 at 1:00 PM ET"
         },
         {
           "title": "Data Science-AI-Cloud Sundays",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-10-04/",
-          "when": "Sun Oct 04, 2026 at 1:00 PM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-10-11/",
+          "when": "Sun Oct 11, 2026 at 1:00 PM ET"
         }
       ]
     },
