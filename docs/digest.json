@@ -1,51 +1,8 @@
 {
-  "generated": "2026-10-02T12:26:59.759242-04:00",
-  "window_start": "2026-10-02",
-  "window_end": "2026-10-16",
+  "generated": "2026-10-03T11:01:19.404428-04:00",
+  "window_start": "2026-10-03",
+  "window_end": "2026-10-17",
   "in_person": [
-    {
-      "id": 131359,
-      "kind": "in_person",
-      "audience_type": "IN_PERSON",
-      "title": "Why Your Tech Projects are Failing (And how you can finish them).",
-      "chapter": "GDG on Campus Ontario Tech University - Oshawa, Canada",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-ontario-tech-university-oshawa-canada/",
-      "where": "Ontario Tech University, Oshawa, ON, CA",
-      "country": "CA",
-      "start_local": "2026-10-02T16:00:00-04:00",
-      "end_local": "2026-10-02T17:00:00-04:00",
-      "when": "Fri Oct 02, 2026 at 4:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join an inspiring session with Edrees, a General Motors intern, as he shares his journey of building projects for over 100,000 users. Learn how to generate ideas, develop projects effectively, and enjoy the building process. Don't miss this informative talk at OTU North Campus in Oshawa in SHA 038. Perfect for aspiring innovators and creators. Register now and bring friends!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-ontario-tech-university-oshawa-canada-presents-why-your-tech-projects-are-failing-and-how-you-can-finish-them/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 131179,
-      "kind": "in_person",
-      "audience_type": "IN_PERSON",
-      "title": "Recruiter Series #1: AMA w/ BobaTalks",
-      "chapter": "GDG on Campus McMaster University - Hamilton, Canada",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-mcmaster-university-hamilton-canada/",
-      "where": "Peter George Centre for Living and Learning, Hamilton, ON, CA",
-      "country": "CA",
-      "start_local": "2026-10-02T18:30:00-04:00",
-      "end_local": "2026-10-02T20:00:00-04:00",
-      "when": "Fri Oct 02, 2026 at 6:30 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Career Development",
-        "Community Building",
-        "Networking",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Join Jeff Nguyen, Founder of BobaTalks, for an engaging Q&A session on October 2nd, 2026, from 6:30 pm to 8:00 pm at PGCLL M24. Dive into tech recruiting insights, learn how to stand out in applications, and master the hiring process. Perfect for those entering the tech industry or seeking their next big opportunity. Don't miss this chance to elevate your career.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-recruiter-series-1-ama-w-bobatalks/",
-      "new": false,
-      "people": []
-    },
     {
       "id": 128457,
       "kind": "in_person",
@@ -277,152 +234,6 @@
     }
   ],
   "online": [
-    {
-      "id": 120807,
-      "kind": "online",
-      "audience_type": "HYBRID",
-      "title": "Utah Flutter Meetup",
-      "chapter": "GDG Lindon",
-      "chapter_url": "https://gdg.community.dev/gdg-lindon/",
-      "where": "Domo, Inc, American Fork, UT, UT, US",
-      "country": "US",
-      "start_local": "2026-10-01T21:00:00-04:00",
-      "end_local": "2026-10-01T23:00:00-04:00",
-      "when": "Thu Oct 01, 2026 at 9:00 PM ET",
-      "registration": "External registration",
-      "tags": [
-        "Flutter",
-        "Web"
-      ],
-      "blurb": "To see the agenda go to: https://www.meetup.com/utah-flutter/events/",
-      "url": "https://gdg.community.dev/events/details/google-gdg-lindon-presents-utah-flutter-meetup-2026-10-01/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 120251,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "GDG Columbus: Shots On Goal",
-      "chapter": "GDG Columbus",
-      "chapter_url": "https://gdg.community.dev/gdg-columbus/",
-      "where": "Columbus, OH, US",
-      "country": "US",
-      "start_local": "2026-10-02T08:00:00-04:00",
-      "end_local": "2026-10-02T09:00:00-04:00",
-      "when": "Fri Oct 02, 2026 at 8:00 AM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Career Development",
-        "Community Building",
-        "Networking",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Connect with Pete and Jim Friday morning to discuss your current projects! Show off your successes! Discuss future plans!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-10-02/",
-      "new": false,
-      "people": [
-        {
-          "name": "Pete Gordon",
-          "role": "host",
-          "title": "",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon",
-          "linkedin_exact": false,
-          "twitter": "petegordon"
-        }
-      ]
-    },
-    {
-      "id": 131540,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Innovación, Datos y Tecnologías del Futuro - Lanzamiento LGAD",
-      "chapter": "GDG Cloud Mexico City",
-      "chapter_url": "https://gdg.community.dev/gdg-cloud-mexico-city/",
-      "where": "México City, Mexico City, MX",
-      "country": "MX",
-      "start_local": "2026-10-02T11:00:00-04:00",
-      "end_local": "2026-10-02T16:00:00-04:00",
-      "when": "Fri Oct 02, 2026 at 11:00 AM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Build with AI",
-        "Conference",
-        "Google Workspace",
-        "Networking",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Únete a este gran transmisión en vivo de este gran congreso desde el Sur de Tamaulipas para el lanzamiento oficial del Congreso para la Educación: Innovación, Datos y Tecnologías del Futuro - Lanzamiento LGAD, con expertos en IA, Cloud y Google for Education.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-innovacion-datos-y-tecnologias-del-futuro-lanzamiento-lgad-1/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 131566,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Python 101: Introduction to Python Development",
-      "chapter": "GDG on Campus Dedan Kimathi University of Technology - Nyeri, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya/",
-      "where": "Nyeri, Nyeri County, KE",
-      "country": "KE",
-      "start_local": "2026-10-02T11:00:00-04:00",
-      "end_local": "2026-10-02T12:30:00-04:00",
-      "when": "Fri Oct 02, 2026 at 11:00 AM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Join a hands-on Python session perfect for beginners and those refreshing their skills. Learn core concepts through simple, practical exercises.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-python-101-introduction-to-python-development/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 131568,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "From Request to Response: Building Backends with JavaScript.",
-      "chapter": "GDG on Campus Mount Kenya University - Thika, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-mount-kenya-university-thika-kenya/",
-      "where": "Thika, Nairobi County, KE",
-      "country": "KE",
-      "start_local": "2026-10-02T12:00:00-04:00",
-      "end_local": "2026-10-02T14:00:00-04:00",
-      "when": "Fri Oct 02, 2026 at 12:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Join a hands-on workshop on 'Backend Development with JavaScript' and build a simple REST API with Node.js and Express.js. Learn essentials like HTTP, REST APIs, CRUD operations, and database integration. Perfect for those eager to enhance their backend skills. Bring your laptop and enthusiasm to create something amazing. RSVP now and connect with fellow innovators!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mount-kenya-university-thika-kenya-presents-from-request-to-response-building-backends-with-javascript/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 131588,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Intro to Competitive Programming",
-      "chapter": "GDG on Campus Institut Supérieur des Arts Multimédia - Manouba, Tunisia",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-institut-superieur-des-arts-multimedia-manouba-tunisia/",
-      "where": "Manouba, Manouba, TN",
-      "country": "TN",
-      "start_local": "2026-10-02T15:00:00-04:00",
-      "end_local": "2026-10-02T16:00:49-04:00",
-      "when": "Fri Oct 02, 2026 at 3:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Join the first session of the Problem Solving Series: Intro to Competitive Programming. Open to all skill levels, this event features Mohamed Nadhir Djebbi, who will cover essentials like online judges and Codeforces setup. Perfect for beginners or those needing a refresher. Happening October 2, 2026, at 8 PM via Google Meet. Elevate your coding skills!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-institut-superieur-des-arts-multimedia-manouba-tunisia-presents-intro-to-competitive-programming/",
-      "new": false,
-      "people": []
-    },
     {
       "id": 128388,
       "kind": "online",
@@ -774,7 +585,7 @@
       ],
       "blurb": "Unlock your AI potential at the Vibe Coding Workshop from 10/5 to 10/18. Open to all students and club members, this event encourages you to collaborate with AI to create web projects. Submit your work on Discord and win Google gifts. No experience needed, just bring your ideas and enthusiasm!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-chung-shan-medical-university-taichung-taiwan-presents-build-with-aivibe-coding-shi-zuo-gong-zuo-fang/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -851,6 +662,47 @@
       "blurb": "Join Moses Cartona for a hands-on IBM SkillsBuild workshop, exploring free learning resources and digital skills training. Designed for those eager to grow in tech, this event offers career-focused opportunities and networking with peers. Reserve your spot to boost your skills and expand your network.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-ibm-skillsbuild-unlock-your-tech-potential/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 131921,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "انماط التعلم لدى الطلاب",
+      "chapter": "GDG on Campus Taif University, Taif, Saudi Arabia",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-taif-university-taif-saudi-arabia/",
+      "where": "Taif, Makkah Region, SA",
+      "country": "SA",
+      "start_local": "2026-10-05T13:00:00-04:00",
+      "end_local": "2026-10-05T15:00:00-04:00",
+      "when": "Mon Oct 05, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "تعرف على نظريات التعلم وفهم التفضيلات وأنماط التعلم. استكشف طرق توظيف الاستراتيجيات المناسبة للمتعلمين وطور خطة دراسية شخصية. شارك في قياس الأثر والتقييم، بالإضافة إلى النقد والتفكير في حدود أنماط التعلم. مناسبة للمعلمين والمربين الراغبين في تحسين استراتيجيات التعليم.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-taif-university-taif-saudi-arabia-presents-nmt-ltlm-ld-ltlb/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 131959,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "GDG on Campus HUFS Tuesday Live (GTL) - Weekly",
+      "chapter": "GDG on Campus Hankuk University of Foreign Studies - Seoul, South Korea",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea/",
+      "where": "Seoul, Gyeonggi-do, KR",
+      "country": "KR",
+      "start_local": "2026-10-06T08:00:00-04:00",
+      "end_local": "2026-10-06T09:00:00-04:00",
+      "when": "Tue Oct 06, 2026 at 8:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join this week’s Tuesday Live (GTL) for exciting updates from GDG on Campus HUFS, followed by two engaging presentations. Son Jaehyuk delves into the world of Rust, while Seo Heewon explores browser developer tools. Perfect for tech enthusiasts and students eager to learn and connect.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-hankuk-university-of-foreign-studies-seoul-south-korea-presents-gdg-on-campus-hufs-tuesday-live-gtl-weekly-33/",
+      "new": true,
       "people": []
     },
     {
@@ -1789,7 +1641,7 @@
       ],
       "blurb": "How can we use the growing wealth of satellite data to better understand our planet? \nJoin us for an engaging hybrid tech talk on Google Earth Engine (GEE) and its applications in Earth observation and geospatial analysis! \n\nVirtual and In-Person\nDate: Thursday, Oct 15\nTime: 10-11am ET\nRefreshments: provided, join us from 9:30am",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-yale-university-new-haven-united-states-presents-google-earth-engine-from-satellite-data-to-insights/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Emil Cherrington",
@@ -1829,7 +1681,7 @@
       ],
       "blurb": "per cominciare a capire i microcontrollori...",
       "url": "https://gdg.community.dev/events/details/google-gdg-roma-presents-elettronica-amp-hardware-per-sviluppatori/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1848,8 +1700,75 @@
       "tags": [],
       "blurb": "Join a session on October 15, 2026, from 2:00 PM to 3:00 PM EDT to explore running Apache Spark jobs on Apache Iceberg using Google Cloud. Experts Brad Miro and Suda Srinivasan cover serverless ETL, PySpark prep, and AI capabilities. Ideal for data enthusiasts seeking to enhance cloud data processing skills. RSVP to learn and connect.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-north-carolina-at-state-university-presents-innovate-with-google-cloud-high-performance-spark-on-iceberg/",
-      "new": true,
+      "new": false,
       "people": []
+    },
+    {
+      "id": 120252,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "GDG Columbus: Shots On Goal",
+      "chapter": "GDG Columbus",
+      "chapter_url": "https://gdg.community.dev/gdg-columbus/",
+      "where": "Columbus, OH, US",
+      "country": "US",
+      "start_local": "2026-10-16T08:00:00-04:00",
+      "end_local": "2026-10-16T09:00:00-04:00",
+      "when": "Fri Oct 16, 2026 at 8:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Career Development",
+        "Community Building",
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Connect with Pete and Jim Friday morning to discuss your current projects! Show off your successes! Discuss future plans!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-10-16/",
+      "new": true,
+      "people": [
+        {
+          "name": "Pete Gordon",
+          "role": "host",
+          "title": "",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon",
+          "linkedin_exact": false,
+          "twitter": "petegordon"
+        }
+      ]
+    },
+    {
+      "id": 131193,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Pre-DevFest Series: Building User-Centered Digital Solutions with AI",
+      "chapter": "GDG Umuahia",
+      "chapter_url": "https://gdg.community.dev/gdg-umuahia/",
+      "where": "Umuahia, Abia State, NG",
+      "country": "NG",
+      "start_local": "2026-10-16T13:00:00-04:00",
+      "end_local": "2026-10-16T14:15:00-04:00",
+      "when": "Fri Oct 16, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "UX / UI Design",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "The Pre-DevFest Virtual Series serves as the technical runway to DevFest Umuahia 2026 (holding November 21, 2026). Technology is only as good as the problem it solves. This session bridges product thinking and artificial intelligence, teaching developers and early-stage founders how to discover user pain points, validate problem spaces, and leverage AI to build digital products.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-umuahia-presents-pre-devfest-series-building-user-centered-digital-solutions-with-ai/",
+      "new": true,
+      "people": [
+        {
+          "name": "Chidiebube Herbert Nzenwa",
+          "role": "speaker",
+          "title": "I.T Analysis (Product Designer)",
+          "company": "Exwhyzee technologies",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Chidiebube%20Herbert%20Nzenwa%20Exwhyzee%20technologies",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     }
   ],
   "people": [
@@ -1898,6 +1817,22 @@
           "title": "GIW 2026 AgriTech AI Series 2: Responsible AI & Regulatory Considerations",
           "url": "https://gdg.community.dev/events/details/google-gdg-kisii-presents-giw-2026-agritech-ai-series-2-responsible-ai-amp-regulatory-considerations/",
           "when": "Sat Oct 03, 2026 at 12:30 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Chidiebube Herbert Nzenwa",
+      "role": "speaker",
+      "title": "I.T Analysis (Product Designer)",
+      "company": "Exwhyzee technologies",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Chidiebube%20Herbert%20Nzenwa%20Exwhyzee%20technologies",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Pre-DevFest Series: Building User-Centered Digital Solutions with AI",
+          "url": "https://gdg.community.dev/events/details/google-gdg-umuahia-presents-pre-devfest-series-building-user-centered-digital-solutions-with-ai/",
+          "when": "Fri Oct 16, 2026 at 1:00 PM ET"
         }
       ]
     },
@@ -2226,13 +2161,13 @@
       "events": [
         {
           "title": "GDG Columbus: Shots On Goal",
-          "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-10-02/",
-          "when": "Fri Oct 02, 2026 at 8:00 AM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-10-09/",
+          "when": "Fri Oct 09, 2026 at 8:00 AM ET"
         },
         {
           "title": "GDG Columbus: Shots On Goal",
-          "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-10-09/",
-          "when": "Fri Oct 09, 2026 at 8:00 AM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-10-16/",
+          "when": "Fri Oct 16, 2026 at 8:00 AM ET"
         }
       ]
     },
