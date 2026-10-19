@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-18T10:13:26.467593-04:00",
-  "window_start": "2026-10-18",
-  "window_end": "2026-11-01",
+  "generated": "2026-10-19T13:17:47.470964-04:00",
+  "window_start": "2026-10-19",
+  "window_end": "2026-11-02",
   "in_person": [
     {
       "id": 132940,
@@ -187,244 +187,6 @@
   ],
   "online": [
     {
-      "id": 132282,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Probabilidad & Estadística Científica parte II",
-      "chapter": "GDG CDMX",
-      "chapter_url": "https://gdg.community.dev/gdg-cdmx/",
-      "where": "Mexico City, CDMX, MX",
-      "country": "MX",
-      "start_local": "2026-10-17T21:00:00-04:00",
-      "end_local": "2026-10-17T22:30:00-04:00",
-      "when": "Sat Oct 17, 2026 at 9:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "AI - Gemini",
-        "Build with AI",
-        "Career Development",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "El Club de Matemáticas para la Inteligencia Artificial invita a ingenieras/os de software y entusiastas de la tecnología a explorar variables aleatorias y el Teorema de Bayes, con análisis de datos y ejercicios prácticos. Ideal para quienes buscan profundizar en probabilidades y estadísticas aplicadas.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-probabilidad-amp-estadistica-cientifica-parte-ii/",
-      "new": false,
-      "people": [
-        {
-          "name": "Geovanni Zepeda",
-          "role": "speaker",
-          "title": "Data Scientist",
-          "company": "DEVF",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF",
-          "linkedin_exact": false,
-          "twitter": ""
-        }
-      ]
-    },
-    {
-      "id": 132791,
-      "kind": "online",
-      "audience_type": "HYBRID",
-      "title": "DevFest Kansai 2026 〜AIと最新技術を一日で総まとめするカンファレンス〜",
-      "chapter": "GDG on Campus International Professional University of Technology - Tokyo, Japan",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-international-professional-university-of-technology-tokyo-japan/",
-      "where": "国際工科専門職大学 大阪キャンパス, 大阪市, Tokyo, JP",
-      "country": "JP",
-      "start_local": "2026-10-17T21:30:00-04:00",
-      "end_local": "2026-10-18T05:00:00-04:00",
-      "when": "Sat Oct 17, 2026 at 9:30 PM ET",
-      "registration": "External registration",
-      "tags": [
-        "DevFest"
-      ],
-      "blurb": "Join DevFest in Osaka, a conference where tech enthusiasts explore Google AI and cutting-edge technologies across fields like fashion and business. Experience AI as a partner in creativity through sessions and dialogues, discovering challenges and creating prototypes. Ideal for those eager to expand their creative horizons with AI.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-international-professional-university-of-technology-tokyo-japan-presents-devfest-kansai-2026-aitozui-xin-ji-shu-woyi-ri-dezong-matomesurukanhuarensu-1/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 132768,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "How to Start Your Coding Journey: DSA • AI • Dev",
-      "chapter": "GDG on Campus Bhagwan Parshuram Institute of Technology - Delhi, India",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-bhagwan-parshuram-institute-of-technology-delhi-india/",
-      "where": "Delhi, Delhi, IN",
-      "country": "IN",
-      "start_local": "2026-10-18T09:30:00-04:00",
-      "end_local": "2026-10-18T10:30:00-04:00",
-      "when": "Sun Oct 18, 2026 at 9:30 AM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join GDG BPIT for an interactive session on starting your coding journey with Prateek Verma, SDE at Amazon. Discover insights on DSA, AI, and Development, and learn how to build the right skills and roadmap. Ideal for beginners and those seeking direction. Includes a live Q&A for your questions. Date: Sunday, 18 October 2026, 7:00 PM on Google Meet.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-bhagwan-parshuram-institute-of-technology-delhi-india-presents-how-to-start-your-coding-journey-dsa-ai-dev/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 133350,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "SESSION 3: C++ PROGRAMMING BASICS",
-      "chapter": "GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya/",
-      "where": "Juja, Kiambu County, KE",
-      "country": "KE",
-      "start_local": "2026-10-18T10:30:00-04:00",
-      "end_local": "2026-10-18T12:30:00-04:00",
-      "when": "Sun Oct 18, 2026 at 10:30 AM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Ready to start writing your first lines of code for microcontrollers? After getting our development toolchains and IDEs configured, we are taking a beginner-first approach to standard C++ programming!\n\nIn this live online session, we will demystify the core fundamentals of C++ programming. This session will give you the essential software foundation for future IoT projects.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-session-3-c-programming-basics/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 133263,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Caminando por la GCX2026, con Laura Morillo y Rosemarie Garcia",
-      "chapter": "GDG Lleida",
-      "chapter_url": "https://gdg.community.dev/gdg-lleida/",
-      "where": "Lleida, Catalonia, ES",
-      "country": "ES",
-      "start_local": "2026-10-18T12:00:00-04:00",
-      "end_local": "2026-10-18T12:23:00-04:00",
-      "when": "Sun Oct 18, 2026 at 12:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Caminando por la GCX2026, con Laura Morillo y Rosemarie Garcia",
-      "url": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-caminando-por-la-gcx2026-con-laura-morillo-y-rosemarie-garcia/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 111962,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Data Science-AI-Cloud Sundays",
-      "chapter": "GDG Cloud Kaduna",
-      "chapter_url": "https://gdg.community.dev/gdg-cloud-kaduna/",
-      "where": "Kaduna, Kaduna State, NG",
-      "country": "NG",
-      "start_local": "2026-10-18T13:00:00-04:00",
-      "end_local": "2026-10-18T15:00:00-04:00",
-      "when": "Sun Oct 18, 2026 at 1:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "Google Cloud",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Join us for an exciting deep dive into \"Cloud-Native Data Science for Beginners\". In this interactive session, we’ll unr...",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-10-18/",
-      "new": false,
-      "people": [
-        {
-          "name": "Peter Okwukogu",
-          "role": "host",
-          "title": "Google Developer Expert (GDE) for Data Cloud",
-          "company": "CoLab Innovation Hub",
-          "linkedin": "https://www.linkedin.com/in/ipablo26/",
-          "linkedin_exact": true,
-          "twitter": "ipablo26"
-        }
-      ]
-    },
-    {
-      "id": 133284,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Welcome Launch: Info Session and Tech Talk",
-      "chapter": "GDG on Campus University of Education, Winneba - Winneba, Ghana",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-education-winneba-winneba-ghana/",
-      "where": "Winneba, Ghana, Central Region, GH",
-      "country": "GH",
-      "start_local": "2026-10-18T14:00:00-04:00",
-      "end_local": "2026-10-18T15:00:00-04:00",
-      "when": "Sun Oct 18, 2026 at 2:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join GDG on Campus UEW's Welcome Launch for an insightful session on tech skills and career paths. Hear from full-stack developer Ernest Trekpa and discover how to build skills regardless of your background. Perfect for anyone curious about tech, this online event on October 18, 2026, via Zoom is your chance to learn, connect, and start your tech journey.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-winneba-winneba-ghana-presents-welcome-launch-info-session-and-tech-talk/",
-      "new": false,
-      "people": [
-        {
-          "name": "Dr. Stephen Oppong",
-          "role": "speaker",
-          "title": "Patron, GDGoC UEW",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dr.%20Stephen%20Oppong",
-          "linkedin_exact": false,
-          "twitter": ""
-        },
-        {
-          "name": "Prof. Benjamin Yoofi Ghansah",
-          "role": "speaker",
-          "title": "Vice Dean, Faculty of Science UEW",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Prof.%20Benjamin%20Yoofi%20Ghansah",
-          "linkedin_exact": false,
-          "twitter": ""
-        },
-        {
-          "name": "Mr. Ernest Trekpah",
-          "role": "speaker",
-          "title": "Full Stack Developer",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/in/ernesttrekpah",
-          "linkedin_exact": true,
-          "twitter": ""
-        },
-        {
-          "name": "Benedicta Bondzie",
-          "role": "host",
-          "title": "Community Lead",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/in/benedicta-bondzie-the-tech-diva/",
-          "linkedin_exact": true,
-          "twitter": ""
-        }
-      ]
-    },
-    {
-      "id": 133138,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Google AI Studio & Multimodal Gemini",
-      "chapter": "GDG on Campus Institut Supérieur des Arts Multimédia - Manouba, Tunisia",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-institut-superieur-des-arts-multimedia-manouba-tunisia/",
-      "where": "Manouba, Manouba, TN",
-      "country": "TN",
-      "start_local": "2026-10-18T15:00:00-04:00",
-      "end_local": "2026-10-18T16:30:00-04:00",
-      "when": "Sun Oct 18, 2026 at 3:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "AI - AI Studio",
-        "AI - Gemini",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Join the Modern AI Builder Track with Ameni Selmi to explore Google's Gemini models. Learn prompt design, multimodal AI, and Python code generation with hands-on labs. Ideal for beginners and advancing AI enthusiasts, this online event on 18 October 2026 at 8 PM helps turn ideas into intelligent apps.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-institut-superieur-des-arts-multimedia-manouba-tunisia-presents-google-ai-studio-amp-multimodal-gemini/",
-      "new": false,
-      "people": [
-        {
-          "name": "Ameni Selmi",
-          "role": "speaker",
-          "title": "Instructor",
-          "company": "Z Training",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ameni%20Selmi%20Z%20Training",
-          "linkedin_exact": false,
-          "twitter": ""
-        }
-      ]
-    },
-    {
       "id": 133307,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -446,7 +208,7 @@
       ],
       "blurb": "Join an energizing workshop with Nayla Amelia P., co-presented by Billy B. Sakha, and moderated by Muhamad Nur Salam, to dive into web development basics. Perfect for beginners, build your first website in just 30 minutes and kickstart your coding journey. Reserve your spot now for this exciting opportunity to gain practical skills!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-universitas-pasundan-bandung-indonesia-presents-study-jam-web-1-build-your-first-website-in-30-minutes/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Billy Barbar Sakha",
@@ -484,7 +246,7 @@
       "tags": [],
       "blurb": "Curious about Google Developer Groups on Campus UTM and what it means to be part of a global tech community? 🌐 Join us for an exciting info session to discover the opportunities, experiences, and benefits that await you!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-universiti-teknologi-malaysia-johor-bahru-malaysia-presents-google-developer-groups-on-campus-utm-info-session-2026-27/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Brian Chan Jin Xian",
@@ -505,6 +267,27 @@
           "twitter": ""
         }
       ]
+    },
+    {
+      "id": 133461,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "🚀 Fetch-A-Thon 3.0 — Build the Future with Agentic AI!",
+      "chapter": "GDG on Campus Presidency University - Bengaluru, India",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-presidency-university-bengaluru-india/",
+      "where": "Bengaluru, Karnataka, IN",
+      "country": "IN",
+      "start_local": "2026-10-19T08:48:26-04:00",
+      "end_local": "2026-10-19T09:48:26-04:00",
+      "when": "Mon Oct 19, 2026 at 8:48 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Hackathon"
+      ],
+      "blurb": "Join Fetch-A-Thon 3.0 on October 24, 2026, for a national-level hackathon focused on Agentic AI. Compete for a ₹1,00,000 prize, gain hands-on experience, and explore opportunities with Agentverse and Fetch.ai. Perfect for innovators ready to tackle real-world challenges and gain potential internships. Teams of 1-4 can register for free. Don't miss out on the chance to build with AI!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-presidency-university-bengaluru-india-presents-fetch-a-thon-30-build-the-future-with-agentic-ai/",
+      "new": true,
+      "people": []
     },
     {
       "id": 132978,
@@ -641,7 +424,7 @@
       ],
       "blurb": "Firma de libros de David Pleasance, Director de Commodore UK",
       "url": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-firma-de-libros-de-david-pleasance-director-de-commodore-uk/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -657,7 +440,12 @@
       "end_local": "2026-10-19T13:30:59-04:00",
       "when": "Mon Oct 19, 2026 at 12:00 PM ET",
       "registration": "Free registration",
-      "tags": [],
+      "tags": [
+        "Career Development",
+        "Conference",
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
       "blurb": "Join Bircan Özmen, Co-Founder of MentiGuide, for \"PM 101: What Does a Product Manager Actually Do?\" on October 19, 2026, online via Google Meet. Learn product management fundamentals and gain career insights. Hosted by Google Developer Groups On Campus, Zonguldak Bülent Ecevit University.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-zonguldak-bulent-ecevit-university-zonguldak-turkiye-presents-pm-101-urun-yoneticisi-aslinda-ne-yapar-bircan-ozmen/",
       "new": false,
@@ -695,6 +483,27 @@
           "twitter": ""
         }
       ]
+    },
+    {
+      "id": 133413,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "AI/ML Masterclass: Introduction to Data Handling with Numpy and Pandas",
+      "chapter": "GDG on Campus Chuka University - Chuka, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-chuka-university-chuka-kenya/",
+      "where": "Chuka, Tharaka - Nithi, KE",
+      "country": "KE",
+      "start_local": "2026-10-19T13:30:00-04:00",
+      "end_local": "2026-10-19T14:30:00-04:00",
+      "when": "Mon Oct 19, 2026 at 1:30 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join Chuka University for an engaging workshop on 'Understanding Numpy and Pandas.' Enhance your data analysis skills with hands-on practice in these powerful Python libraries. Perfect for data enthusiasts eager to boost coding prowess. Bring your laptop and connect with peers. RSVP to secure your spot!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-chuka-university-chuka-kenya-presents-aiml-masterclass-introduction-to-data-handling-with-numpy-and-pandas/",
+      "new": true,
+      "people": []
     },
     {
       "id": 133031,
@@ -755,13 +564,11 @@
       "when": "Tue Oct 20, 2026 at 11:00 AM ET",
       "registration": "Free registration",
       "tags": [
-        "Build with AI",
-        "Career Development",
-        "DevFest"
+        "Career Development"
       ],
       "blurb": "Join the GDG JKUAT Blockchain Track for a technical kickoff session on blockchain fundamentals. Ideal for developers, students, and tech enthusiasts, explore distributed ledgers, cryptography, and consensus mechanisms. Discover blockchain's real-world applications and get a preview of the upcoming track. Empower your Web3 journey.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-demystifying-decentralization-first-principles-of-blockchain-architecture/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -796,6 +603,25 @@
       ]
     },
     {
+      "id": 132334,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "AI in Cybersecurity: Protecting Our Digital Future",
+      "chapter": "GDG on Campus KCA University - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-kca-university-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-10-20T12:00:00-04:00",
+      "end_local": "2026-10-20T13:00:00-04:00",
+      "when": "Tue Oct 20, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join KCA University for \"AI in Cybersecurity: Protecting Our Digital Future.\" Discover how AI revolutionizes information security through interactive discussions and demos. Perfect for anyone interested in tech innovation and exploring cybersecurity careers. Reserve your spot now and step into the future of digital protection.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-ai-in-cybersecurity-protecting-our-digital-future/",
+      "new": false,
+      "people": []
+    },
+    {
       "id": 133267,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -813,26 +639,26 @@
       ],
       "blurb": "Insert coin, Play, with Google Cloud, base de los grandes juegos planetarios, con Laura Morillo",
       "url": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-insert-coin-play-with-google-cloud-base-de-los-grandes-juegos-planetarios-con-laura-morillo/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
-      "id": 132334,
+      "id": 133511,
       "kind": "online",
       "audience_type": "VIRTUAL",
-      "title": "AI in Cybersecurity: Protecting Our Digital Future",
-      "chapter": "GDG on Campus KCA University - Nairobi, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-kca-university-nairobi-kenya/",
-      "where": "Nairobi, Nairobi County, KE",
+      "title": "CSS Essentials Workshop: Mastering Layout and Positioning",
+      "chapter": "GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya/",
+      "where": "Juja, Kiambu County, KE",
       "country": "KE",
-      "start_local": "2026-10-20T12:30:00-04:00",
+      "start_local": "2026-10-20T12:00:00-04:00",
       "end_local": "2026-10-20T13:30:00-04:00",
-      "when": "Tue Oct 20, 2026 at 12:30 PM ET",
+      "when": "Tue Oct 20, 2026 at 12:00 PM ET",
       "registration": "Free registration",
       "tags": [],
-      "blurb": "Join KCA University for \"AI in Cybersecurity: Protecting Our Digital Future.\" Discover how AI revolutionizes information security through interactive discussions and demos. Perfect for anyone interested in tech innovation and exploring cybersecurity careers. Reserve your spot now and step into the future of digital protection.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-ai-in-cybersecurity-protecting-our-digital-future/",
-      "new": false,
+      "blurb": "Join an interactive workshop to master CSS layout techniques, including display properties, positioning, and advanced systems like flexbox and grid. Ideal for beginners or anyone refreshing their skills, connect with fellow tech enthusiasts and enhance your styling abilities. Hosted by GDG on Campus. RSVP to secure your spot.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-css-essentials-workshop-mastering-layout-and-positioning/",
+      "new": true,
       "people": []
     },
     {
@@ -875,7 +701,7 @@
       "tags": [],
       "blurb": "Join Adelaide Myra for an engaging UI/UX Design session. Delve into essential design principles, explore design sprints, and discover Figma plugins to boost creativity and productivity. Perfect for those eager to enhance their design skills and connect with fellow enthusiasts. Bring your questions and curiosities for a chance to learn from an expert.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-designers-canvas-uiux-design-principles-design-sprints-amp-figma-plugins/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -962,6 +788,25 @@
       "people": []
     },
     {
+      "id": 133417,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "SESSION 3: C++ PROGRAMMING BASICS",
+      "chapter": "GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya/",
+      "where": "Juja, Kiambu County, KE",
+      "country": "KE",
+      "start_local": "2026-10-21T10:30:00-04:00",
+      "end_local": "2026-10-21T12:30:00-04:00",
+      "when": "Wed Oct 21, 2026 at 10:30 AM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Ready to start writing your first lines of code for microcontrollers?\n\n After getting our development toolchains and IDEs configured, we are taking a beginner-first approach to standard C++ programming!\n\nIn this live online session, we will demystify the core fundamentals of C++ programming, giving you the essential software foundation for future IoT projects.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-session-3-c-programming-basics-1/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 133269,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -979,7 +824,7 @@
       ],
       "blurb": "Mesa redonda sobre Inteligencia Artificial, con Rosemarie García",
       "url": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-mesa-redonda-sobre-inteligencia-artificial-con-rosemarie-garcia/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1057,6 +902,30 @@
       "people": []
     },
     {
+      "id": 133501,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Google Cloud Labs Orientation Session",
+      "chapter": "GDG on Campus Babu Banarasi Das Northern India Institute of Technology - Lucknow, India",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-babu-banarasi-das-northern-india-institute-of-technology-lucknow-india/",
+      "where": "Lucknow, Uttar Pradesh, IN",
+      "country": "IN",
+      "start_local": "2026-10-21T12:30:00-04:00",
+      "end_local": "2026-10-21T13:30:00-04:00",
+      "when": "Wed Oct 21, 2026 at 12:30 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI - AI Studio",
+        "Certification Study Group",
+        "Google Cloud",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join the Google Cloud Labs Orientation on Wednesday, 10:00 PM to 11:00 PM, for students who have claimed their 209 credits and registered with code GDGC-BBDNI. This online session provides a hands-on introduction to Google Cloud, covering lab setup and the complete syllabus. RSVP to start your cloud journey. Ideal for students ready to dive into cloud computing with guidance. Don't miss out!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-babu-banarasi-das-northern-india-institute-of-technology-lucknow-india-presents-google-cloud-labs-orientation-session/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 133018,
       "kind": "online",
       "audience_type": "HYBRID",
@@ -1092,6 +961,27 @@
       "blurb": "Join an enlightening session on 'Introduction to AWS Cloud Services and Certification Pathways.' Discover AWS basics, beginner tips, and certification options. Perfect for newcomers to cloud computing, this event kickstarts your AWS journey. Happening Wednesday at 8pm. RSVP now!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-the-catholic-university-of-eastern-africa-nairobi-kenya-presents-driving-cloud-amp-ai-adoption-across-tech-communities-cuea-x-kca/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 133415,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "AI/ML Masterclass: Scikit-Learn Deep Dive",
+      "chapter": "GDG on Campus Chuka University - Chuka, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-chuka-university-chuka-kenya/",
+      "where": "Chuka, Tharaka - Nithi, KE",
+      "country": "KE",
+      "start_local": "2026-10-21T13:30:00-04:00",
+      "end_local": "2026-10-21T15:00:00-04:00",
+      "when": "Wed Oct 21, 2026 at 1:30 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join the inaugural GDG on Campus workshop at Chuka University for a deep dive into Scikit-Learn. Perfect for beginners and those looking to refine their machine learning skills, this hands-on session provides practical insights and real-world applications. Connect with tech enthusiasts, enhance your expertise, and bring your laptop. RSVP to secure your spot in the future of data science.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-chuka-university-chuka-kenya-presents-aiml-masterclass-scikit-learn-deep-dive/",
+      "new": true,
       "people": []
     },
     {
@@ -1135,6 +1025,27 @@
           "twitter": "naomivwolfe"
         }
       ]
+    },
+    {
+      "id": 133311,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Welcome to GDG on Campus MMU Meetup",
+      "chapter": "GDG on Campus Multimedia University of Kenya - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-multimedia-university-of-kenya-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-10-22T09:00:00-04:00",
+      "end_local": "2026-10-22T10:00:00-04:00",
+      "when": "Thu Oct 22, 2026 at 9:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Discover the exciting world of GDG on Campus at Multimedia University! Explore our mission, diverse tech fields, and get involved. Connect with fellow tech enthusiasts and be inspired by community stories. Join us for an innovative journey and become part of our dynamic community. See you there!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-multimedia-university-of-kenya-nairobi-kenya-presents-welcome-to-gdg-on-campus-mmu-meetup/",
+      "new": true,
+      "people": []
     },
     {
       "id": 126620,
@@ -1270,7 +1181,7 @@
       ],
       "blurb": "Mesa redonda sobre IA con Rosemarie Garcia, Laura Morillo, Moisés Martínez, Víctor Carreras y Andreu",
       "url": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-mesa-redonda-sobre-ia-con-rosemarie-garcia-laura-morillo-moises-martinez-victor-carreras-y-andreu/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1337,6 +1248,66 @@
       "blurb": "Únete al Devfest 2026 para explorar tendencias avanzadas en desarrollo de software, incluyendo aplicaciones móviles, web, cloud computing e IA. Asiste a charlas de expertos, participa en talleres prácticos y conecta con desarrolladores apasionados. Descubre cómo influir en el futuro de la tecnología en este evento destacado.",
       "url": "https://gdg.community.dev/events/details/google-gdg-misantla-presents-devfest-2026/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 133398,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Road to DevFest: Caché semántico para LLMs en Google Cloud",
+      "chapter": "GDG Bogotá",
+      "chapter_url": "https://gdg.community.dev/gdg-bogota/",
+      "where": "Bogotá, Bogota D.C., CO",
+      "country": "CO",
+      "start_local": "2026-10-22T18:00:00-04:00",
+      "end_local": "2026-10-22T19:00:00-04:00",
+      "when": "Thu Oct 22, 2026 at 6:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "DevFest",
+        "Google Cloud",
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Silvana Gutierrez: optimización de latencia y costos con caché semántico en Google Cloud, Gemini, Vertex AI Embeddings y Memorystore for Valkey. Demo en vivo.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-bogota-presents-road-to-devfest-cache-semantico-para-llms-en-google-cloud/",
+      "new": true,
+      "people": [
+        {
+          "name": "Silvana Gutierrez",
+          "role": "speaker",
+          "title": "Expert Backend Developer| WTM Ambassador",
+          "company": "Zenta Group",
+          "linkedin": "https://www.linkedin.com/in/silvanagutierrezm/",
+          "linkedin_exact": true,
+          "twitter": "Sil_Guty"
+        }
+      ]
+    },
+    {
+      "id": 133474,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "¡Orquestación de Agentes: Aprende con los Expertos!",
+      "chapter": "GDG Asunción",
+      "chapter_url": "https://gdg.community.dev/gdg-asuncion/",
+      "where": "Asunción, Asunción, PY",
+      "country": "PY",
+      "start_local": "2026-10-22T19:00:00-04:00",
+      "end_local": "2026-10-22T20:00:00-04:00",
+      "when": "Thu Oct 22, 2026 at 7:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI",
+        "Career Development",
+        "Community Building",
+        "Conference"
+      ],
+      "blurb": "Join the first 'Agent Orchestration' meetup with Pedro Anze from GDG Tarija. Explore how the 'Agent First' approach is revolutionizing software development and enables seamless integration of agents into projects. This is a unique chance to learn from an expert and connect with tech enthusiasts. Bring your ideas and questions to be part of the future of software development in Paraguay!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-asuncion-presents-orquestacion-de-agentes-aprende-con-los-expertos/",
+      "new": true,
       "people": []
     },
     {
@@ -1489,11 +1460,398 @@
       "new": false,
       "people": [
         {
-          "name": "Sario Chamorro",
-          "role": "host",
-          "title": "",
+          "name": "Jürgen Anders Guerra Ramos",
+          "role": "speaker",
+          "title": "Solutions Architect · Co-founder, Kuzi",
+          "company": "Kuzi",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=J%C3%BCrgen%20Anders%20Guerra%20Ramos%20Kuzi",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Francisco Domínguez",
+          "role": "speaker",
+          "title": "Builder, Catafract · Co-founder, Dentito",
+          "company": "Catafract · Dentito",
+          "linkedin": "https://www.linkedin.com/in/doasfrancisco",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Matías Avendaño",
+          "role": "speaker",
+          "title": "Co-founder, Dentito · Catafract",
+          "company": "Catafract · Dentito",
+          "linkedin": "https://www.linkedin.com/in/matiasavenda222",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Paul Siccha Tarrillo",
+          "role": "speaker",
+          "title": "Founder, Startups.pe · Community Builder, Stripe Lima",
+          "company": "Startups.pe · Stripe Lima",
+          "linkedin": "https://www.linkedin.com/in/paulsiccha",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Bryan Eleazar Villafuerte Alarcón",
+          "role": "speaker",
+          "title": "Founder, Green ID",
+          "company": "Green ID",
+          "linkedin": "https://www.linkedin.com/in/bvillafuertea",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Antony Geancarlos Collazos Chumbile",
+          "role": "speaker",
+          "title": "Founder, Kameleon AI",
+          "company": "Kameleon AI",
+          "linkedin": "https://www.linkedin.com/in/geancarlos-collazos",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Diego Sebastián Salazar Cervantes",
+          "role": "speaker",
+          "title": "Co-founder, Dentito (adquirida por DocToc) · Rocoto Valley",
+          "company": "Rocoto Valley · Dentito",
+          "linkedin": "https://www.linkedin.com/in/diego-sebastian-salazar-cervantes-54b27aa9",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Ronaldo Díaz",
+          "role": "speaker",
+          "title": "CEO, Viringo IA",
+          "company": "Viringo IA",
+          "linkedin": "https://www.linkedin.com/in/ronaldodiaz-clonet",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Rosa Barrera Cajahuanca",
+          "role": "speaker",
+          "title": "Bióloga y business developer · LUCAI Bio · Nucleate",
+          "company": "LUCAI Bio · Nucleate",
+          "linkedin": "https://www.linkedin.com/in/rosabarreracajahuanca",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Richard Junior Torrejon Meza",
+          "role": "speaker",
+          "title": "Caster de videojuegos",
           "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sario%20Chamorro",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Richard%20Junior%20Torrejon%20Meza",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Juan Daniel Choque",
+          "role": "speaker",
+          "title": "Caster de videojuegos",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Juan%20Daniel%20Choque",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Cristians Alberto Bregante Tintaya",
+          "role": "speaker",
+          "title": "Sr. Frontend Developer, Prosegur · Co-organizador, GDG Open Lima",
+          "company": "GDG Open Lima · Prosegur",
+          "linkedin": "https://www.linkedin.com/in/cbregantejs",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Geraldyne Cáceres Ramos",
+          "role": "speaker",
+          "title": "Líder del Track de Educación, Inspira Tech",
+          "company": "Inspira Tech",
+          "linkedin": "https://www.linkedin.com/in/geralcaceresr",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Yancel Moisés Salinas Gómez",
+          "role": "speaker",
+          "title": "Production Engineer, Zebrands · Lead, GDG Open Lima",
+          "company": "GDG Open Lima · Zebrands",
+          "linkedin": "https://www.linkedin.com/in/sagoyanfisic",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Orlando Alonso Alcarraz Alvarez",
+          "role": "speaker",
+          "title": "Co-organizador, GDG Open Lima · Machine Learning y Data Science",
+          "company": "GDG Open Lima",
+          "linkedin": "https://www.linkedin.com/in/orlandoalcarraz",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Elva Flores Quillas",
+          "role": "speaker",
+          "title": "CEO, Ecosistema Startup Peruano",
+          "company": "Ecosistema Startup Peruano",
+          "linkedin": "https://www.linkedin.com/in/elva-flores-quillas-a61b51126",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Diana Trilce Huamani Breña",
+          "role": "speaker",
+          "title": "HR Strategist · Project Manager, PowerYou Perú",
+          "company": "PowerYou",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Diana%20Trilce%20Huamani%20Bre%C3%B1a%20PowerYou",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Jose Flores Chamba",
+          "role": "speaker",
+          "title": "Desarrollador .NET y Angular · IEEE Computer Society UNTELS",
+          "company": "IEEE CS UNTELS",
+          "linkedin": "https://www.linkedin.com/in/jfloresxc",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Gianmarco Guerrero Menacho",
+          "role": "speaker",
+          "title": "Campus Leader, Notion",
+          "company": "Notion",
+          "linkedin": "https://www.linkedin.com/in/gianmarco-guerrero-menacho",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "David Ordinola",
+          "role": "speaker",
+          "title": "Investment Analyst, Krealo (CVC de Credicorp)",
+          "company": "Krealo",
+          "linkedin": "https://www.linkedin.com/in/davidordinola",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Pía Rivas Lozada",
+          "role": "speaker",
+          "title": "Investment Analyst, Carao Ventures · NODOS",
+          "company": "Carao Ventures · NODOS",
+          "linkedin": "https://www.linkedin.com/in/piarivaslozada",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Cristhian Agüero Huaranga",
+          "role": "speaker",
+          "title": "Founder & CEO, Kasa · Jefe de Programas, UP",
+          "company": "Kasa",
+          "linkedin": "https://www.linkedin.com/in/cristhianagueroh",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Claudia Requejo",
+          "role": "speaker",
+          "title": "Co-founder · CMO, MOBI Latam",
+          "company": "MOBI",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Claudia%20Requejo%20MOBI",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Ignacio Velásquez Franco",
+          "role": "speaker",
+          "title": "Founder, Launch Mafia · Head of Builders, Sundai Latam · SpaceXAI Ambassador",
+          "company": "Launch Mafia · Sundai Latam",
+          "linkedin": "https://www.linkedin.com/in/ignacio-velásquez-franco-3a5765204",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Javier Flores Macías",
+          "role": "speaker",
+          "title": "Founder, Núcleo Lab · Profesor de n8n en Platzi",
+          "company": "Núcleo Lab",
+          "linkedin": "https://www.linkedin.com/in/javierfloresmacias",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Mayckol Cruzado Ordoñez",
+          "role": "speaker",
+          "title": "Builder, Núcleo Lab · Ambassador de Notion, Make y Replit",
+          "company": "Núcleo Lab",
+          "linkedin": "https://www.linkedin.com/in/mayckolco",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Luis Raúl Vera Flores",
+          "role": "speaker",
+          "title": "Senior AI Product Manager, Valere · Community Lead, Prisma Latam",
+          "company": "Valere · Prisma Latam",
+          "linkedin": "https://www.linkedin.com/in/typoluis",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Lizeth Karina Riveros Terrazo",
+          "role": "speaker",
+          "title": "CFO-Research, Crafter Station · Economista PUCP",
+          "company": "Crafter Station",
+          "linkedin": "https://www.linkedin.com/in/lizethriveros",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Edwin Isaac Soto Cossio",
+          "role": "speaker",
+          "title": "AI & Cloud Engineer · Cofounder, Vigía Perú",
+          "company": "Vigía Perú",
+          "linkedin": "https://www.linkedin.com/in/edwin-isaac-soto-cossio-392603298",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Diego Alfageme",
+          "role": "speaker",
+          "title": "Managing Partner, ADN.vc",
+          "company": "ADN.vc",
+          "linkedin": "https://www.linkedin.com/in/diego-alfageme",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "José David Romero Zanabria",
+          "role": "speaker",
+          "title": "Co-founder & CTO, Pulso Salud · Naovi",
+          "company": "Pulso Salud · Naovi",
+          "linkedin": "https://www.linkedin.com/in/josedrz",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Gabriel García",
+          "role": "speaker",
+          "title": "Co-founder, Stamply · Chief of Staff, Startups Latam",
+          "company": "Stamply",
+          "linkedin": "https://www.linkedin.com/in/gabriel-garcia-0637b4212",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Gustavo 'Tavo' Peña Rosell",
+          "role": "speaker",
+          "title": "Founder, Practimatch (ganadora StartUp Perú 11G)",
+          "company": "Practimatch",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gustavo%20%27Tavo%27%20Pe%C3%B1a%20Rosell%20Practimatch",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Raúl Joseph Bastidas Artica",
+          "role": "speaker",
+          "title": "Ingeniero, NonHuman · 1er puesto ICRA 2026",
+          "company": "NonHuman",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ra%C3%BAl%20Joseph%20Bastidas%20Artica%20NonHuman",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "César Cervantes Esponda",
+          "role": "speaker",
+          "title": "Co-founder, Kuzi",
+          "company": "Kuzi",
+          "linkedin": "https://www.linkedin.com/in/cesar-cervantes-esponda-9086a2235",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Stiven Kevin Rosales Casas",
+          "role": "speaker",
+          "title": "AI Engineer, Colmena AI · Claude Perú Community",
+          "company": "Colmena AI",
+          "linkedin": "https://www.linkedin.com/in/stiven-kevin-rosales-casas",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Guillermo Foshlen Pagano Faustino",
+          "role": "speaker",
+          "title": "Founder & CEO, FirmEasy",
+          "company": "FirmEasy",
+          "linkedin": "https://www.linkedin.com/in/guillermo-foshlen-pagano-faustino",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Deyvid Piero Tolentino Isidro",
+          "role": "speaker",
+          "title": "XRay AI",
+          "company": "XRay AI",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Deyvid%20Piero%20Tolentino%20Isidro%20XRay%20AI",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Luis Pimentel",
+          "role": "speaker",
+          "title": "CEO, Inklop",
+          "company": "Inklop",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Luis%20Pimentel%20Inklop",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Janeth Quezada",
+          "role": "speaker",
+          "title": "CEO & Co-founder, InkaMoney · Asociación Fintech del Perú",
+          "company": "InkaMoney · Asociación Fintech del Perú",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Janeth%20Quezada%20InkaMoney%20%C2%B7%20Asociaci%C3%B3n%20Fintech%20del%20Per%C3%BA",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Jimy Huacho Dolores",
+          "role": "speaker",
+          "title": "Google Developer Expert (GDE)",
+          "company": "Google Developer Experts",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jimy%20Huacho%20Dolores%20Google%20Developer%20Experts",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Rodrigo Mandujano Cornejo",
+          "role": "speaker",
+          "title": "CEO, Reganvi",
+          "company": "Reganvi",
+          "linkedin": "https://www.linkedin.com/in/rodrigo-mandujano-cornejo",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Alex Balbín Surichaqui",
+          "role": "speaker",
+          "title": "Co-founder, Wichay · Incubadora de la Universidad Continental",
+          "company": "Wichay UC",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alex%20Balb%C3%ADn%20Surichaqui%20Wichay%20UC",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Edgar Roque Zevallos",
+          "role": "speaker",
+          "title": "CEO, Dronótica",
+          "company": "Dronótica",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Edgar%20Roque%20Zevallos%20Dron%C3%B3tica",
           "linkedin_exact": false,
           "twitter": ""
         }
@@ -1609,6 +1967,25 @@
       ],
       "blurb": "La Inteligencia Artificial para todos, charla en el GCX 2026 por Andreu Ibáñez",
       "url": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-la-inteligencia-artificial-para-todos-charla-en-el-gcx-2026-por-andreu-ibanez/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 133424,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Kickstart Your Mobile Development Journey",
+      "chapter": "GDG on Campus KCA University - Nairobi, Kenya",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-kca-university-nairobi-kenya/",
+      "where": "Nairobi, Nairobi County, KE",
+      "country": "KE",
+      "start_local": "2026-10-23T12:00:39-04:00",
+      "end_local": "2026-10-23T13:00:39-04:00",
+      "when": "Fri Oct 23, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "\"Mobile Development 101: Introduction\" is a virtual event tailored for beginners eager to explore the fundamentals of mobile app creation. Participants will learn essential concepts and tools, making it an ideal opportunity to connect with fellow aspiring developers. Register now to kickstart your mobile development journey.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-kickstart-your-mobile-development-journey/",
       "new": true,
       "people": []
     },
@@ -1660,6 +2037,40 @@
           "title": "",
           "company": "UQAT",
           "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Imen%20Masmoudi%20UQAT",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
+      "id": 133223,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Build with AI: A Hands-On Code-Along GDG Lisbon x TechPark CV",
+      "chapter": "GDG Lisbon",
+      "chapter_url": "https://gdg.community.dev/gdg-lisbon/",
+      "where": "Lisbon, Lisbon, PT",
+      "country": "PT",
+      "start_local": "2026-10-23T13:00:00-04:00",
+      "end_local": "2026-10-23T14:30:00-04:00",
+      "when": "Fri Oct 23, 2026 at 1:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI",
+        "AI - Gemini",
+        "Build with AI",
+        "Community Building"
+      ],
+      "blurb": "Join \"Build It with AI: A Hands-On Code-Along,\" a free virtual workshop by GDG Lisbon and TechPark CV. Perfect for students, developers, and tech enthusiasts, it offers practical, AI-assisted coding experience. Build projects live with an expert, enhancing workflows with AI tools. No experience required; just bring curiosity and a laptop.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-lisbon-presents-build-with-ai-a-hands-on-code-along-gdg-lisbon-x-techpark-cv/",
+      "new": true,
+      "people": [
+        {
+          "name": "Nuno João Andrade",
+          "role": "speaker",
+          "title": "Senior Backend Developer, Cloud Architect, and Cloud Platform Expert",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nuno%20Jo%C3%A3o%20Andrade",
           "linkedin_exact": false,
           "twitter": ""
         }
@@ -1964,7 +2375,6 @@
         "AI - Gemini",
         "AI - Gemini Enterprise Agent Platform",
         "AI - Gemma",
-        "DevFest",
         "Workshop / hands-on session"
       ],
       "blurb": "Join a hands-on workshop to build AI-powered geospatial web apps using Google Maps Platform. Explore Google AI Studio and learn key skills like structuring prompts for AI, rapid prototyping, and secure API handling. Ideal for those interested in GeoAI, LLMs, and cloud-native development. Enhance your skills by designing, developing, and deploying an AI-powered app from scratch.",
@@ -2128,7 +2538,7 @@
       ],
       "blurb": "Mesa Redonda de comunidades Google en la GCX 2026, con Laura, Moisés, Rosemarie y Andreu",
       "url": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-mesa-redonda-de-comunidades-google-en-la-gcx-2026-con-laura-moises-rosemarie-y-andreu/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -2264,7 +2674,7 @@
       ],
       "blurb": "Discover how ZINDI data competitions can elevate your data skills and enhance your portfolio at KCA University. Learn strategies to improve your expertise and explore opportunities for side revenue. Connect with peers, exchange ideas, and advance your data science journey. Join this innovative session and secure your spot now!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-unlocking-data-potential-with-zindi-competitions-for-growth/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -2624,7 +3034,7 @@
       ],
       "blurb": "Join the Pre-DevFest Virtual Series this October to explore resilient client software techniques across platforms. Perfect for developers, this session covers overcoming connectivity issues and applying cross-platform patterns to enhance reliability and performance, all in preparation for DevFest Umuahia 2026.",
       "url": "https://gdg.community.dev/events/details/google-gdg-umuahia-presents-building-for-real-networks-offline-first-real-time-patterns-across-web-mobile-and-desktop-pre-devfest-series/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Jesse Abuaja",
@@ -2660,7 +3070,7 @@
       ],
       "blurb": "Join us for an exciting Tech Talk on Navigating the New AI Era! Discover essential strategies and insights for beginning...",
       "url": "https://gdg.community.dev/events/details/google-gdg-bamako-presents-tech-talk-how-to-get-started-in-tech-in-the-new-ai-era/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Moussa Coulibaly",
@@ -2672,6 +3082,60 @@
           "twitter": "Ingmocly"
         }
       ]
+    },
+    {
+      "id": 111966,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Data Science-AI-Cloud Sundays",
+      "chapter": "GDG Cloud Kaduna",
+      "chapter_url": "https://gdg.community.dev/gdg-cloud-kaduna/",
+      "where": "Kaduna, Kaduna State, NG",
+      "country": "NG",
+      "start_local": "2026-11-01T12:00:00-05:00",
+      "end_local": "2026-11-01T14:00:00-05:00",
+      "when": "Sun Nov 01, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "Google Cloud",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join us for an exciting deep dive into \"Cloud-Native Data Science for Beginners\". In this interactive session, we’ll unr...",
+      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-01/",
+      "new": true,
+      "people": [
+        {
+          "name": "Peter Okwukogu",
+          "role": "host",
+          "title": "Google Developer Expert (GDE) for Data Cloud",
+          "company": "CoLab Innovation Hub",
+          "linkedin": "https://www.linkedin.com/in/ipablo26/",
+          "linkedin_exact": true,
+          "twitter": "ipablo26"
+        }
+      ]
+    },
+    {
+      "id": 129963,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Conexão com o Mercado: Desenvolvedores em Vitória da Conquista",
+      "chapter": "GDG Vitória da Conquista",
+      "chapter_url": "https://gdg.community.dev/gdg-vitoria-da-conquista/",
+      "where": "Vitória da Conquista, BA, BR",
+      "country": "BR",
+      "start_local": "2026-11-01T17:00:00-05:00",
+      "end_local": "2026-11-01T20:00:00-05:00",
+      "when": "Sun Nov 01, 2026 at 5:00 PM ET",
+      "registration": "External registration",
+      "tags": [
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "\"Conexão com o Mercado\" inaugura um espaço para desenvolvedores de Vitória da Conquista explorarem o mercado de trabalho em tecnologia, com foco em oportunidades internacionais. Participe para trocar experiências, fazer perguntas e obter insights de profissionais globais. Perfeito para quem quer aprender e se conectar. Inscreva-se para garantir seu lugar.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-vitoria-da-conquista-presents-conexao-com-o-mercado-desenvolvedores-em-vitoria-da-conquista/",
+      "new": true,
+      "people": []
     }
   ],
   "people": [
@@ -2745,6 +3209,22 @@
       ]
     },
     {
+      "name": "Alex Balbín Surichaqui",
+      "role": "speaker",
+      "title": "Co-founder, Wichay · Incubadora de la Universidad Continental",
+      "company": "Wichay UC",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Alex%20Balb%C3%ADn%20Surichaqui%20Wichay%20UC",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Alex Mwaniki",
       "role": "speaker",
       "title": "Software Engineer",
@@ -2789,22 +3269,6 @@
           "title": "DevFest Troy '26",
           "url": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-troy-26/",
           "when": "Fri Oct 23, 2026 at 5:00 PM ET"
-        }
-      ]
-    },
-    {
-      "name": "Ameni Selmi",
-      "role": "speaker",
-      "title": "Instructor",
-      "company": "Z Training",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ameni%20Selmi%20Z%20Training",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Google AI Studio & Multimodal Gemini",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-institut-superieur-des-arts-multimedia-manouba-tunisia-presents-google-ai-studio-amp-multimodal-gemini/",
-          "when": "Sun Oct 18, 2026 at 3:00 PM ET"
         }
       ]
     },
@@ -2857,6 +3321,22 @@
       ]
     },
     {
+      "name": "Antony Geancarlos Collazos Chumbile",
+      "role": "speaker",
+      "title": "Founder, Kameleon AI",
+      "company": "Kameleon AI",
+      "linkedin": "https://www.linkedin.com/in/geancarlos-collazos",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Aqsa Kausar",
       "role": "speaker",
       "title": "Google Developer Expert (ML)",
@@ -2885,22 +3365,6 @@
           "title": "DevFest Troy '26",
           "url": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-troy-26/",
           "when": "Fri Oct 23, 2026 at 5:00 PM ET"
-        }
-      ]
-    },
-    {
-      "name": "Benedicta Bondzie",
-      "role": "host",
-      "title": "Community Lead",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/in/benedicta-bondzie-the-tech-diva/",
-      "linkedin_exact": true,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Welcome Launch: Info Session and Tech Talk",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-winneba-winneba-ghana-presents-welcome-launch-info-session-and-tech-talk/",
-          "when": "Sun Oct 18, 2026 at 2:00 PM ET"
         }
       ]
     },
@@ -2937,6 +3401,22 @@
       ]
     },
     {
+      "name": "Bryan Eleazar Villafuerte Alarcón",
+      "role": "speaker",
+      "title": "Founder, Green ID",
+      "company": "Green ID",
+      "linkedin": "https://www.linkedin.com/in/bvillafuertea",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "CHIEMELA DANIEL OGBONNA",
       "role": "speaker",
       "title": "Student Entrepreneur",
@@ -2965,6 +3445,70 @@
           "title": "DevFest Troy '26",
           "url": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-troy-26/",
           "when": "Fri Oct 23, 2026 at 5:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Claudia Requejo",
+      "role": "speaker",
+      "title": "Co-founder · CMO, MOBI Latam",
+      "company": "MOBI",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Claudia%20Requejo%20MOBI",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Cristhian Agüero Huaranga",
+      "role": "speaker",
+      "title": "Founder & CEO, Kasa · Jefe de Programas, UP",
+      "company": "Kasa",
+      "linkedin": "https://www.linkedin.com/in/cristhianagueroh",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Cristians Alberto Bregante Tintaya",
+      "role": "speaker",
+      "title": "Sr. Frontend Developer, Prosegur · Co-organizador, GDG Open Lima",
+      "company": "GDG Open Lima · Prosegur",
+      "linkedin": "https://www.linkedin.com/in/cbregantejs",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "César Cervantes Esponda",
+      "role": "speaker",
+      "title": "Co-founder, Kuzi",
+      "company": "Kuzi",
+      "linkedin": "https://www.linkedin.com/in/cesar-cervantes-esponda-9086a2235",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3001,18 +3545,98 @@
       ]
     },
     {
-      "name": "Dr. Stephen Oppong",
+      "name": "David Ordinola",
       "role": "speaker",
-      "title": "Patron, GDGoC UEW",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Dr.%20Stephen%20Oppong",
+      "title": "Investment Analyst, Krealo (CVC de Credicorp)",
+      "company": "Krealo",
+      "linkedin": "https://www.linkedin.com/in/davidordinola",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Deyvid Piero Tolentino Isidro",
+      "role": "speaker",
+      "title": "XRay AI",
+      "company": "XRay AI",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Deyvid%20Piero%20Tolentino%20Isidro%20XRay%20AI",
       "linkedin_exact": false,
       "twitter": "",
       "events": [
         {
-          "title": "Welcome Launch: Info Session and Tech Talk",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-winneba-winneba-ghana-presents-welcome-launch-info-session-and-tech-talk/",
-          "when": "Sun Oct 18, 2026 at 2:00 PM ET"
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Diana Trilce Huamani Breña",
+      "role": "speaker",
+      "title": "HR Strategist · Project Manager, PowerYou Perú",
+      "company": "PowerYou",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Diana%20Trilce%20Huamani%20Bre%C3%B1a%20PowerYou",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Diego Alfageme",
+      "role": "speaker",
+      "title": "Managing Partner, ADN.vc",
+      "company": "ADN.vc",
+      "linkedin": "https://www.linkedin.com/in/diego-alfageme",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Diego Sebastián Salazar Cervantes",
+      "role": "speaker",
+      "title": "Co-founder, Dentito (adquirida por DocToc) · Rocoto Valley",
+      "company": "Rocoto Valley · Dentito",
+      "linkedin": "https://www.linkedin.com/in/diego-sebastian-salazar-cervantes-54b27aa9",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Edgar Roque Zevallos",
+      "role": "speaker",
+      "title": "CEO, Dronótica",
+      "company": "Dronótica",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Edgar%20Roque%20Zevallos%20Dron%C3%B3tica",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3029,6 +3653,38 @@
           "title": "DevFest Troy '26",
           "url": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-troy-26/",
           "when": "Fri Oct 23, 2026 at 5:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Edwin Isaac Soto Cossio",
+      "role": "speaker",
+      "title": "AI & Cloud Engineer · Cofounder, Vigía Perú",
+      "company": "Vigía Perú",
+      "linkedin": "https://www.linkedin.com/in/edwin-isaac-soto-cossio-392603298",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Elva Flores Quillas",
+      "role": "speaker",
+      "title": "CEO, Ecosistema Startup Peruano",
+      "company": "Ecosistema Startup Peruano",
+      "linkedin": "https://www.linkedin.com/in/elva-flores-quillas-a61b51126",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3081,6 +3737,38 @@
       ]
     },
     {
+      "name": "Francisco Domínguez",
+      "role": "speaker",
+      "title": "Builder, Catafract · Co-founder, Dentito",
+      "company": "Catafract · Dentito",
+      "linkedin": "https://www.linkedin.com/in/doasfrancisco",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Gabriel García",
+      "role": "speaker",
+      "title": "Co-founder, Stamply · Chief of Staff, Startups Latam",
+      "company": "Stamply",
+      "linkedin": "https://www.linkedin.com/in/gabriel-garcia-0637b4212",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Gabriel Preda",
       "role": "speaker",
       "title": "Principal Data Scientist / Kaggle GDE",
@@ -3097,18 +3785,66 @@
       ]
     },
     {
-      "name": "Geovanni Zepeda",
+      "name": "Geraldyne Cáceres Ramos",
       "role": "speaker",
-      "title": "Data Scientist",
-      "company": "DEVF",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Geovanni%20Zepeda%20DEVF",
+      "title": "Líder del Track de Educación, Inspira Tech",
+      "company": "Inspira Tech",
+      "linkedin": "https://www.linkedin.com/in/geralcaceresr",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Gianmarco Guerrero Menacho",
+      "role": "speaker",
+      "title": "Campus Leader, Notion",
+      "company": "Notion",
+      "linkedin": "https://www.linkedin.com/in/gianmarco-guerrero-menacho",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Guillermo Foshlen Pagano Faustino",
+      "role": "speaker",
+      "title": "Founder & CEO, FirmEasy",
+      "company": "FirmEasy",
+      "linkedin": "https://www.linkedin.com/in/guillermo-foshlen-pagano-faustino",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Gustavo 'Tavo' Peña Rosell",
+      "role": "speaker",
+      "title": "Founder, Practimatch (ganadora StartUp Perú 11G)",
+      "company": "Practimatch",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gustavo%20%27Tavo%27%20Pe%C3%B1a%20Rosell%20Practimatch",
       "linkedin_exact": false,
       "twitter": "",
       "events": [
         {
-          "title": "Probabilidad & Estadística Científica parte II",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cdmx-presents-probabilidad-amp-estadistica-cientifica-parte-ii/",
-          "when": "Sat Oct 17, 2026 at 9:00 PM ET"
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3145,6 +3881,22 @@
       ]
     },
     {
+      "name": "Ignacio Velásquez Franco",
+      "role": "speaker",
+      "title": "Founder, Launch Mafia · Head of Builders, Sundai Latam · SpaceXAI Ambassador",
+      "company": "Launch Mafia · Sundai Latam",
+      "linkedin": "https://www.linkedin.com/in/ignacio-velásquez-franco-3a5765204",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Imen Masmoudi",
       "role": "speaker",
       "title": "",
@@ -3173,6 +3925,38 @@
           "title": "GDG Cloud Southlake #57: Kanchana Patlolla: 20 Questions for the Agentic Enterprise From Prototype to Production",
           "url": "https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-gdg-cloud-southlake-57-kanchana-patlolla-20-questions-for-the-agentic-enterprise-from-prototype-to-production-1/",
           "when": "Wed Oct 28, 2026 at 5:30 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Janeth Quezada",
+      "role": "speaker",
+      "title": "CEO & Co-founder, InkaMoney · Asociación Fintech del Perú",
+      "company": "InkaMoney · Asociación Fintech del Perú",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Janeth%20Quezada%20InkaMoney%20%C2%B7%20Asociaci%C3%B3n%20Fintech%20del%20Per%C3%BA",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Javier Flores Macías",
+      "role": "speaker",
+      "title": "Founder, Núcleo Lab · Profesor de n8n en Platzi",
+      "company": "Núcleo Lab",
+      "linkedin": "https://www.linkedin.com/in/javierfloresmacias",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3209,6 +3993,22 @@
       ]
     },
     {
+      "name": "Jimy Huacho Dolores",
+      "role": "speaker",
+      "title": "Google Developer Expert (GDE)",
+      "company": "Google Developer Experts",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Jimy%20Huacho%20Dolores%20Google%20Developer%20Experts",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "John Krupavaram Pole Bhakthavatsalam",
       "role": "speaker",
       "title": "Senior Software Engineer | Full stack lead Engineer",
@@ -3241,6 +4041,54 @@
       ]
     },
     {
+      "name": "Jose Flores Chamba",
+      "role": "speaker",
+      "title": "Desarrollador .NET y Angular · IEEE Computer Society UNTELS",
+      "company": "IEEE CS UNTELS",
+      "linkedin": "https://www.linkedin.com/in/jfloresxc",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "José David Romero Zanabria",
+      "role": "speaker",
+      "title": "Co-founder & CTO, Pulso Salud · Naovi",
+      "company": "Pulso Salud · Naovi",
+      "linkedin": "https://www.linkedin.com/in/josedrz",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Juan Daniel Choque",
+      "role": "speaker",
+      "title": "Caster de videojuegos",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Juan%20Daniel%20Choque",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Juana Casique",
       "role": "speaker",
       "title": "Google Cloud & AI Technical Trainer",
@@ -3269,6 +4117,22 @@
           "title": "Understanding the Design of Everyday Things",
           "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-conestoga-college-waterloo-campus-waterloo-canada-presents-understanding-the-design-of-everyday-things-1/",
           "when": "Wed Oct 21, 2026 at 5:30 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Jürgen Anders Guerra Ramos",
+      "role": "speaker",
+      "title": "Solutions Architect · Co-founder, Kuzi",
+      "company": "Kuzi",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=J%C3%BCrgen%20Anders%20Guerra%20Ramos%20Kuzi",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3374,6 +4238,54 @@
       ]
     },
     {
+      "name": "Lizeth Karina Riveros Terrazo",
+      "role": "speaker",
+      "title": "CFO-Research, Crafter Station · Economista PUCP",
+      "company": "Crafter Station",
+      "linkedin": "https://www.linkedin.com/in/lizethriveros",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Luis Pimentel",
+      "role": "speaker",
+      "title": "CEO, Inklop",
+      "company": "Inklop",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Luis%20Pimentel%20Inklop",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Luis Raúl Vera Flores",
+      "role": "speaker",
+      "title": "Senior AI Product Manager, Valere · Community Lead, Prisma Latam",
+      "company": "Valere · Prisma Latam",
+      "linkedin": "https://www.linkedin.com/in/typoluis",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Majid Ghalamshahi",
       "role": "host",
       "title": "CEO",
@@ -3386,6 +4298,38 @@
           "title": "Build & Connect: GDG Markham Hackathon + Social 2026",
           "url": "https://gdg.community.dev/events/details/google-gdg-markham-presents-build-amp-connect-gdg-markham-hackathon-social-2026/",
           "when": "Sat Oct 24, 2026 at 10:00 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Matías Avendaño",
+      "role": "speaker",
+      "title": "Co-founder, Dentito · Catafract",
+      "company": "Catafract · Dentito",
+      "linkedin": "https://www.linkedin.com/in/matiasavenda222",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Mayckol Cruzado Ordoñez",
+      "role": "speaker",
+      "title": "Builder, Núcleo Lab · Ambassador de Notion, Make y Replit",
+      "company": "Núcleo Lab",
+      "linkedin": "https://www.linkedin.com/in/mayckolco",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3418,22 +4362,6 @@
           "title": "Tech Talk: How to Get Started in Tech in the New AI Era",
           "url": "https://gdg.community.dev/events/details/google-gdg-bamako-presents-tech-talk-how-to-get-started-in-tech-in-the-new-ai-era/",
           "when": "Sat Oct 31, 2026 at 4:30 PM ET"
-        }
-      ]
-    },
-    {
-      "name": "Mr. Ernest Trekpah",
-      "role": "speaker",
-      "title": "Full Stack Developer",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/in/ernesttrekpah",
-      "linkedin_exact": true,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Welcome Launch: Info Session and Tech Talk",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-winneba-winneba-ghana-presents-welcome-launch-info-session-and-tech-talk/",
-          "when": "Sun Oct 18, 2026 at 2:00 PM ET"
         }
       ]
     },
@@ -3491,6 +4419,54 @@
       ]
     },
     {
+      "name": "Nuno João Andrade",
+      "role": "speaker",
+      "title": "Senior Backend Developer, Cloud Architect, and Cloud Platform Expert",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nuno%20Jo%C3%A3o%20Andrade",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Build with AI: A Hands-On Code-Along GDG Lisbon x TechPark CV",
+          "url": "https://gdg.community.dev/events/details/google-gdg-lisbon-presents-build-with-ai-a-hands-on-code-along-gdg-lisbon-x-techpark-cv/",
+          "when": "Fri Oct 23, 2026 at 1:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Orlando Alonso Alcarraz Alvarez",
+      "role": "speaker",
+      "title": "Co-organizador, GDG Open Lima · Machine Learning y Data Science",
+      "company": "GDG Open Lima",
+      "linkedin": "https://www.linkedin.com/in/orlandoalcarraz",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Paul Siccha Tarrillo",
+      "role": "speaker",
+      "title": "Founder, Startups.pe · Community Builder, Stripe Lima",
+      "company": "Startups.pe · Stripe Lima",
+      "linkedin": "https://www.linkedin.com/in/paulsiccha",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Pete Gordon",
       "role": "host",
       "title": "",
@@ -3522,13 +4498,13 @@
       "events": [
         {
           "title": "Data Science-AI-Cloud Sundays",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-10-18/",
-          "when": "Sun Oct 18, 2026 at 1:00 PM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-10-25/",
+          "when": "Sun Oct 25, 2026 at 1:00 PM ET"
         },
         {
           "title": "Data Science-AI-Cloud Sundays",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-10-25/",
-          "when": "Sun Oct 25, 2026 at 1:00 PM ET"
+          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-01/",
+          "when": "Sun Nov 01, 2026 at 12:00 PM ET"
         }
       ]
     },
@@ -3565,18 +4541,18 @@
       ]
     },
     {
-      "name": "Prof. Benjamin Yoofi Ghansah",
+      "name": "Pía Rivas Lozada",
       "role": "speaker",
-      "title": "Vice Dean, Faculty of Science UEW",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Prof.%20Benjamin%20Yoofi%20Ghansah",
-      "linkedin_exact": false,
+      "title": "Investment Analyst, Carao Ventures · NODOS",
+      "company": "Carao Ventures · NODOS",
+      "linkedin": "https://www.linkedin.com/in/piarivaslozada",
+      "linkedin_exact": true,
       "twitter": "",
       "events": [
         {
-          "title": "Welcome Launch: Info Session and Tech Talk",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-winneba-winneba-ghana-presents-welcome-launch-info-session-and-tech-talk/",
-          "when": "Sun Oct 18, 2026 at 2:00 PM ET"
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3597,6 +4573,54 @@
       ]
     },
     {
+      "name": "Raúl Joseph Bastidas Artica",
+      "role": "speaker",
+      "title": "Ingeniero, NonHuman · 1er puesto ICRA 2026",
+      "company": "NonHuman",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ra%C3%BAl%20Joseph%20Bastidas%20Artica%20NonHuman",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Richard Junior Torrejon Meza",
+      "role": "speaker",
+      "title": "Caster de videojuegos",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Richard%20Junior%20Torrejon%20Meza",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Rodrigo Mandujano Cornejo",
+      "role": "speaker",
+      "title": "CEO, Reganvi",
+      "company": "Reganvi",
+      "linkedin": "https://www.linkedin.com/in/rodrigo-mandujano-cornejo",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Roman Jaquez",
       "role": "speaker",
       "title": "Software Engineer / Flutter GDE",
@@ -3609,6 +4633,38 @@
           "title": "DevFest Troy '26",
           "url": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-troy-26/",
           "when": "Fri Oct 23, 2026 at 5:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Ronaldo Díaz",
+      "role": "speaker",
+      "title": "CEO, Viringo IA",
+      "company": "Viringo IA",
+      "linkedin": "https://www.linkedin.com/in/ronaldodiaz-clonet",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Rosa Barrera Cajahuanca",
+      "role": "speaker",
+      "title": "Bióloga y business developer · LUCAI Bio · Nucleate",
+      "company": "LUCAI Bio · Nucleate",
+      "linkedin": "https://www.linkedin.com/in/rosabarreracajahuanca",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3661,22 +4717,6 @@
       ]
     },
     {
-      "name": "Sario Chamorro",
-      "role": "host",
-      "title": "",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sario%20Chamorro",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Devfest Huancayo",
-          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
-          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
-        }
-      ]
-    },
-    {
       "name": "Scott Stalker",
       "role": "speaker",
       "title": "Founder, Deputy Chief AI Officer | AI Strategy, Data, Analytics, and Governance",
@@ -3709,6 +4749,22 @@
       ]
     },
     {
+      "name": "Silvana Gutierrez",
+      "role": "speaker",
+      "title": "Expert Backend Developer| WTM Ambassador",
+      "company": "Zenta Group",
+      "linkedin": "https://www.linkedin.com/in/silvanagutierrezm/",
+      "linkedin_exact": true,
+      "twitter": "Sil_Guty",
+      "events": [
+        {
+          "title": "Road to DevFest: Caché semántico para LLMs en Google Cloud",
+          "url": "https://gdg.community.dev/events/details/google-gdg-bogota-presents-road-to-devfest-cache-semantico-para-llms-en-google-cloud/",
+          "when": "Thu Oct 22, 2026 at 6:00 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Sophie Pei",
       "role": "host",
       "title": "CEO",
@@ -3721,6 +4777,22 @@
           "title": "Build & Connect: GDG Markham Hackathon + Social 2026",
           "url": "https://gdg.community.dev/events/details/google-gdg-markham-presents-build-amp-connect-gdg-markham-hackathon-social-2026/",
           "when": "Sat Oct 24, 2026 at 10:00 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Stiven Kevin Rosales Casas",
+      "role": "speaker",
+      "title": "AI Engineer, Colmena AI · Claude Perú Community",
+      "company": "Colmena AI",
+      "linkedin": "https://www.linkedin.com/in/stiven-kevin-rosales-casas",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -3785,6 +4857,22 @@
           "title": "DevFest Troy '26",
           "url": "https://gdg.community.dev/events/details/google-gdg-hudson-presents-devfest-troy-26/",
           "when": "Fri Oct 23, 2026 at 5:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Yancel Moisés Salinas Gómez",
+      "role": "speaker",
+      "title": "Production Engineer, Zebrands · Lead, GDG Open Lima",
+      "company": "GDG Open Lima · Zebrands",
+      "linkedin": "https://www.linkedin.com/in/sagoyanfisic",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Devfest Huancayo",
+          "url": "https://gdg.community.dev/events/details/google-gdg-huancayo-presents-devfest-huancayo-1/",
+          "when": "Fri Oct 23, 2026 at 8:30 AM ET"
         }
       ]
     },
