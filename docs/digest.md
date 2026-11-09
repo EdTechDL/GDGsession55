@@ -1,62 +1,50 @@
-# GDG events, Nov 08 to Nov 22
+# GDG events, Nov 09 to Nov 23
 
-Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new since the last check.
+Generated Mon Nov 09, 2026 4:14 PM ET. 12 in person nearby, 79 online, 14 new since the last check.
 
 ## New since the last check
 
-- **Mon Nov 09, 2026 at 1:00 PM ET** **NEW**: [Deep Learning Made Practical with Keras](https://gdg.community.dev/events/details/google-gdg-sfax-presents-deep-learning-made-practical-with-keras/)  
-  GDG Sfax | Sfax, Sfax Governorate, TN | Free registration
-- **Fri Nov 13, 2026 at 8:00 AM ET** **NEW**: [Mastering DSA with Confidence: An Evening with Shumbul Arifa](https://gdg.community.dev/events/details/google-gdg-on-campus-usha-mittal-institute-of-technology-mumbai-india-presents-mastering-dsa-with-confidence-an-evening-with-shumbul-arifa/)  
-  GDG on Campus Usha Mittal Institute of Technology - Mumbai, India | Mumbai, Maharashtra, IN | Free registration
-- **Fri Nov 20, 2026 at 9:00 AM ET** **NEW**: [DevFest Online Evening: Multimodal RAG with Gemini API](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/)  
-  GDG Cloud Egypt | Cairo, Cairo, EG | Free registration  
-  speaker: Amira Yassin | Data Science Researcher, Nile University ([LinkedIn](https://www.linkedin.com/in/amira-yassin-3b293517a/))  
-  host: Fady Ibrahim | Google Developer Expert & Google Cloud Authorized Trainer & 12x Google Cloud Certified ([LinkedIn](https://www.linkedin.com/in/FadyIbra))
-- **Fri Nov 20, 2026 at 8:00 PM ET** **NEW**: [2026 Google DevFest Guangzhou AI Carnival](https://gdg.community.dev/events/details/google-gdg-guangzhou-presents-2026-google-devfest-guangzhou-ai-carnival/) (hybrid, also online)  
-  GDG Guangzhou | 广州市, 广州市, Guangdong, CN | Free registration
-- **Sat Nov 21, 2026 at 8:30 AM ET** **NEW**: [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)  
-  GDG Windsor | Odette School of Business, Windsor, ON, CA | Paid registration  
-  speaker: Serg Masís | Principal AI Scientist, Syngenta ([LinkedIn](https://www.linkedin.com/in/smasis/))  
-  speaker: Naresh Jasotani | Technology Leader | Machine Learning, AI, Blockchain, Data & Analytics, Google ([LinkedIn](https://www.linkedin.com/in/naresh-r-jasotani/))  
-  speaker: Don Ward | Customer Engineer Specialist, Google ([LinkedIn](https://www.linkedin.com/in/donwardpeng/))  
-  speaker: Nilesh Patel | Customer Engineer Specialist, Google ([LinkedIn](https://www.linkedin.com/in/nilesh-patel/))  
-  speaker: Bryan Kelly | Staff Software Engineer, Applied AI | Staff Forward Deployed Engineer, Google ([LinkedIn](https://www.linkedin.com/in/bryan-kelly-a4632323/))  
-  speaker: Atif Khan | Chief Technology Officer, DataBraid ([LinkedIn](https://www.linkedin.com/in/atifikhan/))  
-  speaker: Godfrey Nolan | President, RIIS ([LinkedIn](https://www.linkedin.com/in/godfrey-nolan/))  
-  speaker: Mina Girges | Vice President & Chief Information Officer, TransForm Shared Service Organization ([LinkedIn](https://www.linkedin.com/in/minagirges/))  
-  speaker: Frank Abbruzzese | Principal - AlphakCOR, The Networking Alchemist ([LinkedIn](https://www.linkedin.com/in/frankabbruzzese/))  
-  speaker: Chukwuka (Eddie) Asamaka | Founder, Asamaka Industries ([LinkedIn](https://www.linkedin.com/in/asamakachukwuka/))  
-  speaker: Elvis Akhalu | Data Engineer, TD ([LinkedIn](https://www.linkedin.com/in/elvisakhalu/))  
-  speaker: Keval Patel | Lead Information Technology Infrastructure Manager, Architecttura Inc., Architects ([LinkedIn](https://www.linkedin.com/in/kmpatel100/))  
-  speaker: Joe Youssouf | Senior Data Scientist, Oden Technologies ([LinkedIn](https://www.linkedin.com/in/joeyoussouf))  
-  speaker: Arunesh Choudhary | Conversational AI Engineer, Dialabot.ai ([LinkedIn](https://www.linkedin.com/in/aruneshchoudhary))  
-  speaker: Umair Durrani | Data Scientist, Presage Group ([LinkedIn](https://www.linkedin.com/in/durraniu/))  
-  speaker: Steven Rice | Automation Specialist, DataRealm ([LinkedIn](https://www.linkedin.com/in/stevenrice99/))  
-  speaker: Florid Maclean | CEO & Professor, Catch The Event | Fanshawe College ([LinkedIn](https://www.linkedin.com/in/florid-maclean))  
-  speaker: Sandra Lopez-Zamora | Senior AI/ML Engineer, Pythian ([LinkedIn](https://www.linkedin.com/in/slopezza/))  
-  speaker: Diaa ElKott | Senior Software Engineer, ISRA VISION - Part of Atlas Copco ([LinkedIn](https://www.linkedin.com/in/elkott/))  
-  speaker: Kylie Kiser | Owner, Kylie K Consulting ([LinkedIn](https://www.linkedin.com/in/kylie-kiser/))  
-  speaker: Andrea Irina Yzeiri | Chief Data & Analytics Officer and Lead AI Engineer, Picsume ([LinkedIn](https://www.linkedin.com/in/andrea-yzeiri/))  
-  speaker: Veronica Reingold | Computer Science Student, University of Windsor ([LinkedIn](https://www.linkedin.com/in/veronicareingold/))  
-  speaker: Wen Teoh | President & Principal Consultant ([LinkedIn](https://www.linkedin.com/in/wen-teoh/))  
-  speaker: Sean Bridgeman | Director of Product Management, HALIGHT Inc ([LinkedIn](https://www.linkedin.com/in/sean-bridgeman-b2a30a178/))  
-  speaker: Camila Gaitan | Systems Engineer | Business Data Analyst, Softgic ([LinkedIn](https://www.linkedin.com/in/lizeth-camila-gaitan-baron/))  
-  speaker: Kevin Serrano Mojica | Software Enginner | Android Developer, Mercado Libre ([LinkedIn](https://www.linkedin.com/in/kevinserranomojica/))  
-  speaker: Vimal K. | Co-Founder, GDG Cloud Toronto ([LinkedIn](https://www.linkedin.com/in/vimalonline/))  
-  speaker: Nav Singh | Mobile Software Engineer, Google Developer Experts, Manulife ([LinkedIn](https://www.linkedin.com/in/navczydev/))  
-  speaker: James Lannigan | Senior Research Associate (Innovation and Technology), Signal49 Research ([LinkedIn](https://www.linkedin.com/in/james-lannigan-phd/))  
-  speaker: Mahnoz Akhtari | Principal, Grayfel Technologies ([LinkedIn](https://www.linkedin.com/in/mahnoz-akhtari-65125a267/))
-- **Sat Nov 21, 2026 at 8:45 AM ET** **NEW**: [Road to DevFest Nepal 2026: Online Workshop Series #1](https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-1/)  
-  GDG Kathmandu | TBD, TBD, Bagmati Province, NP | External registration
-- **Sat Nov 21, 2026 at 9:00 AM ET** **NEW**: [Agentic Data Lab: Building Production-Grade Data Agents on GCP](https://gdg.community.dev/events/details/google-gdg-essex-presents-agentic-data-lab-building-production-grade-data-agents-on-gcp/)  
-  GDG Essex | Romford, England, GB | Free registration  
-  speaker: Sathyaram Sannasi | Software Engineer DATA / ML ([LinkedIn](https://www.linkedin.com/in/sathyaram/))
-- **Sat Nov 21, 2026 at 9:53 AM ET** **NEW**: [DevFest La Paz 2026: Innovación y Futuro](https://gdg.community.dev/events/details/google-gdg-la-paz-presents-devfest-la-paz-2026-innovacion-y-futuro/) (hybrid, also online)  
-  GDG La Paz | Universidad Mayor de San Andrés, La Paz, La Paz Department, BO | Free registration
-- **Sat Nov 21, 2026 at 10:00 AM ET** **NEW**: [Road to DevFest Tamaulipas 2026](https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-road-to-devfest-tamaulipas-2026/) (hybrid, also online)  
-  GDG Cloud Mexico City | Aula Magna Herman Harris Fleishman, Tampico, Mexico City, MX | Free registration
-- **Sat Nov 21, 2026 at 12:00 PM ET** **NEW**: [Build Your First Multi-Agent AI System with the Google ADK, MCP & A2A Protocols!](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ottawa-ottawa-canada-presents-build-your-first-multi-agent-ai-system-with-the-google-adk-mcp-amp-a2a-protocols/)  
-  GDG on Campus University of Ottawa - Ottawa, Canada | STEM Complex (STM), Room 464, Ottawa, ON, CA | Free registration
+- **Mon Nov 09, 2026 at 8:30 AM ET** **NEW**: [DSA (Java) Class1: Java Basics, Complexity Analysis & Fundamentals of OOP](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-dsa-java-class1-java-basics-complexity-analysis-amp-fundamentals-of-oop/)  
+  GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India | Delhi, Delhi, IN | Free registration
+- **Mon Nov 09, 2026 at 8:30 AM ET** **NEW**: [Study Jam](https://gdg.community.dev/events/details/google-gdg-on-campus-ag-patil-institute-of-technology-solapur-india-presents-study-jam-2026-11-09/)  
+  GDG on Campus A.G. Patil Institute of Technology - Solapur, India | Solapur, Maharashtra, IN | Free registration  
+  speaker: Bushra Dongaonkar | Speaker ([LinkedIn](https://www.linkedin.com/in/bushradongaonkar/))  
+  speaker: Nouman Haddiwale | Speaker ([LinkedIn](https://www.linkedin.com/in/noumanhaddiwale?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- **Mon Nov 09, 2026 at 8:30 AM ET** **NEW**: [DSA (C++) Class 1: C++ BASICS AND STL IN C++](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-dsa-c-class-1-c-basics-and-stl-in-c/)  
+  GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India | Delhi, Delhi, IN | Free registration
+- **Mon Nov 09, 2026 at 10:30 AM ET** **NEW**: [AR/VR Class1: Introduction to Blender](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-arvr-class1-introduction-to-blender/)  
+  GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India | Delhi, Delhi, IN | Free registration
+- **Tue Nov 10, 2026 at 12:30 PM ET** **NEW**: [What even Makes a good UI?: The Art and Science](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-what-even-makes-a-good-ui-the-art-and-science/)  
+  GDG on Campus University of Embu - Embu, Kenya | Embu, Embu, KE | Free registration  
+  speaker: Teddy Omondi ([LinkedIn](https://www.linkedin.com/in/teddyomondi))
+- **Wed Nov 11, 2026 at 9:30 AM ET** **NEW**: [Dive into Serverless on Google Cloud](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-dive-into-serverless-on-google-cloud/)  
+  GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya | Juja, Kiambu County, KE | Free registration with Bevy Virtual Conference
+- **Wed Nov 11, 2026 at 9:30 AM ET** **NEW**: [UI/UX Class 1: Introduction to UI/UX Design](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-uiux-class-1-introduction-to-uiux-design/)  
+  GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India | Delhi, Delhi, IN | Free registration
+- **Wed Nov 11, 2026 at 12:00 PM ET** **NEW**: [Discover UX Design: Research to Wireframes](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ux-design-research-to-wireframes/)  
+  GDG on Campus Kabarak University - Nakuru, Kenya | Nakuru, Nakuru County, KE | Free registration  
+  host: Victor Kimani | Co-Lead Organizer, Google Developer Groups On Campus Kabarak University ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Victor%20Kimani%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University))  
+  host: Ian Githumbi | UI/UX Organizer, Google Developer Groups On Campus Kabarak University ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Ian%20Githumbi%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University))  
+  host: Allan Macharia | Technical Writing and Blogging Organizer, Google Developer Groups On Campus Kabarak University ([LinkedIn](https://www.linkedin.com/in/allan-macharia-b5b424337))
+- **Wed Nov 11, 2026 at 5:00 PM ET** **NEW**: [Más allá del chat: interfaces agénticas con AG-UI y A2UI](https://gdg.community.dev/events/details/google-gdg-sucre-presents-mas-alla-del-chat-interfaces-agenticas-con-ag-ui-y-a2ui/)  
+  GDG Sucre | Sucre, Chuquisaca Department, BO | Free registration  
+  speaker: Mauricio Arce Torrez | Jalasoft ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Mauricio%20Arce%20Torrez%20Jalasoft))  
+  host: Andrea Cornejo | Ingeniera de Software ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Andrea%20Cornejo))
+- **Thu Nov 19, 2026 at 9:00 PM ET** **NEW**: [Exploring AI Ethics Through Fiction; Refactoring Old Games with Gemini and Claude: Part 2](https://gdg.community.dev/events/details/google-gdg-sacramento-presents-exploring-ai-ethics-through-fiction-refactoring-old-games-with-gemini-and-claude-part-2/)  
+  GDG Sacramento | Sacramento, CA, US | Free registration with Bevy Virtual Conference  
+  speaker: Michael Brennock | Organizer, GDG Sacremento ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Michael%20Brennock%20GDG%20Sacremento))
+- **Sun Nov 22, 2026 at 10:30 AM ET** **NEW**: [GDGoC Unilorin Info session](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ilorin-ilorin-nigeria-presents-gdgoc-unilorin-info-session/)  
+  GDG on Campus University of Ilorin - Ilorin, Nigeria | Ilorin, Kwara State, NG | Free registration
+- **Sun Nov 22, 2026 at 12:00 PM ET** **NEW**: [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-22/)  
+  GDG Cloud Kaduna | Kaduna, Kaduna State, NG | Free registration  
+  host: Peter Okwukogu | Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub ([LinkedIn](https://www.linkedin.com/in/ipablo26/))
+- **Sun Nov 22, 2026 at 1:00 PM ET** **NEW**: [#133-rd Event ✨ AI & Cloud Workshop](https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-133-rd-event-ai-amp-cloud-workshop/) (hybrid, also online)  
+  GDG Cloud Sarajevo | COSMOHUB Coworking space | Virtual Office | Meeting Rooms, Sarajevo, Federation of B&H, BA | Free registration  
+  speaker: Kemal Cholovich | Community Lead, Organizer, GDG Cloud Sarajevo ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Kemal%20Cholovich%20GDG%20Cloud%20Sarajevo))
+- **Sun Nov 22, 2026 at 6:30 PM ET** **NEW**: [GDG Nashville's Monthly Virtual Meet-Up](https://gdg.community.dev/events/details/google-gdg-nashville-presents-gdg-nashvilles-monthly-virtual-meet-up-2/)  
+  GDG Nashville | Nashville, TN, US | Free registration  
+  speaker: Ezechiel Amen Agbla | Senior Software engineer ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Ezechiel%20Amen%20Agbla))  
+  speaker: Carlos Mota | Lead Software Engineer, Avancee Software ([LinkedIn](https://www.linkedin.com/in/cafonsomota/))
 
 ## In person: Ontario (Windsor to Ottawa) and Michigan
 
@@ -99,7 +87,7 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - **Fri Nov 20, 2026 at 5:00 PM ET**: [Build Multi-Agent Systems with ADK Workshop](https://gdg.community.dev/events/details/google-gdg-grand-rapids-presents-build-multi-agent-systems-with-adk-workshop/) (hybrid, also online)  
   GDG Grand Rapids | Daniel and Pamela Devos Center for Interpersonal Health - Room 445, Grand Rapids, MI, US | Free registration with Bevy Virtual Conference  
   speaker: Nandeesh Tankasala | GDG-Grand Rapids ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Nandeesh%20Tankasala%20GDG-Grand%20Rapids))
-- **Sat Nov 21, 2026 at 8:30 AM ET** **NEW**: [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)  
+- **Sat Nov 21, 2026 at 8:30 AM ET**: [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)  
   GDG Windsor | Odette School of Business, Windsor, ON, CA | Paid registration  
   speaker: Serg Masís | Principal AI Scientist, Syngenta ([LinkedIn](https://www.linkedin.com/in/smasis/))  
   speaker: Naresh Jasotani | Technology Leader | Machine Learning, AI, Blockchain, Data & Analytics, Google ([LinkedIn](https://www.linkedin.com/in/naresh-r-jasotani/))  
@@ -131,23 +119,28 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
   speaker: Nav Singh | Mobile Software Engineer, Google Developer Experts, Manulife ([LinkedIn](https://www.linkedin.com/in/navczydev/))  
   speaker: James Lannigan | Senior Research Associate (Innovation and Technology), Signal49 Research ([LinkedIn](https://www.linkedin.com/in/james-lannigan-phd/))  
   speaker: Mahnoz Akhtari | Principal, Grayfel Technologies ([LinkedIn](https://www.linkedin.com/in/mahnoz-akhtari-65125a267/))
-- **Sat Nov 21, 2026 at 12:00 PM ET** **NEW**: [Build Your First Multi-Agent AI System with the Google ADK, MCP & A2A Protocols!](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ottawa-ottawa-canada-presents-build-your-first-multi-agent-ai-system-with-the-google-adk-mcp-amp-a2a-protocols/)  
+- **Sat Nov 21, 2026 at 12:00 PM ET**: [Build Your First Multi-Agent AI System with the Google ADK, MCP & A2A Protocols!](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ottawa-ottawa-canada-presents-build-your-first-multi-agent-ai-system-with-the-google-adk-mcp-amp-a2a-protocols/)  
   GDG on Campus University of Ottawa - Ottawa, Canada | STEM Complex (STM), Room 464, Ottawa, ON, CA | Free registration
 
 ## Online (starting 8 am to 9 pm ET)
 
-- **Sun Nov 08, 2026 at 12:00 PM ET**: [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-08/)  
-  GDG Cloud Kaduna | Kaduna, Kaduna State, NG | Free registration  
-  host: Peter Okwukogu | Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub ([LinkedIn](https://www.linkedin.com/in/ipablo26/))
-- **Sun Nov 08, 2026 at 2:00 PM ET**: [Breaking into Tech: What Nobody Tells You](https://gdg.community.dev/events/details/google-gdg-on-campus-ladoke-akintola-university-of-technology-ogbomosho-nigeria-presents-breaking-into-tech-what-nobody-tells-you/)  
-  GDG on Campus Ladoke Akintola University of Technology - Ogbomosho, Nigeria | Ogbomosho, Oyo State, NG | Free registration
+- **Mon Nov 09, 2026 at 8:30 AM ET** **NEW**: [DSA (Java) Class1: Java Basics, Complexity Analysis & Fundamentals of OOP](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-dsa-java-class1-java-basics-complexity-analysis-amp-fundamentals-of-oop/)  
+  GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India | Delhi, Delhi, IN | Free registration
+- **Mon Nov 09, 2026 at 8:30 AM ET** **NEW**: [Study Jam](https://gdg.community.dev/events/details/google-gdg-on-campus-ag-patil-institute-of-technology-solapur-india-presents-study-jam-2026-11-09/)  
+  GDG on Campus A.G. Patil Institute of Technology - Solapur, India | Solapur, Maharashtra, IN | Free registration  
+  speaker: Bushra Dongaonkar | Speaker ([LinkedIn](https://www.linkedin.com/in/bushradongaonkar/))  
+  speaker: Nouman Haddiwale | Speaker ([LinkedIn](https://www.linkedin.com/in/noumanhaddiwale?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+- **Mon Nov 09, 2026 at 8:30 AM ET** **NEW**: [DSA (C++) Class 1: C++ BASICS AND STL IN C++](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-dsa-c-class-1-c-basics-and-stl-in-c/)  
+  GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India | Delhi, Delhi, IN | Free registration
+- **Mon Nov 09, 2026 at 10:30 AM ET** **NEW**: [AR/VR Class1: Introduction to Blender](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-arvr-class1-introduction-to-blender/)  
+  GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India | Delhi, Delhi, IN | Free registration
 - **Mon Nov 09, 2026 at 11:00 AM ET**: [Launch your web-based video game with AI](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-eldoret-eldoret-kenya-presents-launch-your-web-based-video-game-with-ai/)  
   GDG on Campus University of Eldoret - Eldoret, Kenya | Eldoret, Uasin Gishu County, KE | Free registration
 - **Mon Nov 09, 2026 at 11:00 AM ET**: [AI for Beginners: Kickstart Your Journey](https://gdg.community.dev/events/details/google-gdg-plovdiv-presents-ai-for-beginners-kickstart-your-journey/)  
   GDG Plovdiv | Plovdiv, Plovdiv Province, BG | Free registration with Bevy Virtual Conference
 - **Mon Nov 09, 2026 at 12:00 PM ET**: [mGEN Research Proposal Studio — AI Research & Project Resources](https://gdg.community.dev/events/details/google-gdg-on-campus-teesside-university-middlesbrough-united-kingdom-presents-mgen-research-proposal-studio-ai-research-amp-project-resources/)  
   GDG on Campus Teesside University - Middlesbrough, United Kingdom | Middlesbrough, England, GB | Free registration
-- **Mon Nov 09, 2026 at 1:00 PM ET** **NEW**: [Deep Learning Made Practical with Keras](https://gdg.community.dev/events/details/google-gdg-sfax-presents-deep-learning-made-practical-with-keras/)  
+- **Mon Nov 09, 2026 at 1:00 PM ET**: [Deep Learning Made Practical with Keras](https://gdg.community.dev/events/details/google-gdg-sfax-presents-deep-learning-made-practical-with-keras/)  
   GDG Sfax | Sfax, Sfax Governorate, TN | Free registration
 - **Mon Nov 09, 2026 at 7:30 PM ET**: [Think Like a TPM: The Skills Nobody Teaches Software Engineers](https://gdg.community.dev/events/details/google-gdg-salt-lake-city-presents-think-like-a-tpm-the-skills-nobody-teaches-software-engineers/)  
   GDG Salt Lake City | Salt Lake City, UT, US | Free registration  
@@ -170,6 +163,9 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
   GDG on Campus KCA University - Nairobi, Kenya | Nairobi, Nairobi County, KE | Free registration
 - **Tue Nov 10, 2026 at 12:00 PM ET**: [AI Session 2 : Exploring Programming Paradigms: A Hands-on Introduction](https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-ai-session-2-exploring-programming-paradigms-a-hands-on-introduction-2026-11-10/)  
   GDG on Campus Future Academy - Cairo, Egypt | Cairo, Cairo, EG | Free registration
+- **Tue Nov 10, 2026 at 12:30 PM ET** **NEW**: [What even Makes a good UI?: The Art and Science](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-what-even-makes-a-good-ui-the-art-and-science/)  
+  GDG on Campus University of Embu - Embu, Kenya | Embu, Embu, KE | Free registration  
+  speaker: Teddy Omondi ([LinkedIn](https://www.linkedin.com/in/teddyomondi))
 - **Tue Nov 10, 2026 at 1:00 PM ET**: [An Enterprise Adoption Story: Translating Google AI into Real-World Outcomes at Dublin City University (DCU)](https://gdg.community.dev/events/details/google-gdg-athlone-presents-an-enterprise-adoption-story-translating-google-ai-into-real-world-outcomes-at-dublin-city-university-dcu/)  
   GDG Athlone | Athlone, Leinster, IE | Free registration with Bevy Virtual Conference  
   speaker: Niall Spollen | Communications Officer, Dublin City University ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Niall%20Spollen%20Dublin%20City%20University))
@@ -181,14 +177,25 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
   GDG Seattle | Seattle, WA, US | Free registration  
   speaker: Clive Boulton | GDG Community Advocate, GDG Seattle ([LinkedIn](https://www.linkedin.com/in/clive.boulton))  
   host: Vishal Pallerla | Solutions Architect, InterSystems ([LinkedIn](https://www.linkedin.com/in/vishalpallerla))
+- **Wed Nov 11, 2026 at 9:30 AM ET** **NEW**: [Dive into Serverless on Google Cloud](https://gdg.community.dev/events/details/google-gdg-on-campus-jomo-kenyatta-university-of-agriculture-and-technology-juja-kenya-presents-dive-into-serverless-on-google-cloud/)  
+  GDG on Campus Jomo Kenyatta University of Agriculture and Technology - Juja, Kenya | Juja, Kiambu County, KE | Free registration with Bevy Virtual Conference
+- **Wed Nov 11, 2026 at 9:30 AM ET** **NEW**: [UI/UX Class 1: Introduction to UI/UX Design](https://gdg.community.dev/events/details/google-gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india-presents-uiux-class-1-introduction-to-uiux-design/)  
+  GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India | Delhi, Delhi, IN | Free registration
 - **Wed Nov 11, 2026 at 11:00 AM ET**: [Accelerating Agent Deployment on Google Cloud with the AlisX Platform](https://gdg.community.dev/events/details/google-gdg-pretoria-presents-accelerating-agent-deployment-on-google-cloud-with-the-alisx-platform/)  
   GDG Pretoria | Pretoria, Gauteng, ZA | Free registration
 - **Wed Nov 11, 2026 at 11:30 AM ET**: [Angular Unlocked: Data Flow & Forms Part 2](https://gdg.community.dev/events/details/google-gdg-soweto-presents-angular-unlocked-data-flow-amp-forms-part-2/)  
   GDG Soweto | Soweto, Gauteng, ZA | Free registration  
   speaker: Lesego Ndlovu | Co-Founder, BallTalent ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Lesego%20Ndlovu%20BallTalent))  
   speaker: Faith Kawira ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Faith%20Kawira))
-- **Wed Nov 11, 2026 at 12:00 PM ET**: [Breaking Into Tech](https://gdg.community.dev/events/details/google-gdg-on-campus-ie-university-madrid-spain-presents-breaking-into-tech/)  
-  GDG on Campus IE University - Madrid, Spain | Madrid, Community of Madrid, ES | Free registration
+- **Wed Nov 11, 2026 at 12:00 PM ET** **NEW**: [Discover UX Design: Research to Wireframes](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ux-design-research-to-wireframes/)  
+  GDG on Campus Kabarak University - Nakuru, Kenya | Nakuru, Nakuru County, KE | Free registration  
+  host: Victor Kimani | Co-Lead Organizer, Google Developer Groups On Campus Kabarak University ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Victor%20Kimani%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University))  
+  host: Ian Githumbi | UI/UX Organizer, Google Developer Groups On Campus Kabarak University ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Ian%20Githumbi%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University))  
+  host: Allan Macharia | Technical Writing and Blogging Organizer, Google Developer Groups On Campus Kabarak University ([LinkedIn](https://www.linkedin.com/in/allan-macharia-b5b424337))
+- **Wed Nov 11, 2026 at 5:00 PM ET** **NEW**: [Más allá del chat: interfaces agénticas con AG-UI y A2UI](https://gdg.community.dev/events/details/google-gdg-sucre-presents-mas-alla-del-chat-interfaces-agenticas-con-ag-ui-y-a2ui/)  
+  GDG Sucre | Sucre, Chuquisaca Department, BO | Free registration  
+  speaker: Mauricio Arce Torrez | Jalasoft ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Mauricio%20Arce%20Torrez%20Jalasoft))  
+  host: Andrea Cornejo | Ingeniera de Software ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Andrea%20Cornejo))
 - **Thu Nov 12, 2026 at 10:30 AM ET**: [Nuevos paradigmas en el flujo del desarrollo con la IA](https://gdg.community.dev/events/details/google-gdg-alicante-presents-nuevos-paradigmas-en-el-flujo-del-desarrollo-con-la-ia/)  
   GDG Alicante | Alicante, VC, ES | Free registration  
   speaker: Juan Ezquerro | Most Valuable Cloud & Devops Engineer Lead, Devoteam ([LinkedIn](https://www.linkedin.com/in/juan-ezquerro-llanes-08a984137/))
@@ -205,7 +212,7 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
   host: Pete Gordon ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon))
 - **Fri Nov 13, 2026 at 8:00 AM ET**: [Michigan DevFest + AI Hackathon 2026](https://gdg.community.dev/events/details/google-gdg-detroit-presents-michigan-devfest-ai-hackathon-2026/) (hybrid, also online)  
   GDG Detroit | Hollywood Casino Hotel at Greektown, Detroit, MI, US | Paid registration with Bevy Virtual Conference
-- **Fri Nov 13, 2026 at 8:00 AM ET** **NEW**: [Mastering DSA with Confidence: An Evening with Shumbul Arifa](https://gdg.community.dev/events/details/google-gdg-on-campus-usha-mittal-institute-of-technology-mumbai-india-presents-mastering-dsa-with-confidence-an-evening-with-shumbul-arifa/)  
+- **Fri Nov 13, 2026 at 8:00 AM ET**: [Mastering DSA with Confidence: An Evening with Shumbul Arifa](https://gdg.community.dev/events/details/google-gdg-on-campus-usha-mittal-institute-of-technology-mumbai-india-presents-mastering-dsa-with-confidence-an-evening-with-shumbul-arifa/)  
   GDG on Campus Usha Mittal Institute of Technology - Mumbai, India | Mumbai, Maharashtra, IN | Free registration
 - **Fri Nov 13, 2026 at 9:00 AM ET**: [DevFest 2026: Sureste de México Virtual](https://gdg.community.dev/events/details/google-gdg-villahermosa-presents-devfest-2026-sureste-de-mexico-virtual/)  
   GDG Villahermosa | Universidad Juárez Autónoma de Tabasco, Villahermosa, Tabasco, MX | Free registration
@@ -285,10 +292,13 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - **Thu Nov 19, 2026 at 9:00 PM ET**: [Incident Investigation with Agentic Graphs: Cutting Triage from 45 to 5 Minutes](https://gdg.community.dev/events/details/google-gdg-fremont-presents-incident-investigation-with-agentic-graphs-cutting-triage-from-45-to-5-minutes/)  
   GDG Fremont | Fremont, CA, US | Free registration  
   speaker: Sohil Vinod Shah | Staff Software Engineer- Agentic AI, PayPal ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Sohil%20Vinod%20Shah%20PayPal))
+- **Thu Nov 19, 2026 at 9:00 PM ET** **NEW**: [Exploring AI Ethics Through Fiction; Refactoring Old Games with Gemini and Claude: Part 2](https://gdg.community.dev/events/details/google-gdg-sacramento-presents-exploring-ai-ethics-through-fiction-refactoring-old-games-with-gemini-and-claude-part-2/)  
+  GDG Sacramento | Sacramento, CA, US | Free registration with Bevy Virtual Conference  
+  speaker: Michael Brennock | Organizer, GDG Sacremento ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Michael%20Brennock%20GDG%20Sacremento))
 - **Fri Nov 20, 2026 at 8:00 AM ET**: [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-11-20/)  
   GDG Columbus | Columbus, OH, US | Free registration  
   host: Pete Gordon ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon))
-- **Fri Nov 20, 2026 at 9:00 AM ET** **NEW**: [DevFest Online Evening: Multimodal RAG with Gemini API](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/)  
+- **Fri Nov 20, 2026 at 9:00 AM ET**: [DevFest Online Evening: Multimodal RAG with Gemini API](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/)  
   GDG Cloud Egypt | Cairo, Cairo, EG | Free registration  
   speaker: Amira Yassin | Data Science Researcher, Nile University ([LinkedIn](https://www.linkedin.com/in/amira-yassin-3b293517a/))  
   host: Fady Ibrahim | Google Developer Expert & Google Cloud Authorized Trainer & 12x Google Cloud Certified ([LinkedIn](https://www.linkedin.com/in/FadyIbra))
@@ -304,29 +314,45 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - **Fri Nov 20, 2026 at 7:00 PM ET**: [TALLER DE HACKATON DE IA - DEVFEST AYACUCHO 2026](https://gdg.community.dev/events/details/google-gdg-ayacucho-presents-taller-de-hackaton-de-ia-devfest-ayacucho-2026/)  
   GDG Ayacucho | Ayacucho, Ayacucho, PE | Free registration with Bevy Virtual Conference  
   speaker: Jose Yauri ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Jose%20Yauri))
-- **Fri Nov 20, 2026 at 8:00 PM ET** **NEW**: [2026 Google DevFest Guangzhou AI Carnival](https://gdg.community.dev/events/details/google-gdg-guangzhou-presents-2026-google-devfest-guangzhou-ai-carnival/) (hybrid, also online)  
+- **Fri Nov 20, 2026 at 8:00 PM ET**: [2026 Google DevFest Guangzhou AI Carnival](https://gdg.community.dev/events/details/google-gdg-guangzhou-presents-2026-google-devfest-guangzhou-ai-carnival/) (hybrid, also online)  
   GDG Guangzhou | 广州市, 广州市, Guangdong, CN | Free registration
-- **Sat Nov 21, 2026 at 8:45 AM ET** **NEW**: [Road to DevFest Nepal 2026: Online Workshop Series #1](https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-1/)  
+- **Sat Nov 21, 2026 at 8:45 AM ET**: [Road to DevFest Nepal 2026: Online Workshop Series #1](https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-1/)  
   GDG Kathmandu | TBD, TBD, Bagmati Province, NP | External registration
-- **Sat Nov 21, 2026 at 9:00 AM ET** **NEW**: [Agentic Data Lab: Building Production-Grade Data Agents on GCP](https://gdg.community.dev/events/details/google-gdg-essex-presents-agentic-data-lab-building-production-grade-data-agents-on-gcp/)  
+- **Sat Nov 21, 2026 at 9:00 AM ET**: [Agentic Data Lab: Building Production-Grade Data Agents on GCP](https://gdg.community.dev/events/details/google-gdg-essex-presents-agentic-data-lab-building-production-grade-data-agents-on-gcp/)  
   GDG Essex | Romford, England, GB | Free registration  
   speaker: Sathyaram Sannasi | Software Engineer DATA / ML ([LinkedIn](https://www.linkedin.com/in/sathyaram/))
-- **Sat Nov 21, 2026 at 9:53 AM ET** **NEW**: [DevFest La Paz 2026: Innovación y Futuro](https://gdg.community.dev/events/details/google-gdg-la-paz-presents-devfest-la-paz-2026-innovacion-y-futuro/) (hybrid, also online)  
+- **Sat Nov 21, 2026 at 9:53 AM ET**: [DevFest La Paz 2026: Innovación y Futuro](https://gdg.community.dev/events/details/google-gdg-la-paz-presents-devfest-la-paz-2026-innovacion-y-futuro/) (hybrid, also online)  
   GDG La Paz | Universidad Mayor de San Andrés, La Paz, La Paz Department, BO | Free registration
-- **Sat Nov 21, 2026 at 10:00 AM ET** **NEW**: [Road to DevFest Tamaulipas 2026](https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-road-to-devfest-tamaulipas-2026/) (hybrid, also online)  
+- **Sat Nov 21, 2026 at 10:00 AM ET**: [Road to DevFest Tamaulipas 2026](https://gdg.community.dev/events/details/google-gdg-cloud-mexico-city-presents-road-to-devfest-tamaulipas-2026/) (hybrid, also online)  
   GDG Cloud Mexico City | Aula Magna Herman Harris Fleishman, Tampico, Mexico City, MX | Free registration
+- **Sun Nov 22, 2026 at 10:30 AM ET** **NEW**: [GDGoC Unilorin Info session](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ilorin-ilorin-nigeria-presents-gdgoc-unilorin-info-session/)  
+  GDG on Campus University of Ilorin - Ilorin, Nigeria | Ilorin, Kwara State, NG | Free registration
+- **Sun Nov 22, 2026 at 12:00 PM ET** **NEW**: [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-22/)  
+  GDG Cloud Kaduna | Kaduna, Kaduna State, NG | Free registration  
+  host: Peter Okwukogu | Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub ([LinkedIn](https://www.linkedin.com/in/ipablo26/))
+- **Sun Nov 22, 2026 at 1:00 PM ET** **NEW**: [#133-rd Event ✨ AI & Cloud Workshop](https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-133-rd-event-ai-amp-cloud-workshop/) (hybrid, also online)  
+  GDG Cloud Sarajevo | COSMOHUB Coworking space | Virtual Office | Meeting Rooms, Sarajevo, Federation of B&H, BA | Free registration  
+  speaker: Kemal Cholovich | Community Lead, Organizer, GDG Cloud Sarajevo ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Kemal%20Cholovich%20GDG%20Cloud%20Sarajevo))
+- **Sun Nov 22, 2026 at 6:30 PM ET** **NEW**: [GDG Nashville's Monthly Virtual Meet-Up](https://gdg.community.dev/events/details/google-gdg-nashville-presents-gdg-nashvilles-monthly-virtual-meet-up-2/)  
+  GDG Nashville | Nashville, TN, US | Free registration  
+  speaker: Ezechiel Amen Agbla | Senior Software engineer ([find on LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Ezechiel%20Amen%20Agbla))  
+  speaker: Carlos Mota | Lead Software Engineer, Avancee Software ([LinkedIn](https://www.linkedin.com/in/cafonsomota/))
 
 ## People to connect with (speakers and hosts)
 
 - Ala Salehi | Senior AI Consultant, Deloitte ([LinkedIn](https://www.linkedin.com/in/ala-salehi/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
+- Allan Macharia | Technical Writing and Blogging Organizer, Google Developer Groups On Campus Kabarak University ([LinkedIn](https://www.linkedin.com/in/allan-macharia-b5b424337)) at [Discover UX Design: Research to Wireframes](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ux-design-research-to-wireframes/)
 - Amira Yassin | Data Science Researcher, Nile University ([LinkedIn](https://www.linkedin.com/in/amira-yassin-3b293517a/)) at [DevFest Online Evening: Multimodal RAG with Gemini API](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/)
+- Andrea Cornejo | Ingeniera de Software ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Andrea%20Cornejo)) at [Más allá del chat: interfaces agénticas con AG-UI y A2UI](https://gdg.community.dev/events/details/google-gdg-sucre-presents-mas-alla-del-chat-interfaces-agenticas-con-ag-ui-y-a2ui/)
 - Andrea Irina Yzeiri | Chief Data & Analytics Officer and Lead AI Engineer, Picsume ([LinkedIn](https://www.linkedin.com/in/andrea-yzeiri/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Arunesh Choudhary | Conversational AI Engineer, Dialabot.ai ([LinkedIn](https://www.linkedin.com/in/aruneshchoudhary)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/); [DevFest Sherbrooke 2026](https://gdg.community.dev/events/details/google-gdg-cloud-sherbrooke-presents-devfest-sherbrooke-2026-1/)
 - Atif Khan | Chief Technology Officer, DataBraid ([LinkedIn](https://www.linkedin.com/in/atifikhan/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Brooke Avery | Technical Program Manager (TPM), Limble CMSS ([LinkedIn](https://www.linkedin.com/in/jedibravery)) at [Think Like a TPM: The Skills Nobody Teaches Software Engineers](https://gdg.community.dev/events/details/google-gdg-salt-lake-city-presents-think-like-a-tpm-the-skills-nobody-teaches-software-engineers/)
 - Bryan Kelly | Staff Software Engineer, Applied AI | Staff Forward Deployed Engineer, Google ([LinkedIn](https://www.linkedin.com/in/bryan-kelly-a4632323/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
+- Bushra Dongaonkar | Speaker ([LinkedIn](https://www.linkedin.com/in/bushradongaonkar/)) at [Study Jam](https://gdg.community.dev/events/details/google-gdg-on-campus-ag-patil-institute-of-technology-solapur-india-presents-study-jam-2026-11-09/)
 - Bwolf Dev | Specialist, FTeam ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Bwolf%20Dev%20FTeam)) at [Revolucione sua Aplicação: Workshop Angular Signals](https://gdg.community.dev/events/details/google-gdg-caxias-do-sul-presents-revolucione-sua-aplicacao-workshop-angular-signals/)
 - Camila Gaitan | Systems Engineer | Business Data Analyst, Softgic ([LinkedIn](https://www.linkedin.com/in/lizeth-camila-gaitan-baron/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
+- Carlos Mota | Lead Software Engineer, Avancee Software ([LinkedIn](https://www.linkedin.com/in/cafonsomota/)) at [GDG Nashville's Monthly Virtual Meet-Up](https://gdg.community.dev/events/details/google-gdg-nashville-presents-gdg-nashvilles-monthly-virtual-meet-up-2/)
 - Chukwuka (Eddie) Asamaka | Founder, Asamaka Industries ([LinkedIn](https://www.linkedin.com/in/asamakachukwuka/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Clive Boulton | GDG Community Advocate, GDG Seattle ([LinkedIn](https://www.linkedin.com/in/clive.boulton)) at [How to Secure Your Wifi with Gemini](https://gdg.community.dev/events/details/google-gdg-seattle-presents-how-to-secure-your-wifi-with-gemini/)
 - David Aniebo | Senior Software Engineer, Mentalyc Inc. ([LinkedIn](https://www.linkedin.com/in/david-aniebo/)) at [From Websites to AI Agents: Crafting Agent-Ready Experiences](https://gdg.community.dev/events/details/google-gdg-ocala-presents-from-websites-to-ai-agents-crafting-agent-ready-experiences/)
@@ -336,6 +362,7 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - Don Ward | Customer Engineer Specialist, Google ([LinkedIn](https://www.linkedin.com/in/donwardpeng/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Dr. Zoe Aghababaeyan | CEO & Co-Founder, Mindtora ([LinkedIn](https://www.linkedin.com/in/zoeag/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
 - Elvis Akhalu | Data Engineer, TD ([LinkedIn](https://www.linkedin.com/in/elvisakhalu/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
+- Ezechiel Amen Agbla | Senior Software engineer ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Ezechiel%20Amen%20Agbla)) at [GDG Nashville's Monthly Virtual Meet-Up](https://gdg.community.dev/events/details/google-gdg-nashville-presents-gdg-nashvilles-monthly-virtual-meet-up-2/)
 - Fady Ibrahim | Google Developer Expert & Google Cloud Authorized Trainer & 12x Google Cloud Certified ([LinkedIn](https://www.linkedin.com/in/FadyIbra)) at [DevFest Online Evening: Multimodal RAG with Gemini API](https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/)
 - Faith Kawira ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Faith%20Kawira)) at [Angular Unlocked: Data Flow & Forms Part 2](https://gdg.community.dev/events/details/google-gdg-soweto-presents-angular-unlocked-data-flow-amp-forms-part-2/)
 - Farah Hammami | Organizer, GDG Monastir ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Farah%20Hammami%20GDG%20Monastir)) at [DevFest Sherbrooke 2026](https://gdg.community.dev/events/details/google-gdg-cloud-sherbrooke-presents-devfest-sherbrooke-2026-1/)
@@ -347,6 +374,7 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - Godfrey Nolan | President, RIIS ([LinkedIn](https://www.linkedin.com/in/godfrey-nolan/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Gouthami Nadupuri | GrowthArc ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Gouthami%20Nadupuri%20GrowthArc)) at [From Idea to Application:Building with AI Coding Agents Using Google Antigravity](https://gdg.community.dev/events/details/google-gdg-fremont-presents-from-idea-to-applicationbuilding-with-ai-coding-agents-using-google-antigravity/)
 - Hastimal Jangid | Co-founder, RankRabbit AI ([LinkedIn](https://www.linkedin.com/in/hastimaljangid/)) at [Small Business AI Clinic: Prompting & Automation Lab (Virtual)](https://gdg.community.dev/events/details/google-gdg-baltimore-presents-small-business-ai-clinic-prompting-amp-automation-lab-virtual-2026-11-19/)
+- Ian Githumbi | UI/UX Organizer, Google Developer Groups On Campus Kabarak University ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Ian%20Githumbi%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University)) at [Discover UX Design: Research to Wireframes](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ux-design-research-to-wireframes/)
 - Ifeanyi Idiaye | AI & Data Science Expert, Verbalytix Editing & Analytics ([LinkedIn](https://www.linkedin.com/in/ifeanyi-idiaye-09523abb/)) at [DevFest Sherbrooke 2026](https://gdg.community.dev/events/details/google-gdg-cloud-sherbrooke-presents-devfest-sherbrooke-2026-1/)
 - James Anderson | Founder, GDG Cloud Southlake ([LinkedIn](https://www.linkedin.com/in/james-anderson-cloud-architect/)) at [GDG Cloud Southlake #58: Sal Mineo: AI Attacks Systems Through Identities. See How to Stop It.](https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-gdg-cloud-southlake-58-sal-mineo-ai-attacks-systems-through-identities-see-how-to-stop-it-1/)
 - James Lannigan | Senior Research Associate (Innovation and Technology), Signal49 Research ([LinkedIn](https://www.linkedin.com/in/james-lannigan-phd/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
@@ -355,6 +383,7 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - Joe Youssouf | Senior Data Scientist, Oden Technologies ([LinkedIn](https://www.linkedin.com/in/joeyoussouf)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Jose Yauri ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Jose%20Yauri)) at [TALLER DE HACKATON DE IA - DEVFEST AYACUCHO 2026](https://gdg.community.dev/events/details/google-gdg-ayacucho-presents-taller-de-hackaton-de-ia-devfest-ayacucho-2026/)
 - Juan Ezquerro | Most Valuable Cloud & Devops Engineer Lead, Devoteam ([LinkedIn](https://www.linkedin.com/in/juan-ezquerro-llanes-08a984137/)) at [Nuevos paradigmas en el flujo del desarrollo con la IA](https://gdg.community.dev/events/details/google-gdg-alicante-presents-nuevos-paradigmas-en-el-flujo-del-desarrollo-con-la-ia/)
+- Kemal Cholovich | Community Lead, Organizer, GDG Cloud Sarajevo ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Kemal%20Cholovich%20GDG%20Cloud%20Sarajevo)) at [#133-rd Event ✨ AI & Cloud Workshop](https://gdg.community.dev/events/details/google-gdg-cloud-sarajevo-presents-133-rd-event-ai-amp-cloud-workshop/)
 - Keval Patel | Lead Information Technology Infrastructure Manager, Architecttura Inc., Architects ([LinkedIn](https://www.linkedin.com/in/kmpatel100/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Kevin Serrano Mojica | Software Enginner | Android Developer, Mercado Libre ([LinkedIn](https://www.linkedin.com/in/kevinserranomojica/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Kylie Kiser | Owner, Kylie K Consulting ([LinkedIn](https://www.linkedin.com/in/kylie-kiser/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
@@ -366,6 +395,8 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - Mahnoz Akhtari | Principal, Grayfel Technologies ([LinkedIn](https://www.linkedin.com/in/mahnoz-akhtari-65125a267/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Mario Gibney | Founder & Executive Director, Trajectory Labs ([LinkedIn](https://www.linkedin.com/in/mario-gibney-08bb7b45/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
 - Maureen Barahona | Google Developer Expert in Cloud ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Maureen%20Barahona)) at [De Hechiceros a Devs: Programando "Magia" en Tiempo Real con MediaPipe](https://gdg.community.dev/events/details/google-gdg-tegucigalpa-presents-de-hechiceros-a-devs-programando-magia-en-tiempo-real-con-mediapipe/)
+- Mauricio Arce Torrez | Jalasoft ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Mauricio%20Arce%20Torrez%20Jalasoft)) at [Más allá del chat: interfaces agénticas con AG-UI y A2UI](https://gdg.community.dev/events/details/google-gdg-sucre-presents-mas-alla-del-chat-interfaces-agenticas-con-ag-ui-y-a2ui/)
+- Michael Brennock | Organizer, GDG Sacremento ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Michael%20Brennock%20GDG%20Sacremento)) at [Exploring AI Ethics Through Fiction; Refactoring Old Games with Gemini and Claude: Part 2](https://gdg.community.dev/events/details/google-gdg-sacramento-presents-exploring-ai-ethics-through-fiction-refactoring-old-games-with-gemini-and-claude-part-2/)
 - Michael Hashizume | Principal Talent Acquisition Consultant, Gurulink ([LinkedIn](https://www.linkedin.com/in/michael-hashizume/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
 - Mina Girges | Vice President & Chief Information Officer, TransForm Shared Service Organization ([LinkedIn](https://www.linkedin.com/in/minagirges/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Mohammad Al-Ansari | Google ([LinkedIn](https://www.linkedin.com/in/alansari-ca/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
@@ -377,11 +408,12 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - Niall Spollen | Communications Officer, Dublin City University ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Niall%20Spollen%20Dublin%20City%20University)) at [An Enterprise Adoption Story: Translating Google AI into Real-World Outcomes at Dublin City University (DCU)](https://gdg.community.dev/events/details/google-gdg-athlone-presents-an-enterprise-adoption-story-translating-google-ai-into-real-world-outcomes-at-dublin-city-university-dcu/)
 - Nikheel Savant | Senior Software Engineer, Meta Platforms Inc ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Nikheel%20Savant%20Meta%20Platforms%20Inc)) at [DevFest Kenora: Shaping the Future Together](https://gdg.community.dev/events/details/google-gdg-kenora-presents-devfest-kenora-shaping-the-future-together/)
 - Nilesh Patel | Customer Engineer Specialist, Google ([LinkedIn](https://www.linkedin.com/in/nilesh-patel/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
+- Nouman Haddiwale | Speaker ([LinkedIn](https://www.linkedin.com/in/noumanhaddiwale?utm_source=share_via&utm_content=profile&utm_medium=member_ios)) at [Study Jam](https://gdg.community.dev/events/details/google-gdg-on-campus-ag-patil-institute-of-technology-solapur-india-presents-study-jam-2026-11-09/)
 - Olivier Bourgeois | Senior DevRel Developer, Google ([LinkedIn](https://www.linkedin.com/in/olivi-eh/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
 - Patrick Eichler | Kubernetes Expert, Yunacloud ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Patrick%20Eichler%20Yunacloud)) at [Gathering at Deutsche Bank Berlin Technology Centre](https://gdg.community.dev/events/details/google-gdg-cloud-berlin-presents-gathering-at-deutsche-bank-berlin-technology-centre-1/)
 - Pavel Malyarevsky | Deutsche Bank AG ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pavel%20Malyarevsky%20Deutsche%20Bank%20AG)) at [Gathering at Deutsche Bank Berlin Technology Centre](https://gdg.community.dev/events/details/google-gdg-cloud-berlin-presents-gathering-at-deutsche-bank-berlin-technology-centre-1/)
 - Pete Gordon ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Pete%20Gordon)) at [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-11-13/); [GDG Columbus: Shots On Goal](https://gdg.community.dev/events/details/google-gdg-columbus-presents-gdg-columbus-shots-on-goal-2026-11-20/)
-- Peter Okwukogu | Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub ([LinkedIn](https://www.linkedin.com/in/ipablo26/)) at [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-08/); [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-15/)
+- Peter Okwukogu | Google Developer Expert (GDE) for Data Cloud, CoLab Innovation Hub ([LinkedIn](https://www.linkedin.com/in/ipablo26/)) at [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-15/); [Data Science-AI-Cloud Sundays](https://gdg.community.dev/events/details/google-gdg-cloud-kaduna-presents-data-science-ai-cloud-sundays-2026-11-22/)
 - Rache Francois | Program Manager, Google ([LinkedIn](https://www.linkedin.com/in/rachelfrancois/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
 - Rafael Paiva | Senior Frontend Developer, Heed Solutions ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Rafael%20Paiva%20Heed%20Solutions)) at [Revolucione sua Aplicação: Workshop Angular Signals](https://gdg.community.dev/events/details/google-gdg-caxias-do-sul-presents-revolucione-sua-aplicacao-workshop-angular-signals/)
 - Sal Mineo | Sales Engineer, Silverfort ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Sal%20Mineo%20Silverfort)) at [GDG Cloud Southlake #58: Sal Mineo: AI Attacks Systems Through Identities. See How to Stop It.](https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-gdg-cloud-southlake-58-sal-mineo-ai-attacks-systems-through-identities-see-how-to-stop-it-1/)
@@ -393,11 +425,13 @@ Generated Sun Nov 08, 2026 11:53 AM ET. 12 in person nearby, 68 online, 10 new s
 - Sohil Vinod Shah | Staff Software Engineer- Agentic AI, PayPal ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Sohil%20Vinod%20Shah%20PayPal)) at [Incident Investigation with Agentic Graphs: Cutting Triage from 45 to 5 Minutes](https://gdg.community.dev/events/details/google-gdg-fremont-presents-incident-investigation-with-agentic-graphs-cutting-triage-from-45-to-5-minutes/)
 - Stacy Véronneau | Senior Customer Engineer & GDE, TELUS Digital ([LinkedIn](https://www.linkedin.com/in/stacyveronneau)) at [DevFest Sherbrooke 2026](https://gdg.community.dev/events/details/google-gdg-cloud-sherbrooke-presents-devfest-sherbrooke-2026-1/)
 - Steven Rice | Automation Specialist, DataRealm ([LinkedIn](https://www.linkedin.com/in/stevenrice99/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
+- Teddy Omondi ([LinkedIn](https://www.linkedin.com/in/teddyomondi)) at [What even Makes a good UI?: The Art and Science](https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-what-even-makes-a-good-ui-the-art-and-science/)
 - Umair Durrani | Data Scientist, Presage Group ([LinkedIn](https://www.linkedin.com/in/durraniu/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
 - Vahid (VEE) Fakhr | CEO and Co-Founder, Evalyze ([LinkedIn](https://www.linkedin.com/in/vahid-fakhr/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
 - Vaidehi Tripathi | Cloud Advisor, Elevance Health ([LinkedIn](https://www.linkedin.com/in/thecloudguru)) at [Devfest - Gemini Enterprise Demo and Deploy to GCP with Antigravity](https://gdg.community.dev/events/details/google-gdg-cloud-indy-presents-devfest-gemini-enterprise-demo-and-deploy-to-gcp-with-antigravity/)
 - Vaishal Shah | Senior Consultant - Devops & Gen AI, CGI ([LinkedIn](https://www.linkedin.com/in/vaishalshah2611/)) at [DevFest Toronto: Build, Secure, Scale: Developers and Builders in the Agentic Era](https://gdg.community.dev/events/details/google-gdg-toronto-presents-devfest-toronto-build-secure-scale-developers-and-builders-in-the-agentic-era-1/)
 - Veronica Reingold | Computer Science Student, University of Windsor ([LinkedIn](https://www.linkedin.com/in/veronicareingold/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
+- Victor Kimani | Co-Lead Organizer, Google Developer Groups On Campus Kabarak University ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Victor%20Kimani%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University)) at [Discover UX Design: Research to Wireframes](https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ux-design-research-to-wireframes/)
 - Vilson (Bwolf) Dauinheimer | Co - Organizer, GDG Caxias do Sul ([search LinkedIn](https://www.linkedin.com/search/results/people/?keywords=Vilson%20%28Bwolf%29%20Dauinheimer%20GDG%20Caxias%20do%20Sul)) at [Revolucione sua Aplicação: Workshop Angular Signals](https://gdg.community.dev/events/details/google-gdg-caxias-do-sul-presents-revolucione-sua-aplicacao-workshop-angular-signals/)
 - Vilson Dauinheimer | https://x.com/BwolfDev ([LinkedIn](https://www.linkedin.com/in/bwolfdev/)) at [Revolucione sua Aplicação: Workshop Angular Signals](https://gdg.community.dev/events/details/google-gdg-caxias-do-sul-presents-revolucione-sua-aplicacao-workshop-angular-signals/)
 - Vimal K. | Co-Founder, GDG Cloud Toronto ([LinkedIn](https://www.linkedin.com/in/vimalonline/)) at [GDG Windsor-Essex DevFest 2026](https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/)
