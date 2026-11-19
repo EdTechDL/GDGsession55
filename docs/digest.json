@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-18T14:13:05.818338-05:00",
-  "window_start": "2026-11-18",
-  "window_end": "2026-12-02",
+  "generated": "2026-11-19T14:17:57.186203-05:00",
+  "window_start": "2026-11-19",
+  "window_end": "2026-12-03",
   "in_person": [
     {
       "id": 129731,
@@ -13,7 +13,7 @@
       "where": "Odette School of Business, Windsor, ON, CA",
       "country": "CA",
       "start_local": "2026-11-21T08:30:00-05:00",
-      "end_local": "2026-11-21T16:30:00-05:00",
+      "end_local": "2026-11-21T17:30:00-05:00",
       "when": "Sat Nov 21, 2026 at 8:30 AM ET",
       "registration": "Paid registration",
       "tags": [
@@ -310,7 +310,8 @@
       "when": "Sat Nov 21, 2026 at 12:00 PM ET",
       "registration": "Free registration",
       "tags": [
-        "Google Cloud"
+        "Google Cloud",
+        "Workshop / hands-on session"
       ],
       "blurb": "Join GDG on Campus - uOttawa for a hands-on workshop to explore AI agents using Google's tools. Build an AI travel assistant with live data capabilities, understand multi-agent architecture, and deploy on Google Cloud Run. Ideal for students, developers, and AI enthusiasts. Bring a laptop and Python basics. Free cloud credits and lunch included. Held at uOttawa STEM complex, Room 464.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ottawa-ottawa-canada-presents-build-your-first-multi-agent-ai-system-with-the-google-adk-mcp-amp-a2a-protocols/",
@@ -494,7 +495,7 @@
       ],
       "blurb": "Join GDG Milano and dive into AI-powered automation at 'Una sola strada per la produzione.' Discover how to harness AI for workplace innovation while maintaining control and security. Learn to build a safe, structured environment for creative solutions with expert Lorenzo De Francesco. Don't miss this insightful session on December 1st at Autogrill (Avolta) in Rozzano. Registration required.",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-milano-presents-una-sola-strada-per-la-produzione-vibecoding-si-ma-senza-scappare-dalle-regole-aziendali/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -519,410 +520,30 @@
       ],
       "blurb": "Join us for the End-of-Year Wrap-Up on December 1st, from 6–7 PM, in the Engineering Building, Room 1225. Enjoy food and Red Bull as we celebrate together. See you there!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-michigan-state-university-east-lansing-united-states-presents-end-of-year-wrap-up/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 136093,
+      "kind": "in_person",
+      "audience_type": "IN_PERSON",
+      "title": "1P13 Review Session",
+      "chapter": "GDG on Campus McMaster University - Hamilton, Canada",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-mcmaster-university-hamilton-canada/",
+      "where": "A.N. Bourns Science Building, Hamilton, ON, CA",
+      "country": "CA",
+      "start_local": "2026-12-02T19:00:00-05:00",
+      "end_local": "2026-12-02T21:00:00-05:00",
+      "when": "Wed Dec 02, 2026 at 7:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join GDG McMaster for an engaging 1P13 Review Session designed to equip first-year engineering students with crucial Python skills for their exams, covering key topics like recursion, OOP, and data structures. Benefit from practice problems, mentorship, and peer learning, plus enjoy free pizza. It’s ideal for students at any skill level. Happening on December 2nd, 7-9 PM at ABB 164.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-mcmaster-university-hamilton-canada-presents-1p13-review-session/",
       "new": true,
       "people": []
     }
   ],
   "online": [
-    {
-      "id": 135315,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "De Hechiceros a Devs: Programando \"Magia\" en Tiempo Real con MediaPipe",
-      "chapter": "GDG Tegucigalpa",
-      "chapter_url": "https://gdg.community.dev/gdg-tegucigalpa/",
-      "where": "Tegucigalpa, Francisco Morazán Department, HN",
-      "country": "HN",
-      "start_local": "2026-11-17T19:00:00-05:00",
-      "end_local": "2026-11-17T20:00:00-05:00",
-      "when": "Tue Nov 17, 2026 at 7:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI"
-      ],
-      "blurb": "Explore the journey from illusion to execution in interactive magic at this talk. Learn how to develop gesture, face, and object detection software directly in the browser, eliminating the need for costly infrastructure. Ideal for tech enthusiasts and developers eager to integrate innovative features into their projects.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-tegucigalpa-presents-de-hechiceros-a-devs-programando-magia-en-tiempo-real-con-mediapipe/",
-      "new": false,
-      "people": [
-        {
-          "name": "Maureen Barahona",
-          "role": "speaker",
-          "title": "Google Developer Expert in Cloud",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Maureen%20Barahona",
-          "linkedin_exact": false,
-          "twitter": "evilmona"
-        }
-      ]
-    },
-    {
-      "id": 136053,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Cracking Off-Campus Placements: A Fresher's Guide to Getting Hired",
-      "chapter": "GDG on Campus JK Institute of Applied Physics & Technology - Allahabad, India",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-jk-institute-of-applied-physics-technology-allahabad-india/",
-      "where": "Allahabad, Uttar Pradesh, IN",
-      "country": "IN",
-      "start_local": "2026-11-18T08:30:00-05:00",
-      "end_local": "2026-11-18T09:00:00-05:00",
-      "when": "Wed Nov 18, 2026 at 8:30 AM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "GDG on Campus at JK Institute offers a free online session on 'How Off-Campus Hiring Works for Freshers.' Focused on coding-savvy students, it covers tech hiring insights, problem-solving techniques, and a DSA study plan. Join expert Saurabh Mishra for industry guidance on 18 Nov 2026 at 7 PM IST via Google Meet.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-jk-institute-of-applied-physics-technology-allahabad-india-presents-cracking-off-campus-placements-a-freshers-guide-to-getting-hired/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 136164,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Hands on Labs for Learn with Communities – Session 2/3",
-      "chapter": "GDG on Campus Heritage Institute of Technology - Kolkata, India",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-heritage-institute-of-technology-kolkata-india/",
-      "where": "Kolkata, West Bengal, IN",
-      "country": "IN",
-      "start_local": "2026-11-18T09:30:00-05:00",
-      "end_local": "2026-11-18T10:30:00-05:00",
-      "when": "Wed Nov 18, 2026 at 9:30 AM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Certification Study Group",
-        "Get Certified",
-        "Tech Talk / Meetup",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Building on the success of Session 1, join us for Session 2 of our Learn with Communities hands-on lab series! Collaborate with fellow learners, explore Google Cloud Skill Labs, resolve doubts, and strengthen your practical cloud skills as you progress towards earning Google Cloud skill badges.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-heritage-institute-of-technology-kolkata-india-presents-hands-on-labs-for-learn-with-communities-session-23/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 136261,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Decoding the Tech Industry: What Companies Actually Expect from Freshers?",
-      "chapter": "GDG on Campus Prof. Ram Meghe Institute of Technology and Research - Amravati, India",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-prof-ram-meghe-institute-of-technology-and-research-amravati-india/",
-      "where": "Amravati, Maharashtra, IN",
-      "country": "IN",
-      "start_local": "2026-11-18T10:00:24-05:00",
-      "end_local": "2026-11-18T11:15:24-05:00",
-      "when": "Wed Nov 18, 2026 at 10:00 AM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Join GDG On Campus PRMIT&R, Amravati on November 18th for an online session with Mr. Arpan Wanve. Learn what the tech industry expects from freshers, discover key skills, the value of internships, and how to stand out. Ideal for students, aspiring developers, and freshers eager to grasp industry demands.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-prof-ram-meghe-institute-of-technology-and-research-amravati-india-presents-decoding-the-tech-industry-what-companies-actually-expect-from-freshers/",
-      "new": true,
-      "people": []
-    },
-    {
-      "id": 136194,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "nmap: host-discovery and port-scanning",
-      "chapter": "GDG on Campus Chuka University - Chuka, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-chuka-university-chuka-kenya/",
-      "where": "Chuka, Tharaka - Nithi, KE",
-      "country": "KE",
-      "start_local": "2026-11-18T10:30:00-05:00",
-      "end_local": "2026-11-18T11:30:00-05:00",
-      "when": "Wed Nov 18, 2026 at 10:30 AM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "Workshop / hands-on session"
-      ],
-      "blurb": "Explore network discovery, security auditing, and host monitoring with Nmap. Perfect for IT professionals and cybersecurity enthusiasts seeking to enhance their skills and knowledge in network security tools.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-chuka-university-chuka-kenya-presents-nmap-host-discovery-and-port-scanning/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 135866,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Inside GDG on Campus FUTMINNA: Your Seat at the Table",
-      "chapter": "GDG on Campus Federal University of Technology - Minna, Nigeria",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-federal-university-of-technology-minna-nigeria/",
-      "where": "Minna, Niger State, NG",
-      "country": "NG",
-      "start_local": "2026-11-18T11:30:00-05:00",
-      "end_local": "2026-11-18T12:30:00-05:00",
-      "when": "Wed Nov 18, 2026 at 11:30 AM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "Career Development",
-        "Community Building",
-        "Conference",
-        "Networking"
-      ],
-      "blurb": "Experience the world of GDG on Campus at FUTMINNA. This event offers beginners a chance to explore technology's impact and collaboration opportunities. Connect with peers and learn to solve community challenges through innovation. Secure your spot in this dynamic community and contribute to meaningful change. Join the table of innovation and be part of the future.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-minna-nigeria-presents-inside-gdg-on-campus-futminna-your-seat-at-the-table/",
-      "new": false,
-      "people": [
-        {
-          "name": "Abraham Folorunso",
-          "role": "speaker",
-          "title": "Software Engineer",
-          "company": "GDG on Campus",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abraham%20Folorunso%20GDG%20on%20Campus",
-          "linkedin_exact": false,
-          "twitter": "AbrahamAlgorith"
-        }
-      ]
-    },
-    {
-      "id": 135996,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Discover UI design: an introduction into UI design and figma as a design software",
-      "chapter": "GDG on Campus Kabarak University - Nakuru, Kenya",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-kabarak-university-nakuru-kenya/",
-      "where": "Nakuru, Nakuru County, KE",
-      "country": "KE",
-      "start_local": "2026-11-18T12:00:30-05:00",
-      "end_local": "2026-11-18T13:30:30-05:00",
-      "when": "Wed Nov 18, 2026 at 12:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "UX / UI Design"
-      ],
-      "blurb": "Join a hands-on journey into UI design with Figma, perfect for aspiring designers, developers, and creative thinkers. Learn to craft stunning digital experiences by exploring the synergy between UI and UX, mastering Figma tools, and building structures through wireframing and components. End with a guided design sprint to apply your new skills in creating responsive, user-centric interfaces.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ui-design-an-introduction-into-ui-design-and-figma-as-a-design-software/",
-      "new": false,
-      "people": [
-        {
-          "name": "Ian Githumbi",
-          "role": "host",
-          "title": "UI/UX Organizer",
-          "company": "Google Developer Groups On Campus Kabarak University",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ian%20Githumbi%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University",
-          "linkedin_exact": false,
-          "twitter": "_Githumbian"
-        },
-        {
-          "name": "Victor Kimani",
-          "role": "host",
-          "title": "Co-Lead Organizer",
-          "company": "Google Developer Groups On Campus Kabarak University",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Victor%20Kimani%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University",
-          "linkedin_exact": false,
-          "twitter": "vikaki__"
-        },
-        {
-          "name": "Allan Macharia",
-          "role": "host",
-          "title": "Technical Writing and Blogging Organizer",
-          "company": "Google Developer Groups On Campus Kabarak University",
-          "linkedin": "https://www.linkedin.com/in/allan-macharia-b5b424337",
-          "linkedin_exact": true,
-          "twitter": ""
-        }
-      ]
-    },
-    {
-      "id": 135932,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Data Analysis Session 3 : Unleash the Power of Python: Data Analysis Deep Dive",
-      "chapter": "GDG on Campus Future Academy - Cairo, Egypt",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-future-academy-cairo-egypt/",
-      "where": "Cairo, Cairo, EG",
-      "country": "EG",
-      "start_local": "2026-11-18T14:00:00-05:00",
-      "end_local": "2026-11-18T16:00:00-05:00",
-      "when": "Wed Nov 18, 2026 at 2:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Discover the power of Python dictionaries and create custom functions for enhanced coding in this hands-on workshop. Perfect for beginners and those wanting to refine their skills. Join us on November 18 at 9:00 pm and elevate your coding expertise. Reserve your spot today!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-future-academy-cairo-egypt-presents-data-analysis-session-3-unleash-the-power-of-python-data-analysis-deep-dive-2026-11-18/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 135707,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Tech Talk: The Mind Behind the Horror — Game Dev with Unity & Blender",
-      "chapter": "GDG on Campus National School of Applied Sciences of Fes - Fes, Morocco",
-      "chapter_url": "https://gdg.community.dev/gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco/",
-      "where": "Fes, Fez-Meknès, MA",
-      "country": "MA",
-      "start_local": "2026-11-18T16:00:00-05:00",
-      "end_local": "2026-11-18T17:30:00-05:00",
-      "when": "Wed Nov 18, 2026 at 4:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Join GDG on Campus ENSA Fès for an Online Tech Talk with Rayane Makrane, a video game CEO, revealing insights into game development. Explore creating 3D worlds in Blender, game mechanics in Unity, and the psychology of horror. Ideal for ENSA Fès students and tech enthusiasts. RSVP on Bevy for the meeting link.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-national-school-of-applied-sciences-of-fes-fes-morocco-presents-tech-talk-the-mind-behind-the-horror-game-dev-with-unity-amp-blender/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 135927,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Bate papo sobre Carreira Tech",
-      "chapter": "GDG Caraguatatuba",
-      "chapter_url": "https://gdg.community.dev/gdg-caraguatatuba/",
-      "where": "Caraguatatuba, SP, BR",
-      "country": "BR",
-      "start_local": "2026-11-18T17:00:00-05:00",
-      "end_local": "2026-11-18T19:00:00-05:00",
-      "when": "Wed Nov 18, 2026 at 5:00 PM ET",
-      "registration": "External registration",
-      "tags": [
-        "AI",
-        "Angular",
-        "Google Cloud",
-        "Web"
-      ],
-      "blurb": "Quer impulsionar sua carreira em tecnologia? Participe do encontro online no dia 18 de novembro com os especialistas Alvaro Camillo, Fernando Sedrez, Tiago Temporin e Victor U. Pugliese. Transmissão ao vivo pelo YouTube do AngularSP. Não perca esta oportunidade de aprendizado e networking!",
-      "url": "https://gdg.community.dev/events/details/google-gdg-caraguatatuba-presents-bate-papo-sobre-carreira-tech/",
-      "new": false,
-      "people": []
-    },
-    {
-      "id": 136081,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Road to DevFest: Getting Started with Google Antigravity",
-      "chapter": "GDG Bogotá",
-      "chapter_url": "https://gdg.community.dev/gdg-bogota/",
-      "where": "Bogotá, Bogota D.C., CO",
-      "country": "CO",
-      "start_local": "2026-11-18T17:00:32-05:00",
-      "end_local": "2026-11-18T18:00:32-05:00",
-      "when": "Wed Nov 18, 2026 at 5:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "DevFest"
-      ],
-      "blurb": "Join Adrián Catalán at Road to DevFest Bogotá for \"Getting Started with Google Antigravity\" on November 18, 2026, from 5:00 to 6:00 p.m. (Bogotá time). This virtual event is perfect for developers looking to learn from a Google Developer Expert and Innovation Lab Director. Ideal for tech enthusiasts eager to explore new Google technologies.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-bogota-presents-road-to-devfest-getting-started-with-google-antigravity/",
-      "new": false,
-      "people": [
-        {
-          "name": "Adrián Catalán",
-          "role": "speaker",
-          "title": "Google Developer Expert",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adri%C3%A1n%20Catal%C3%A1n",
-          "linkedin_exact": false,
-          "twitter": "ykro"
-        }
-      ]
-    },
-    {
-      "id": 131696,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "GDG Cloud Southlake #58: Sal Mineo: AI Attacks Systems Through Identities. See How to Stop It.",
-      "chapter": "GDG Cloud Southlake",
-      "chapter_url": "https://gdg.community.dev/gdg-cloud-southlake/",
-      "where": "Southlake, TX, US",
-      "country": "US",
-      "start_local": "2026-11-18T17:30:00-05:00",
-      "end_local": "2026-11-18T19:30:00-05:00",
-      "when": "Wed Nov 18, 2026 at 5:30 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "Tech Talk / Meetup"
-      ],
-      "blurb": "Join GDG Cloud Southlake for an insightful session with Sal Mineo on AI-driven attacks targeting identities. Discover how AI bypasses traditional systems like Active Directory, learn unique AI attack strategies, and explore real-time defense mechanisms. Ideal for cybersecurity professionals, this live demo and technique breakdown will enhance your organization's security posture.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-gdg-cloud-southlake-58-sal-mineo-ai-attacks-systems-through-identities-see-how-to-stop-it-1/",
-      "new": false,
-      "people": [
-        {
-          "name": "Sal Mineo",
-          "role": "speaker",
-          "title": "Sales Engineer",
-          "company": "Silverfort",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sal%20Mineo%20Silverfort",
-          "linkedin_exact": false,
-          "twitter": ""
-        },
-        {
-          "name": "James Anderson",
-          "role": "host",
-          "title": "Founder",
-          "company": "GDG Cloud Southlake",
-          "linkedin": "https://www.linkedin.com/in/james-anderson-cloud-architect/",
-          "linkedin_exact": true,
-          "twitter": "jimandersonwerk"
-        }
-      ]
-    },
-    {
-      "id": 136091,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "De Endpoints a Enjambres de Agentes: Patrones de Arquitectura Backend en GCP para Sistemas Autónomos",
-      "chapter": "GDG Sucre",
-      "chapter_url": "https://gdg.community.dev/gdg-sucre/",
-      "where": "Sucre, Chuquisaca Department, BO",
-      "country": "BO",
-      "start_local": "2026-11-18T18:00:00-05:00",
-      "end_local": "2026-11-18T19:00:00-05:00",
-      "when": "Wed Nov 18, 2026 at 6:00 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "Google Cloud",
-        "Tech Talk / Meetup",
-        "Web"
-      ],
-      "blurb": "Join the virtual Road to DevFest Sucre 2026 session with Sebastián Álvarez, a Senior Software Engineer, as he explores resilient backend architecture for multi-agent systems in GCP. Learn about budget control, secure execution, and traceability. Tune in on November 18, 19:00 GMT-4, via GDG Sucre’s YouTube and Facebook. Perfect for developers looking to enhance their backend skills.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-sucre-presents-de-endpoints-a-enjambres-de-agentes-patrones-de-arquitectura-backend-en-gcp-para-sistemas-autonomos/",
-      "new": false,
-      "people": [
-        {
-          "name": "Sebastian Alvarez",
-          "role": "speaker",
-          "title": "Organizer",
-          "company": "GDG Quito",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sebastian%20Alvarez%20GDG%20Quito",
-          "linkedin_exact": false,
-          "twitter": ""
-        },
-        {
-          "name": "Andrea Cornejo",
-          "role": "host",
-          "title": "Ingeniera de Software",
-          "company": "",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andrea%20Cornejo",
-          "linkedin_exact": false,
-          "twitter": "andreacoding"
-        }
-      ]
-    },
-    {
-      "id": 135021,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "AI-Powered Mob Programming Jam",
-      "chapter": "GDG Capital Region",
-      "chapter_url": "https://gdg.community.dev/gdg-capital-region/",
-      "where": "Albany, NY, US",
-      "country": "US",
-      "start_local": "2026-11-18T18:00:00-05:00",
-      "end_local": "2026-11-18T20:00:00-05:00",
-      "when": "Wed Nov 18, 2026 at 6:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "Join a group of developer minds to develop an application of our choosing within the session window using only prompts into AI.  Once done, we will share the prompts and code to everyone.  You'll be amazed at what we can build together.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-capital-region-presents-ai-powered-mob-programming-jam/",
-      "new": false,
-      "people": []
-    },
     {
       "id": 133959,
       "kind": "online",
@@ -947,42 +568,6 @@
       "people": []
     },
     {
-      "id": 134811,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "From Idea to Application:Building with AI Coding Agents Using Google Antigravity",
-      "chapter": "GDG Fremont",
-      "chapter_url": "https://gdg.community.dev/gdg-fremont/",
-      "where": "Fremont, CA, US",
-      "country": "US",
-      "start_local": "2026-11-18T21:00:00-05:00",
-      "end_local": "2026-11-18T21:45:00-05:00",
-      "when": "Wed Nov 18, 2026 at 9:00 PM ET",
-      "registration": "Free registration with Bevy Virtual Conference",
-      "tags": [
-        "AI",
-        "AI - AI Studio",
-        "AI - Gemini",
-        "Build with AI",
-        "Web",
-        "Workshop / hands-on session"
-      ],
-      "blurb": "See AI coding agents take a web app from plan to working code, with a live Google Antigravity demo.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-fremont-presents-from-idea-to-applicationbuilding-with-ai-coding-agents-using-google-antigravity/",
-      "new": false,
-      "people": [
-        {
-          "name": "Gouthami Nadupuri",
-          "role": "speaker",
-          "title": "",
-          "company": "GrowthArc",
-          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gouthami%20Nadupuri%20GrowthArc",
-          "linkedin_exact": false,
-          "twitter": ""
-        }
-      ]
-    },
-    {
       "id": 133341,
       "kind": "online",
       "audience_type": "HYBRID",
@@ -1000,7 +585,7 @@
       ],
       "blurb": "Join the 'Introduction to Competitive Programming with C++ Bootcamp' for an interactive session ideal for beginners and those wishing to hone their C++ skills. Attendees will learn essential strategies, tackle real problems, and collaborate with fellow enthusiasts. Enhance your coding prowess and competitive edge by registering now. Don't miss out!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-bilkent-university-ankara-turkiye-presents-introduction-to-competitive-programming-with-c-bootcamp-lesson-v-2026-11-19/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1063,25 +648,6 @@
           "twitter": ""
         }
       ]
-    },
-    {
-      "id": 132464,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "Lunch and Learn - Android Development",
-      "chapter": "GDG Columbia",
-      "chapter_url": "https://gdg.community.dev/gdg-columbia/",
-      "where": "Columbia, SC, US",
-      "country": "US",
-      "start_local": "2026-11-19T12:00:00-05:00",
-      "end_local": "2026-11-19T13:00:00-05:00",
-      "when": "Thu Nov 19, 2026 at 12:00 PM ET",
-      "registration": "Free registration",
-      "tags": [],
-      "blurb": "The Android Development Lunch and Learn series returns, focusing on courses by Google, and using tools like Android Studio, Antigravity IDE, and Google AI Studio. Tailored to past attendee feedback, this event is ideal for developers seeking to enhance their Android skills.",
-      "url": "https://gdg.community.dev/events/details/google-gdg-columbia-presents-lunch-and-learn-android-development-2026-11-19/",
-      "new": false,
-      "people": []
     },
     {
       "id": 134705,
@@ -1277,7 +843,7 @@
       ],
       "blurb": "Join Adelaide Myra for a dynamic UI/UX Design workshop exploring duotone, image splitting, embossed text, and wax seals. Perfect for designers of all levels, this interactive session promises to enhance your skills and ignite creativity. Don't miss the Canvalicious experience—come learn and have fun!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-dedan-kimathi-university-of-technology-nyeri-kenya-presents-canvalicious-uiux-design-workshop/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -1319,6 +885,25 @@
       ],
       "blurb": "Enhance your SQL expertise in an interactive workshop designed to solve real-world data challenges. Participants will work with actual datasets using XAMPP and phpMyAdmin, mastering JOINs, GROUP BY, and aggregate functions. Ideal for those looking to deepen their SQL skills through practical exercises and engaging discussions. Join us on Thursday, 19 November 2026, for this hands-on session.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-chuka-university-chuka-kenya-presents-sql-in-practice-working-with-real-world-datasets/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 136387,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Infosession : TuniHack",
+      "chapter": "GDG on Campus Institut Supérieur des Arts Multimédia - Manouba, Tunisia",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-institut-superieur-des-arts-multimedia-manouba-tunisia/",
+      "where": "Manouba, Manouba, TN",
+      "country": "TN",
+      "start_local": "2026-11-19T14:00:00-05:00",
+      "end_local": "2026-11-19T15:00:00-05:00",
+      "when": "Thu Nov 19, 2026 at 2:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join the TuniHack Info Session on November 19th at 8:00 PM via Google Meet. Shaima Weslati from GDG On Campus ISAMM will guide participants through essential details for the event. Don't miss this chance to prepare for the hackathon. See you online!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-institut-superieur-des-arts-multimedia-manouba-tunisia-presents-infosession-tunihack/",
       "new": true,
       "people": []
     },
@@ -1337,7 +922,6 @@
       "registration": "Free registration",
       "tags": [
         "AI",
-        "AI - Gemini",
         "Build with AI",
         "Hackathon"
       ],
@@ -1526,6 +1110,40 @@
       ]
     },
     {
+      "id": 135371,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Google Developer Group On Campus KMITL - Core Team First Meet Chapter 2026 - 2027",
+      "chapter": "GDG on Campus King Mongkut's Institute of Technology Ladkrabang - Bangkok, Thailand",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-king-mongkuts-institute-of-technology-ladkrabang-bangkok-thailand/",
+      "where": "Bangkok, Bangkok, TH",
+      "country": "TH",
+      "start_local": "2026-11-20T08:00:00-05:00",
+      "end_local": "2026-11-20T11:30:00-05:00",
+      "when": "Fri Nov 20, 2026 at 8:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Community Building",
+        "Conference",
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "The Core Team Kickoff: Welcome & Networking event is exclusively for the GDGoC KMITL Core Team 2026 - 2027. Members can meet, share ideas, and plan for the year ahead while enjoying light refreshments. It's the perfect chance to collaborate and launch a successful journey together.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-king-mongkuts-institute-of-technology-ladkrabang-bangkok-thailand-presents-google-developer-group-on-campus-kmitl-core-team-first-meet-chapter-2026-2027/",
+      "new": true,
+      "people": [
+        {
+          "name": "Thanabodee Angkuldee",
+          "role": "host",
+          "title": "GDGoC KMITL - Lead Organizer",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Thanabodee%20Angkuldee",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
+    },
+    {
       "id": 85513,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1589,6 +1207,25 @@
       "blurb": "Join GDG for an interactive session on transforming ideas into deployable applications. Learn about designing, developing, and deploying functional apps with Firebase and cloud technologies. Gain practical experience, collaborate with fellow developers, and take your projects beyond local development. Ideal for developers ready to move from coding to product shipping. Bring your laptop and ideas.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kca-university-nairobi-kenya-presents-build-night-from-code-to-cloud-building-testing-amp-deploying-applications/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 136291,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "AI in Action: Kaggle Challenge",
+      "chapter": "GDG Sfax",
+      "chapter_url": "https://gdg.community.dev/gdg-sfax/",
+      "where": "Sfax, Sfax Governorate, TN",
+      "country": "TN",
+      "start_local": "2026-11-20T13:00:00-05:00",
+      "end_local": "2026-11-20T14:00:00-05:00",
+      "when": "Fri Nov 20, 2026 at 1:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Join the event with speaker Imen Masmoudi to begin your AI journey. Secure your spot now to gain insights and explore the world of artificial intelligence. Perfect for enthusiasts eager to dive into AI's opportunities and challenges.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-sfax-presents-ai-in-action-kaggle-challenge/",
+      "new": true,
       "people": []
     },
     {
@@ -1783,31 +1420,6 @@
       ]
     },
     {
-      "id": 134517,
-      "kind": "online",
-      "audience_type": "VIRTUAL",
-      "title": "GDG Miami Virtual Happy Hour",
-      "chapter": "GDG Miami",
-      "chapter_url": "https://gdg.community.dev/gdg-miami/",
-      "where": "Miami, FL, US",
-      "country": "US",
-      "start_local": "2026-11-20T17:30:00-05:00",
-      "end_local": "2026-11-20T18:30:00-05:00",
-      "when": "Fri Nov 20, 2026 at 5:30 PM ET",
-      "registration": "Free registration",
-      "tags": [
-        "AI",
-        "Firebase",
-        "Networking",
-        "Tech Talk / Meetup",
-        "Web"
-      ],
-      "blurb": "Grab your favorite beverage and join Google Developer Group Miami for a relaxed virtual happy hour! \n\n📅 When: Third week of November—exact date TBD\n🕠 Tentative time: 5:30–6:30 p.m. Ea",
-      "url": "https://gdg.community.dev/events/details/google-gdg-miami-presents-gdg-miami-virtual-happy-hour/",
-      "new": false,
-      "people": []
-    },
-    {
       "id": 135316,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1903,7 +1515,7 @@
       "where": "Coimbatore, Tamil Nadu, IN",
       "country": "IN",
       "start_local": "2026-11-20T21:30:00-05:00",
-      "end_local": "2026-11-21T07:30:00-05:00",
+      "end_local": "2026-11-22T07:30:00-05:00",
       "when": "Fri Nov 20, 2026 at 9:30 PM ET",
       "registration": "Free registration with Bevy Virtual Conference",
       "tags": [
@@ -1961,6 +1573,48 @@
       ]
     },
     {
+      "id": 136346,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Can AI Defend Itself?",
+      "chapter": "GDG Madurai",
+      "chapter_url": "https://gdg.community.dev/gdg-madurai/",
+      "where": "Madurai, Tamil Nadu, IN",
+      "country": "IN",
+      "start_local": "2026-11-21T08:30:00-05:00",
+      "end_local": "2026-11-21T09:30:00-05:00",
+      "when": "Sat Nov 21, 2026 at 8:30 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Join GDG Madurai and OpenMaduraiAI for a Community Learning Session on AI security. Learn about adversarial machine learning, evasion attacks, and more. Led by Nandakumar Devadoss from Honeywell, this online event is a must for those interested in AI protection strategies. Happening on November 21, 2026, at 7:00 PM IST via Google Meet. Secure your spot to enhance your AI expertise.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-madurai-presents-can-ai-defend-itself/",
+      "new": true,
+      "people": [
+        {
+          "name": "Nandakumar Devadoss",
+          "role": "speaker",
+          "title": "Senior Software Engineer",
+          "company": "Honeywell",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nandakumar%20Devadoss%20Honeywell",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Dhilip S E",
+          "role": "host",
+          "title": "SDE Intern",
+          "company": "Savemom Pvt. Ltd.",
+          "linkedin": "https://www.linkedin.com/in/dhilip-s-e",
+          "linkedin_exact": true,
+          "twitter": ""
+        }
+      ]
+    },
+    {
       "id": 135185,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -1986,7 +1640,17 @@
       "blurb": "Get ready to kick off Road to DevFest Nepal 2026, an online workshop series organized by Google Developer Groups (GDG) Kathmandu!",
       "url": "https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-1/",
       "new": false,
-      "people": []
+      "people": [
+        {
+          "name": "Sajeetharan Sinnathurai",
+          "role": "speaker",
+          "title": "Principal Product Manager",
+          "company": "Microsoft",
+          "linkedin": "https://www.linkedin.com/in/sajeetharan/",
+          "linkedin_exact": true,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 135087,
@@ -2107,6 +1771,7 @@
       "registration": "External registration",
       "tags": [
         "AI - Gemini",
+        "DevFest",
         "Hackathon"
       ],
       "blurb": "Build with Gemini, Firebase, and Google Cloud in a day. Submit by Friday. Present at DevFest. Win $500.",
@@ -2121,6 +1786,38 @@
           "linkedin": "https://www.linkedin.com/search/results/people/?keywords=HANNANAHMAD%20MAHMADSAEED%20SHAIKH%20North%20Cipher%20Valley%20Inc.",
           "linkedin_exact": false,
           "twitter": "hannanmax"
+        }
+      ]
+    },
+    {
+      "id": 136388,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Agentic Engineering in Practice",
+      "chapter": "GDG on Campus University of Management and Technology - Lahore, Pakistan",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-management-and-technology-lahore-pakistan/",
+      "where": "Lahore, Punjab, PK",
+      "country": "PK",
+      "start_local": "2026-11-21T11:00:00-05:00",
+      "end_local": "2026-11-21T12:30:00-05:00",
+      "when": "Sat Nov 21, 2026 at 11:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Learn how AI agents work and how to build practical applications with insights from Ahmed Hassan, Software Engineer at Systems Limited, UMT student and multiple times hackathon winner.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-agentic-engineering-in-practice/",
+      "new": true,
+      "people": [
+        {
+          "name": "Ahmad Hassan",
+          "role": "speaker",
+          "title": "SWE Intern",
+          "company": "Systems Limited",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ahmad%20Hassan%20Systems%20Limited",
+          "linkedin_exact": false,
+          "twitter": ""
         }
       ]
     },
@@ -2184,6 +1881,25 @@
       "people": []
     },
     {
+      "id": 136366,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Get Google Certified: Associate Cloud Engineer - Week 2",
+      "chapter": "GDG on Campus Nnamdi Azikiwe University - Awka, Nigeria",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria/",
+      "where": "Awka, Anambra, NG",
+      "country": "NG",
+      "start_local": "2026-11-21T14:00:20-05:00",
+      "end_local": "2026-11-21T15:00:20-05:00",
+      "when": "Sat Nov 21, 2026 at 2:00 PM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "Week 2: Setting up a cloud solution environment",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-nnamdi-azikiwe-university-awka-nigeria-presents-get-google-certified-associate-cloud-engineer-week-2/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 135937,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -2220,6 +1936,47 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ilorin-ilorin-nigeria-presents-gdgoc-unilorin-info-session/",
       "new": false,
       "people": []
+    },
+    {
+      "id": 136338,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "From Pakistan to the US: My Journey in Tech",
+      "chapter": "GDG on Campus University of Education - Lahore, Pakistan",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-university-of-education-lahore-pakistan/",
+      "where": "Lahore, Punjab, PK",
+      "country": "PK",
+      "start_local": "2026-11-22T10:30:00-05:00",
+      "end_local": "2026-11-22T12:00:00-05:00",
+      "when": "Sun Nov 22, 2026 at 10:30 AM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Join GDG on Campus for an insightful online session with Ibrahim Imran, a software engineer at Trazi. Learn about his journey from Faisalabad to building a career in the US. Gain valuable tips on moving abroad, overcoming challenges, and pursuing tech opportunities. Perfect for students, graduates, and developers eyeing global tech careers. Sunday, 22nd November, 8:30 PM PKT.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-lahore-pakistan-presents-from-pakistan-to-the-us-my-journey-in-tech/",
+      "new": true,
+      "people": [
+        {
+          "name": "Ibrahim Imran",
+          "role": "speaker",
+          "title": "",
+          "company": "Trazi",
+          "linkedin": "https://www.linkedin.com/in/ibrahimimran",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Muhammad Waqar",
+          "role": "host",
+          "title": "AI Reasoning Engineer",
+          "company": "Turing",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Muhammad%20Waqar%20Turing",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 111964,
@@ -2353,6 +2110,31 @@
       ]
     },
     {
+      "id": 136315,
+      "kind": "online",
+      "audience_type": "HYBRID",
+      "title": "Exploring AI Agents: Quickstart with the Agent Dev Kit",
+      "chapter": "GDG Wichita",
+      "chapter_url": "https://gdg.community.dev/gdg-wichita/",
+      "where": "Rhatigan Student Center, Wichita, KS, US",
+      "country": "US",
+      "start_local": "2026-11-22T20:00:04-05:00",
+      "end_local": "2026-11-22T21:00:04-05:00",
+      "when": "Sun Nov 22, 2026 at 8:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI - AI Studio",
+        "AI - Gemini Enterprise Agent Platform",
+        "Build with AI",
+        "Google Cloud",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Dive into AI agent development with our hands-on session using the Agent Dev Kit. Open to both seasoned developers and beginners, this event offers tools, interactive demos, and lively discussions with fellow tech enthusiasts. Be part of the future of AI—RSVP now to secure your spot!",
+      "url": "https://gdg.community.dev/events/details/google-gdg-wichita-presents-exploring-ai-agents-quickstart-with-the-agent-dev-kit-2026-11-22/",
+      "new": true,
+      "people": []
+    },
+    {
       "id": 135897,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -2401,8 +2183,42 @@
       ],
       "blurb": "\"Build City: The Big Launch\" is a 7-day virtual bootcamp and hackathon for student innovators by GDGoC COMSATS Lahore. Participants will turn ideas into products with expert sessions and a 48-hour build challenge. Open to all university levels, the event offers portfolio-building opportunities and rewards like DataCamp subscriptions and Google swag. Online from Nov 23–29, 2026.",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-comsats-university-islamabad-lahore-campus-lahore-pakistan-presents-build-city-the-big-launch/",
-      "new": true,
+      "new": false,
       "people": []
+    },
+    {
+      "id": 136240,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Building Smarter Flutter Apps: Open Source, AI, Security & Ownership",
+      "chapter": "GDG Pwani",
+      "chapter_url": "https://gdg.community.dev/gdg-pwani/",
+      "where": "Mombasa, Mombasa County, KE",
+      "country": "KE",
+      "start_local": "2026-11-23T11:00:00-05:00",
+      "end_local": "2026-11-23T12:00:00-05:00",
+      "when": "Mon Nov 23, 2026 at 11:00 AM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Career Development",
+        "Community Building",
+        "DevFest",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "This session dives into responsible modern Flutter development, guiding mobile developers on leveraging open-source libraries and AI tools for innovative applications. Participants learn to evaluate third-party packages, responsibly use AI, safeguard app data, and handle software licensing. Ideal for developers focused on secure, privacy-conscious app creation and monetization.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-pwani-presents-building-smarter-flutter-apps-open-source-ai-security-amp-ownership/",
+      "new": true,
+      "people": [
+        {
+          "name": "Ivy Wahome",
+          "role": "speaker",
+          "title": "Flutter Developer",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ivy%20Wahome",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 136034,
@@ -2425,6 +2241,61 @@
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-zonguldak-bulent-ecevit-university-zonguldak-turkiye-presents-hello-world-c-dersleri-2-ders/",
       "new": false,
       "people": []
+    },
+    {
+      "id": 136371,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "CS116 Study session",
+      "chapter": "GDG on Campus German Jordanian University - Madaba, Jordan",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-german-jordanian-university-madaba-jordan/",
+      "where": "Madaba, Jordan, Madaba, JO",
+      "country": "JO",
+      "start_local": "2026-11-23T11:00:00-05:00",
+      "end_local": "2026-11-23T12:30:00-05:00",
+      "when": "Mon Nov 23, 2026 at 11:00 AM ET",
+      "registration": "Free registration",
+      "tags": [],
+      "blurb": "The study session offers first-year students an opportunity to prepare for their computing fundamentals midterm exam. Attendees can review key concepts and ask questions to clarify their understanding.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-german-jordanian-university-madaba-jordan-presents-cs116-study-session/",
+      "new": true,
+      "people": []
+    },
+    {
+      "id": 134811,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "From Idea to Application:Building with AI Coding Agents Using Google Antigravity",
+      "chapter": "GDG Fremont",
+      "chapter_url": "https://gdg.community.dev/gdg-fremont/",
+      "where": "Fremont, CA, US",
+      "country": "US",
+      "start_local": "2026-11-23T21:00:00-05:00",
+      "end_local": "2026-11-23T22:00:00-05:00",
+      "when": "Mon Nov 23, 2026 at 9:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI",
+        "AI - AI Studio",
+        "AI - Gemini",
+        "Build with AI",
+        "Web",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "See AI coding agents take a web app from plan to working code, with a live Google Antigravity demo.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-fremont-presents-from-idea-to-applicationbuilding-with-ai-coding-agents-using-google-antigravity/",
+      "new": false,
+      "people": [
+        {
+          "name": "Gouthami Nadupuri",
+          "role": "speaker",
+          "title": "",
+          "company": "GrowthArc",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gouthami%20Nadupuri%20GrowthArc",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 136131,
@@ -2468,6 +2339,40 @@
       "people": []
     },
     {
+      "id": 136247,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Open Source Is More Than Code Building in Public, Collaborating and Creating Opportunities",
+      "chapter": "GDG Pwani",
+      "chapter_url": "https://gdg.community.dev/gdg-pwani/",
+      "where": "Mombasa, Mombasa County, KE",
+      "country": "KE",
+      "start_local": "2026-11-24T11:00:00-05:00",
+      "end_local": "2026-11-24T12:00:00-05:00",
+      "when": "Tue Nov 24, 2026 at 11:00 AM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Career Development",
+        "Community Building",
+        "DevFest",
+        "Networking"
+      ],
+      "blurb": "Explore the impact and benefits of contributing to Open Source in this informative session. Discover why it matters and how you can get involved. Perfect for developers, tech enthusiasts, and those curious about collaborative software development.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-pwani-presents-open-source-is-more-than-code-building-in-public-collaborating-and-creating-opportunities/",
+      "new": true,
+      "people": [
+        {
+          "name": "Ihuoma Anosike",
+          "role": "speaker",
+          "title": "Blockchain Developer",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ihuoma%20Anosike",
+          "linkedin_exact": false,
+          "twitter": "ihuomaAnosike"
+        }
+      ]
+    },
+    {
       "id": 130886,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -2488,6 +2393,28 @@
       "blurb": "Participe do GDG Barueri para uma imersão em protocolos HTTPs e o impacto da IA Agêntica. Descubra como essas tecnologias transformam a segurança e a eficiência na web. O evento oferece sessões interativas e oportunidades de networking em um ambiente dinâmico. Ideal para entusiastas de tecnologia que desejam ampliar seu conhecimento. Inscreva-se agora!",
       "url": "https://gdg.community.dev/events/details/google-gdg-barueri-presents-explorando-https-e-a-revolucao-da-ia-agentica/",
       "new": false,
+      "people": []
+    },
+    {
+      "id": 136111,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Datos satelitales en minutos con Google Earth Engine (GEE)",
+      "chapter": "GDG San Juan",
+      "chapter_url": "https://gdg.community.dev/gdg-san-juan/",
+      "where": "San Juan, San Juan Province, AR",
+      "country": "AR",
+      "start_local": "2026-11-24T15:00:00-05:00",
+      "end_local": "2026-11-24T16:00:00-05:00",
+      "when": "Tue Nov 24, 2026 at 3:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Earth Engine",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Una breve charla técnica de 20 minutos explora cómo usar Google Earth Engine para consultar y trabajar con imágenes satelitales. Basada en una experiencia del NASA Space Apps Challenge, la sesión aborda el acceso a colecciones de MODIS y VIIRS y la armonización de datos geoespaciales. Ideal para quienes deseen comprender estos procesos desde el navegador.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-san-juan-presents-datos-satelitales-en-minutos-con-google-earth-engine-gee/",
+      "new": true,
       "people": []
     },
     {
@@ -2516,7 +2443,7 @@
       ],
       "blurb": "Join the GDG Belo Horizonte's Cloud Lab BH on November 24, 2026, for a hands-on online workshop exploring Google's AI IDE. Discover agentive features and intelligent automation to boost coding productivity with insights from Douglas Augusto, a Google Cloud Platform Engineer. Ideal for developers eager to learn practical applications that transform software development. Register now!",
       "url": "https://gdg.community.dev/events/details/google-gdg-belo-horizonte-presents-cloud-lab-bh-1/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -2536,6 +2463,7 @@
         "AI",
         "AI - Gemini",
         "Conference",
+        "DevFest",
         "Google Cloud",
         "Tech Talk / Meetup"
       ],
@@ -2550,6 +2478,46 @@
           "company": "Rise Digital",
           "linkedin": "https://www.linkedin.com/in/christiannewman/",
           "linkedin_exact": true,
+          "twitter": ""
+        }
+      ]
+    },
+    {
+      "id": 136264,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Elefantes Projetam, Peixes-Dourados Revisam: Desenvolvimento Agêntico sem Bagunçar o Repositório",
+      "chapter": "GDG Porto Alegre",
+      "chapter_url": "https://gdg.community.dev/gdg-porto-alegre/",
+      "where": "Porto Alegre, RS, BR",
+      "country": "BR",
+      "start_local": "2026-11-24T18:00:00-05:00",
+      "end_local": "2026-11-24T19:00:00-05:00",
+      "when": "Tue Nov 24, 2026 at 6:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI"
+      ],
+      "blurb": "Neste meetup virtual de 1 hora, Carlos Barbero (Google Developer Expert em Cloud & IA e Google Ambassador em App Modernization) apresenta na prática o Elephant-Goldfish Model (EGM), um modelo open-source que organiza o desenvolvimento com agentes em dois papéis complementares.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-elefantes-projetam-peixes-dourados-revisam-desenvolvimento-agentico-sem-baguncar-o-repositorio/",
+      "new": true,
+      "people": [
+        {
+          "name": "Carlos Barbero",
+          "role": "speaker",
+          "title": "Google Developer Expert",
+          "company": "SantoDigital",
+          "linkedin": "https://www.linkedin.com/in/carlosrgbarbero/",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Giovane Roxo",
+          "role": "host",
+          "title": "Analista de TI | GDG Organizer",
+          "company": "Grupo Makena",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Giovane%20Roxo%20Grupo%20Makena",
+          "linkedin_exact": false,
           "twitter": ""
         }
       ]
@@ -2603,6 +2571,41 @@
       "people": []
     },
     {
+      "id": 136248,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Intellectual Property, Copyright & Ownership in the Age of AI",
+      "chapter": "GDG Pwani",
+      "chapter_url": "https://gdg.community.dev/gdg-pwani/",
+      "where": "Mombasa, Mombasa County, KE",
+      "country": "KE",
+      "start_local": "2026-11-25T11:00:00-05:00",
+      "end_local": "2026-11-25T12:00:00-05:00",
+      "when": "Wed Nov 25, 2026 at 11:00 AM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "Career Development",
+        "Community Building",
+        "DevFest",
+        "Networking",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Explore the complexities of AI-generated content ownership and learn essential strategies for developers to protect and responsibly use their innovations. Ideal for developers and creators looking to navigate the legal landscape of AI work.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-pwani-presents-intellectual-property-copyright-amp-ownership-in-the-age-of-ai/",
+      "new": true,
+      "people": [
+        {
+          "name": "Elaine Nyakako",
+          "role": "speaker",
+          "title": "AI & TVET Innovation Practitioner | Electrical & Electronics Engineering Professional | Educator and Mentor",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/in/elaine-n-874b53114",
+          "linkedin_exact": true,
+          "twitter": ""
+        }
+      ]
+    },
+    {
       "id": 135286,
       "kind": "online",
       "audience_type": "VIRTUAL",
@@ -2642,7 +2645,7 @@
       "tags": [],
       "blurb": "Join GDG on Campus LAUTECH and PIPress for an online workshop to boost your writing and publishing skills. Discover how PIPress can transform your approach to writing and research, and learn effective techniques to draft, research, and publish your ideas on Nostr. Ideal for students, developers, writers, and researchers wanting to enhance their publishing capabilities. Register now!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-ladoke-akintola-university-of-technology-ogbomosho-nigeria-presents-pipress-x-gdgoc-lautech-write-smarter-research-faster-publish-with-confidence/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -2696,7 +2699,7 @@
       ],
       "blurb": "Join the 'Introduction to Competitive Programming with C++ Bootcamp' for an interactive session ideal for beginners or those looking to sharpen C++ skills. Participants will explore essential strategies and engage in hands-on practice. It's a great opportunity to improve coding skills and connect with other enthusiasts. Register now to enhance your competitive edge!",
       "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-bilkent-university-ankara-turkiye-presents-introduction-to-competitive-programming-with-c-bootcamp-lesson-vi-2026-11-26/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -2794,7 +2797,44 @@
       "blurb": "Join the Virtual \"Show & Tell\" on November 26th, 5:30 PM AST, and experience lightning demos by local Halifax developers. Discover inspiring projects, side hustles, and intriguing tools in an engaging online event. Perfect for anyone interested in innovation and the dynamic developer community. Don't miss out. RSVP now!",
       "url": "https://gdg.community.dev/events/details/google-gdg-halifax-presents-gdg-halifax-virtual-show-amp-tell-lightning-demos-2026-11-26/",
       "new": false,
-      "people": []
+      "people": [
+        {
+          "name": "Vasilika Klimova",
+          "role": "speaker",
+          "title": "Technical Product Manager",
+          "company": "Ippon Technologies",
+          "linkedin": "https://www.linkedin.com/in/likita",
+          "linkedin_exact": true,
+          "twitter": "Lik04ka"
+        },
+        {
+          "name": "Medini Amani",
+          "role": "speaker",
+          "title": "Product Engineer / Data Engineer",
+          "company": "EY Studio+",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Medini%20Amani%20EY%20Studio%2B",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Amani Medini",
+          "role": "speaker",
+          "title": "",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amani%20Medini",
+          "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Hadear Marzooque",
+          "role": "host",
+          "title": "",
+          "company": "H.M. Immigratr",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hadear%20Marzooque%20H.M.%20Immigratr",
+          "linkedin_exact": false,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 135635,
@@ -2841,7 +2881,7 @@
       "title": "APAC AI for Science DevFest",
       "chapter": "GDG AI for Science - Australia",
       "chapter_url": "https://gdg.community.dev/gdg-ai-for-science-australia/",
-      "where": "TBD, TBD, NSW, AU",
+      "where": "Sydney, NSW, AU",
       "country": "AU",
       "start_local": "2026-11-26T20:00:00-05:00",
       "end_local": "2026-11-28T07:30:00-05:00",
@@ -3302,7 +3342,17 @@
       "blurb": "Get ready for the second session of Road to DevFest Nepal 2026, an online workshop series organized by Google Developer Groups (GDG) Kathmandu!",
       "url": "https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-2/",
       "new": false,
-      "people": []
+      "people": [
+        {
+          "name": "Tarun Jain",
+          "role": "speaker",
+          "title": "Founding Engineer",
+          "company": "Kaivid Labs",
+          "linkedin": "https://www.linkedin.com/in/jaintarun75/",
+          "linkedin_exact": true,
+          "twitter": ""
+        }
+      ]
     },
     {
       "id": 136208,
@@ -3325,7 +3375,7 @@
       ],
       "blurb": "Join Thinking Days, an engaging community event co-hosted by GDG Quito and others to tackle real tech challenges in Ecuador. On November 28, 2026, from 9-11 AM, collaborate on creating an open repository of impactful solutions at Quitopía, Quito. Open to all tech enthusiasts of any level—bring your AI tools and fresh ideas. Entry is free but spots are limited. Coffee will be provided.",
       "url": "https://gdg.community.dev/events/details/google-gdg-quito-presents-thinking-days-1-que-ninguna-solucion-se-pierda/",
-      "new": true,
+      "new": false,
       "people": []
     },
     {
@@ -3380,6 +3430,42 @@
           "company": "Laurentian University/Université Laurentienne",
           "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Gisele%20Roberts%20Laurentian%20University/Universit%C3%A9%20Laurentienne",
           "linkedin_exact": false,
+          "twitter": ""
+        },
+        {
+          "name": "Andrew Kostuik",
+          "role": "speaker",
+          "title": "Studio Director",
+          "company": "Studio NORCAT",
+          "linkedin": "https://www.linkedin.com/in/andrew-kostuik",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Ian Busch, P.Eng.",
+          "role": "speaker",
+          "title": "Staff Engineer (Electrical, VR)",
+          "company": "Studio NORCAT",
+          "linkedin": "https://www.linkedin.com/in/ian-busch-p-eng-211094a9",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Simon Lopez",
+          "role": "speaker",
+          "title": "XR Developer (Systems and Tooling)",
+          "company": "Studio NORCAT",
+          "linkedin": "https://www.linkedin.com/in/simonlopezj",
+          "linkedin_exact": true,
+          "twitter": ""
+        },
+        {
+          "name": "Quinn Henschel",
+          "role": "speaker",
+          "title": "Senior XR Developer",
+          "company": "",
+          "linkedin": "https://www.linkedin.com/in/quinnhenschel",
+          "linkedin_exact": true,
           "twitter": ""
         }
       ]
@@ -3606,7 +3692,12 @@
       "end_local": "2026-11-29T06:00:00-05:00",
       "when": "Sat Nov 28, 2026 at 8:30 PM ET",
       "registration": "External registration",
-      "tags": [],
+      "tags": [
+        "AI - AI Studio",
+        "AI - Gemini",
+        "DevFest",
+        "Workshop / hands-on session"
+      ],
       "blurb": "Upon the DevFest season, we brough you a Road-To-DevFest: Buildathon! In the buildathon, you will be able to get hands-on experience with Google Cloud credits to be used for agentic engineering with Antigravity and Google AI Studio! Reserve your spot now!",
       "url": "https://gdg.community.dev/events/details/google-gdg-george-town-presents-road-to-devfest-buildathon/",
       "new": false,
@@ -3790,6 +3881,30 @@
       ],
       "blurb": "Edición en vídeo del taller de GDG Lleida en la Upskilling Week Barcelona: de la máquina virtual a Cloud Run, paso a paso.",
       "url": "https://gdg.community.dev/events/details/google-gdg-lleida-presents-de-maquinas-virtuales-a-serverless-por-laura-morillo-gde-cloud-edicion-video-upskilling-week-barcelona/",
+      "new": false,
+      "people": []
+    },
+    {
+      "id": 136237,
+      "kind": "online",
+      "audience_type": "HYBRID",
+      "title": "Taller con Google for Education de Gemini y Notebook para estudiantes de la Universidad de Huelva",
+      "chapter": "GDG on Campus Huelva University - Huelva, Spain",
+      "chapter_url": "https://gdg.community.dev/gdg-on-campus-huelva-university-huelva-spain/",
+      "where": "Escuela Técnica Superior de Ingeniería, Huelva, AN, ES",
+      "country": "ES",
+      "start_local": "2026-12-01T10:00:00-05:00",
+      "end_local": "2026-12-03T14:00:45-05:00",
+      "when": "Tue Dec 01, 2026 at 10:00 AM ET",
+      "registration": "Free registration",
+      "tags": [
+        "AI - Gemini",
+        "Google Workspace",
+        "Tech Talk / Meetup",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "El Google Developer Group on Campus de la Universidad de Huelva y Google for Education ofrecen la Academia Gemini. Los estudiantes mejorarán sus habilidades en Google Workspace con sesiones online y presenciales los días 1 y 3 de diciembre. Incluye certificaciones para enriquecer el perfil profesional.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-huelva-university-huelva-spain-presents-taller-con-google-for-education-de-gemini-y-notebook-para-estudiantes-de-la-universidad-de-huelva/",
       "new": true,
       "people": []
     },
@@ -3816,7 +3931,7 @@
       ],
       "blurb": "Join the Cloudy Book Club for an engaging discussion on Part 3 of 'Becoming SRE.' Ideal for anyone interested in Cloud Computing, DevOps, and AI, this monthly online meeting encourages respectful dialogue and diverse perspectives. Reading the chapters beforehand is recommended for a richer experience. RSVP to receive the conference link. Open to all levels.",
       "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-cloudy-book-club-becoming-sre-chapter-11-to-18-part-33/",
-      "new": true,
+      "new": false,
       "people": [
         {
           "name": "Luiz Carneiro",
@@ -3837,6 +3952,64 @@
           "twitter": "MykolaSleta"
         }
       ]
+    },
+    {
+      "id": 136273,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Grounding and Extending Agent Memory with RAG",
+      "chapter": "GDG Broward County - FL",
+      "chapter_url": "https://gdg.community.dev/gdg-broward-county-fl/",
+      "where": "Coral Springs, FL, US",
+      "country": "US",
+      "start_local": "2026-12-02T12:00:00-05:00",
+      "end_local": "2026-12-02T12:45:00-05:00",
+      "when": "Wed Dec 02, 2026 at 12:00 PM ET",
+      "registration": "Free registration",
+      "tags": [
+        "Build with AI",
+        "Career Development",
+        "DevFest",
+        "Tech Talk / Meetup"
+      ],
+      "blurb": "Discover how to enhance autonomous agents' accuracy by grounding them with RAG (Retrieval-Augmented Generation). Learn to bridge event streams with historical data using vector search, preventing hallucinations and enabling safe actions. This session offers practical design patterns for software engineers, AI developers, and more, complete with a live demo and Q&A.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-grounding-and-extending-agent-memory-with-rag/",
+      "new": true,
+      "people": [
+        {
+          "name": "Oscar Garcia",
+          "role": "speaker",
+          "title": "VP of product development",
+          "company": "ozkary.com",
+          "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Oscar%20Garcia%20ozkary.com",
+          "linkedin_exact": false,
+          "twitter": "ozkary"
+        }
+      ]
+    },
+    {
+      "id": 133782,
+      "kind": "online",
+      "audience_type": "VIRTUAL",
+      "title": "Make It Matter: AI for Good Coding Jam",
+      "chapter": "GDG Brunswick",
+      "chapter_url": "https://gdg.community.dev/gdg-brunswick/",
+      "where": "Brunswick, GA, US",
+      "country": "US",
+      "start_local": "2026-12-02T14:00:00-05:00",
+      "end_local": "2026-12-02T16:00:00-05:00",
+      "when": "Wed Dec 02, 2026 at 2:00 PM ET",
+      "registration": "Free registration with Bevy Virtual Conference",
+      "tags": [
+        "AI",
+        "Accessibility",
+        "Build with AI",
+        "Workshop / hands-on session"
+      ],
+      "blurb": "Make it matter. Build an AI prototype that helps people in this friendly two-hour virtual jam. No experience needed.",
+      "url": "https://gdg.community.dev/events/details/google-gdg-brunswick-presents-make-it-matter-ai-for-good-coding-jam/",
+      "new": true,
+      "people": []
     }
   ],
   "people": [
@@ -3873,34 +4046,18 @@
       ]
     },
     {
-      "name": "Abraham Folorunso",
+      "name": "Ahmad Hassan",
       "role": "speaker",
-      "title": "Software Engineer",
-      "company": "GDG on Campus",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Abraham%20Folorunso%20GDG%20on%20Campus",
+      "title": "SWE Intern",
+      "company": "Systems Limited",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ahmad%20Hassan%20Systems%20Limited",
       "linkedin_exact": false,
-      "twitter": "AbrahamAlgorith",
+      "twitter": "",
       "events": [
         {
-          "title": "Inside GDG on Campus FUTMINNA: Your Seat at the Table",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-federal-university-of-technology-minna-nigeria-presents-inside-gdg-on-campus-futminna-your-seat-at-the-table/",
-          "when": "Wed Nov 18, 2026 at 11:30 AM ET"
-        }
-      ]
-    },
-    {
-      "name": "Adrián Catalán",
-      "role": "speaker",
-      "title": "Google Developer Expert",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Adri%C3%A1n%20Catal%C3%A1n",
-      "linkedin_exact": false,
-      "twitter": "ykro",
-      "events": [
-        {
-          "title": "Road to DevFest: Getting Started with Google Antigravity",
-          "url": "https://gdg.community.dev/events/details/google-gdg-bogota-presents-road-to-devfest-getting-started-with-google-antigravity/",
-          "when": "Wed Nov 18, 2026 at 5:00 PM ET"
+          "title": "Agentic Engineering in Practice",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-management-and-technology-lahore-pakistan-presents-agentic-engineering-in-practice/",
+          "when": "Sat Nov 21, 2026 at 11:00 AM ET"
         }
       ]
     },
@@ -3921,22 +4078,6 @@
       ]
     },
     {
-      "name": "Allan Macharia",
-      "role": "host",
-      "title": "Technical Writing and Blogging Organizer",
-      "company": "Google Developer Groups On Campus Kabarak University",
-      "linkedin": "https://www.linkedin.com/in/allan-macharia-b5b424337",
-      "linkedin_exact": true,
-      "twitter": "",
-      "events": [
-        {
-          "title": "Discover UI design: an introduction into UI design and figma as a design software",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ui-design-an-introduction-into-ui-design-and-figma-as-a-design-software/",
-          "when": "Wed Nov 18, 2026 at 12:00 PM ET"
-        }
-      ]
-    },
-    {
       "name": "Amanda Mazini",
       "role": "host",
       "title": "Program Coordinator",
@@ -3953,6 +4094,22 @@
       ]
     },
     {
+      "name": "Amani Medini",
+      "role": "speaker",
+      "title": "",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Amani%20Medini",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "GDG Halifax Virtual Show & Tell: Lightning Demos",
+          "url": "https://gdg.community.dev/events/details/google-gdg-halifax-presents-gdg-halifax-virtual-show-amp-tell-lightning-demos-2026-11-26/",
+          "when": "Thu Nov 26, 2026 at 4:30 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Amira Yassin",
       "role": "speaker",
       "title": "Data Science Researcher",
@@ -3965,22 +4122,6 @@
           "title": "DevFest Online Evening: Multimodal RAG with Gemini API",
           "url": "https://gdg.community.dev/events/details/google-gdg-cloud-egypt-presents-devfest-online-evening-multimodal-rag-with-gemini-api/",
           "when": "Fri Nov 20, 2026 at 9:00 AM ET"
-        }
-      ]
-    },
-    {
-      "name": "Andrea Cornejo",
-      "role": "host",
-      "title": "Ingeniera de Software",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Andrea%20Cornejo",
-      "linkedin_exact": false,
-      "twitter": "andreacoding",
-      "events": [
-        {
-          "title": "De Endpoints a Enjambres de Agentes: Patrones de Arquitectura Backend en GCP para Sistemas Autónomos",
-          "url": "https://gdg.community.dev/events/details/google-gdg-sucre-presents-de-endpoints-a-enjambres-de-agentes-patrones-de-arquitectura-backend-en-gcp-para-sistemas-autonomos/",
-          "when": "Wed Nov 18, 2026 at 6:00 PM ET"
         }
       ]
     },
@@ -4013,6 +4154,22 @@
           "title": "GDG Windsor-Essex DevFest 2026",
           "url": "https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/",
           "when": "Sat Nov 21, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Kostuik",
+      "role": "speaker",
+      "title": "Studio Director",
+      "company": "Studio NORCAT",
+      "linkedin": "https://www.linkedin.com/in/andrew-kostuik",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "DevFest Sudbury 2026: Build, Secure, Scale – Developers and Builders in the Agentic Era",
+          "url": "https://gdg.community.dev/events/details/google-gdg-sudbury-presents-devfest-sudbury-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/",
+          "when": "Sat Nov 28, 2026 at 9:30 AM ET"
         }
       ]
     },
@@ -4161,6 +4318,22 @@
       ]
     },
     {
+      "name": "Carlos Barbero",
+      "role": "speaker",
+      "title": "Google Developer Expert",
+      "company": "SantoDigital",
+      "linkedin": "https://www.linkedin.com/in/carlosrgbarbero/",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Elefantes Projetam, Peixes-Dourados Revisam: Desenvolvimento Agêntico sem Bagunçar o Repositório",
+          "url": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-elefantes-projetam-peixes-dourados-revisam-desenvolvimento-agentico-sem-baguncar-o-repositorio/",
+          "when": "Tue Nov 24, 2026 at 6:00 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Carlos Mota",
       "role": "speaker",
       "title": "Lead Software Engineer",
@@ -4305,6 +4478,22 @@
       ]
     },
     {
+      "name": "Dhilip S E",
+      "role": "host",
+      "title": "SDE Intern",
+      "company": "Savemom Pvt. Ltd.",
+      "linkedin": "https://www.linkedin.com/in/dhilip-s-e",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Can AI Defend Itself?",
+          "url": "https://gdg.community.dev/events/details/google-gdg-madurai-presents-can-ai-defend-itself/",
+          "when": "Sat Nov 21, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Diaa ElKott",
       "role": "speaker",
       "title": "Senior Software Engineer",
@@ -4365,6 +4554,22 @@
           "title": "Ethical Hacking: Web Brute Forcing",
           "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-embu-embu-kenya-presents-ethical-hacking-web-brute-forcing/",
           "when": "Thu Nov 19, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Elaine Nyakako",
+      "role": "speaker",
+      "title": "AI & TVET Innovation Practitioner | Electrical & Electronics Engineering Professional | Educator and Mentor",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/in/elaine-n-874b53114",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Intellectual Property, Copyright & Ownership in the Age of AI",
+          "url": "https://gdg.community.dev/events/details/google-gdg-pwani-presents-intellectual-property-copyright-amp-ownership-in-the-age-of-ai/",
+          "when": "Wed Nov 25, 2026 at 11:00 AM ET"
         }
       ]
     },
@@ -4481,6 +4686,22 @@
       ]
     },
     {
+      "name": "Giovane Roxo",
+      "role": "host",
+      "title": "Analista de TI | GDG Organizer",
+      "company": "Grupo Makena",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Giovane%20Roxo%20Grupo%20Makena",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Elefantes Projetam, Peixes-Dourados Revisam: Desenvolvimento Agêntico sem Bagunçar o Repositório",
+          "url": "https://gdg.community.dev/events/details/google-gdg-porto-alegre-presents-elefantes-projetam-peixes-dourados-revisam-desenvolvimento-agentico-sem-baguncar-o-repositorio/",
+          "when": "Tue Nov 24, 2026 at 6:00 PM ET"
+        }
+      ]
+    },
+    {
       "name": "Gisele Roberts",
       "role": "speaker",
       "title": "Director, Research and Innovation",
@@ -4540,7 +4761,23 @@
         {
           "title": "From Idea to Application:Building with AI Coding Agents Using Google Antigravity",
           "url": "https://gdg.community.dev/events/details/google-gdg-fremont-presents-from-idea-to-applicationbuilding-with-ai-coding-agents-using-google-antigravity/",
-          "when": "Wed Nov 18, 2026 at 9:00 PM ET"
+          "when": "Mon Nov 23, 2026 at 9:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Hadear Marzooque",
+      "role": "host",
+      "title": "",
+      "company": "H.M. Immigratr",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Hadear%20Marzooque%20H.M.%20Immigratr",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "GDG Halifax Virtual Show & Tell: Lightning Demos",
+          "url": "https://gdg.community.dev/events/details/google-gdg-halifax-presents-gdg-halifax-virtual-show-amp-tell-lightning-demos-2026-11-26/",
+          "when": "Thu Nov 26, 2026 at 4:30 PM ET"
         }
       ]
     },
@@ -4603,34 +4840,66 @@
       ]
     },
     {
-      "name": "Ian Githumbi",
-      "role": "host",
-      "title": "UI/UX Organizer",
-      "company": "Google Developer Groups On Campus Kabarak University",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ian%20Githumbi%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University",
-      "linkedin_exact": false,
-      "twitter": "_Githumbian",
+      "name": "Ian Busch, P.Eng.",
+      "role": "speaker",
+      "title": "Staff Engineer (Electrical, VR)",
+      "company": "Studio NORCAT",
+      "linkedin": "https://www.linkedin.com/in/ian-busch-p-eng-211094a9",
+      "linkedin_exact": true,
+      "twitter": "",
       "events": [
         {
-          "title": "Discover UI design: an introduction into UI design and figma as a design software",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ui-design-an-introduction-into-ui-design-and-figma-as-a-design-software/",
-          "when": "Wed Nov 18, 2026 at 12:00 PM ET"
+          "title": "DevFest Sudbury 2026: Build, Secure, Scale – Developers and Builders in the Agentic Era",
+          "url": "https://gdg.community.dev/events/details/google-gdg-sudbury-presents-devfest-sudbury-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/",
+          "when": "Sat Nov 28, 2026 at 9:30 AM ET"
         }
       ]
     },
     {
-      "name": "James Anderson",
-      "role": "host",
-      "title": "Founder",
-      "company": "GDG Cloud Southlake",
-      "linkedin": "https://www.linkedin.com/in/james-anderson-cloud-architect/",
+      "name": "Ibrahim Imran",
+      "role": "speaker",
+      "title": "",
+      "company": "Trazi",
+      "linkedin": "https://www.linkedin.com/in/ibrahimimran",
       "linkedin_exact": true,
-      "twitter": "jimandersonwerk",
+      "twitter": "",
       "events": [
         {
-          "title": "GDG Cloud Southlake #58: Sal Mineo: AI Attacks Systems Through Identities. See How to Stop It.",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-gdg-cloud-southlake-58-sal-mineo-ai-attacks-systems-through-identities-see-how-to-stop-it-1/",
-          "when": "Wed Nov 18, 2026 at 5:30 PM ET"
+          "title": "From Pakistan to the US: My Journey in Tech",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-lahore-pakistan-presents-from-pakistan-to-the-us-my-journey-in-tech/",
+          "when": "Sun Nov 22, 2026 at 10:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Ihuoma Anosike",
+      "role": "speaker",
+      "title": "Blockchain Developer",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ihuoma%20Anosike",
+      "linkedin_exact": false,
+      "twitter": "ihuomaAnosike",
+      "events": [
+        {
+          "title": "Open Source Is More Than Code Building in Public, Collaborating and Creating Opportunities",
+          "url": "https://gdg.community.dev/events/details/google-gdg-pwani-presents-open-source-is-more-than-code-building-in-public-collaborating-and-creating-opportunities/",
+          "when": "Tue Nov 24, 2026 at 11:00 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Ivy Wahome",
+      "role": "speaker",
+      "title": "Flutter Developer",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Ivy%20Wahome",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Building Smarter Flutter Apps: Open Source, AI, Security & Ownership",
+          "url": "https://gdg.community.dev/events/details/google-gdg-pwani-presents-building-smarter-flutter-apps-open-source-ai-security-amp-ownership/",
+          "when": "Mon Nov 23, 2026 at 11:00 AM ET"
         }
       ]
     },
@@ -4928,18 +5197,18 @@
       ]
     },
     {
-      "name": "Maureen Barahona",
+      "name": "Medini Amani",
       "role": "speaker",
-      "title": "Google Developer Expert in Cloud",
-      "company": "",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Maureen%20Barahona",
+      "title": "Product Engineer / Data Engineer",
+      "company": "EY Studio+",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Medini%20Amani%20EY%20Studio%2B",
       "linkedin_exact": false,
-      "twitter": "evilmona",
+      "twitter": "",
       "events": [
         {
-          "title": "De Hechiceros a Devs: Programando \"Magia\" en Tiempo Real con MediaPipe",
-          "url": "https://gdg.community.dev/events/details/google-gdg-tegucigalpa-presents-de-hechiceros-a-devs-programando-magia-en-tiempo-real-con-mediapipe/",
-          "when": "Tue Nov 17, 2026 at 7:00 PM ET"
+          "title": "GDG Halifax Virtual Show & Tell: Lightning Demos",
+          "url": "https://gdg.community.dev/events/details/google-gdg-halifax-presents-gdg-halifax-virtual-show-amp-tell-lightning-demos-2026-11-26/",
+          "when": "Thu Nov 26, 2026 at 4:30 PM ET"
         }
       ]
     },
@@ -4976,6 +5245,22 @@
       ]
     },
     {
+      "name": "Muhammad Waqar",
+      "role": "host",
+      "title": "AI Reasoning Engineer",
+      "company": "Turing",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Muhammad%20Waqar%20Turing",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "From Pakistan to the US: My Journey in Tech",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-education-lahore-pakistan-presents-from-pakistan-to-the-us-my-journey-in-tech/",
+          "when": "Sun Nov 22, 2026 at 10:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Mykola Sleta",
       "role": "host",
       "title": "Solution Architect",
@@ -4988,6 +5273,22 @@
           "title": "Cloudy Book Club: Becoming SRE - Chapter 11 to 18 (Part 3/3) 📕☁️",
           "url": "https://gdg.community.dev/events/details/google-gdg-cloud-munich-presents-cloudy-book-club-becoming-sre-chapter-11-to-18-part-33/",
           "when": "Tue Dec 01, 2026 at 1:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Nandakumar Devadoss",
+      "role": "speaker",
+      "title": "Senior Software Engineer",
+      "company": "Honeywell",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Nandakumar%20Devadoss%20Honeywell",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Can AI Defend Itself?",
+          "url": "https://gdg.community.dev/events/details/google-gdg-madurai-presents-can-ai-defend-itself/",
+          "when": "Sat Nov 21, 2026 at 8:30 AM ET"
         }
       ]
     },
@@ -5068,6 +5369,22 @@
           "title": "Build Your First Multi-Agent AI System with the Google ADK, MCP & A2A Protocols!",
           "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-university-of-ottawa-ottawa-canada-presents-build-your-first-multi-agent-ai-system-with-the-google-adk-mcp-amp-a2a-protocols/",
           "when": "Sat Nov 21, 2026 at 12:00 PM ET"
+        }
+      ]
+    },
+    {
+      "name": "Oscar Garcia",
+      "role": "speaker",
+      "title": "VP of product development",
+      "company": "ozkary.com",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Oscar%20Garcia%20ozkary.com",
+      "linkedin_exact": false,
+      "twitter": "ozkary",
+      "events": [
+        {
+          "title": "Grounding and Extending Agent Memory with RAG",
+          "url": "https://gdg.community.dev/events/details/google-gdg-broward-county-fl-presents-grounding-and-extending-agent-memory-with-rag/",
+          "when": "Wed Dec 02, 2026 at 12:00 PM ET"
         }
       ]
     },
@@ -5162,6 +5479,22 @@
       ]
     },
     {
+      "name": "Quinn Henschel",
+      "role": "speaker",
+      "title": "Senior XR Developer",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/in/quinnhenschel",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "DevFest Sudbury 2026: Build, Secure, Scale – Developers and Builders in the Agentic Era",
+          "url": "https://gdg.community.dev/events/details/google-gdg-sudbury-presents-devfest-sudbury-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/",
+          "when": "Sat Nov 28, 2026 at 9:30 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Rayyan Lodhi",
       "role": "speaker",
       "title": "GDG Organizer",
@@ -5210,18 +5543,18 @@
       ]
     },
     {
-      "name": "Sal Mineo",
+      "name": "Sajeetharan Sinnathurai",
       "role": "speaker",
-      "title": "Sales Engineer",
-      "company": "Silverfort",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sal%20Mineo%20Silverfort",
-      "linkedin_exact": false,
+      "title": "Principal Product Manager",
+      "company": "Microsoft",
+      "linkedin": "https://www.linkedin.com/in/sajeetharan/",
+      "linkedin_exact": true,
       "twitter": "",
       "events": [
         {
-          "title": "GDG Cloud Southlake #58: Sal Mineo: AI Attacks Systems Through Identities. See How to Stop It.",
-          "url": "https://gdg.community.dev/events/details/google-gdg-cloud-southlake-presents-gdg-cloud-southlake-58-sal-mineo-ai-attacks-systems-through-identities-see-how-to-stop-it-1/",
-          "when": "Wed Nov 18, 2026 at 5:30 PM ET"
+          "title": "Road to DevFest Nepal 2026: Online Workshop Series #1",
+          "url": "https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-1/",
+          "when": "Sat Nov 21, 2026 at 8:45 AM ET"
         }
       ]
     },
@@ -5290,22 +5623,6 @@
       ]
     },
     {
-      "name": "Sebastian Alvarez",
-      "role": "speaker",
-      "title": "Organizer",
-      "company": "GDG Quito",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Sebastian%20Alvarez%20GDG%20Quito",
-      "linkedin_exact": false,
-      "twitter": "",
-      "events": [
-        {
-          "title": "De Endpoints a Enjambres de Agentes: Patrones de Arquitectura Backend en GCP para Sistemas Autónomos",
-          "url": "https://gdg.community.dev/events/details/google-gdg-sucre-presents-de-endpoints-a-enjambres-de-agentes-patrones-de-arquitectura-backend-en-gcp-para-sistemas-autonomos/",
-          "when": "Wed Nov 18, 2026 at 6:00 PM ET"
-        }
-      ]
-    },
-    {
       "name": "Serg Masís",
       "role": "speaker",
       "title": "Principal AI Scientist",
@@ -5318,6 +5635,22 @@
           "title": "GDG Windsor-Essex DevFest 2026",
           "url": "https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/",
           "when": "Sat Nov 21, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Simon Lopez",
+      "role": "speaker",
+      "title": "XR Developer (Systems and Tooling)",
+      "company": "Studio NORCAT",
+      "linkedin": "https://www.linkedin.com/in/simonlopezj",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "DevFest Sudbury 2026: Build, Secure, Scale – Developers and Builders in the Agentic Era",
+          "url": "https://gdg.community.dev/events/details/google-gdg-sudbury-presents-devfest-sudbury-2026-build-secure-scale-developers-and-builders-in-the-agentic-era/",
+          "when": "Sat Nov 28, 2026 at 9:30 AM ET"
         }
       ]
     },
@@ -5386,6 +5719,38 @@
       ]
     },
     {
+      "name": "Tarun Jain",
+      "role": "speaker",
+      "title": "Founding Engineer",
+      "company": "Kaivid Labs",
+      "linkedin": "https://www.linkedin.com/in/jaintarun75/",
+      "linkedin_exact": true,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Road to DevFest Nepal 2026: Online Workshop Series #2",
+          "url": "https://gdg.community.dev/events/details/google-gdg-kathmandu-presents-road-to-devfest-nepal-2026-online-workshop-series-2/",
+          "when": "Sat Nov 28, 2026 at 8:45 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Thanabodee Angkuldee",
+      "role": "host",
+      "title": "GDGoC KMITL - Lead Organizer",
+      "company": "",
+      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Thanabodee%20Angkuldee",
+      "linkedin_exact": false,
+      "twitter": "",
+      "events": [
+        {
+          "title": "Google Developer Group On Campus KMITL - Core Team First Meet Chapter 2026 - 2027",
+          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-king-mongkuts-institute-of-technology-ladkrabang-bangkok-thailand-presents-google-developer-group-on-campus-kmitl-core-team-first-meet-chapter-2026-2027/",
+          "when": "Fri Nov 20, 2026 at 8:00 AM ET"
+        }
+      ]
+    },
+    {
       "name": "Umair Durrani",
       "role": "speaker",
       "title": "Data Scientist",
@@ -5398,6 +5763,22 @@
           "title": "GDG Windsor-Essex DevFest 2026",
           "url": "https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/",
           "when": "Sat Nov 21, 2026 at 8:30 AM ET"
+        }
+      ]
+    },
+    {
+      "name": "Vasilika Klimova",
+      "role": "speaker",
+      "title": "Technical Product Manager",
+      "company": "Ippon Technologies",
+      "linkedin": "https://www.linkedin.com/in/likita",
+      "linkedin_exact": true,
+      "twitter": "Lik04ka",
+      "events": [
+        {
+          "title": "GDG Halifax Virtual Show & Tell: Lightning Demos",
+          "url": "https://gdg.community.dev/events/details/google-gdg-halifax-presents-gdg-halifax-virtual-show-amp-tell-lightning-demos-2026-11-26/",
+          "when": "Thu Nov 26, 2026 at 4:30 PM ET"
         }
       ]
     },
@@ -5430,22 +5811,6 @@
           "title": "GDG Windsor-Essex DevFest 2026",
           "url": "https://gdg.community.dev/events/details/google-gdg-windsor-presents-gdg-windsor-essex-devfest-2026/",
           "when": "Sat Nov 21, 2026 at 8:30 AM ET"
-        }
-      ]
-    },
-    {
-      "name": "Victor Kimani",
-      "role": "host",
-      "title": "Co-Lead Organizer",
-      "company": "Google Developer Groups On Campus Kabarak University",
-      "linkedin": "https://www.linkedin.com/search/results/people/?keywords=Victor%20Kimani%20Google%20Developer%20Groups%20On%20Campus%20Kabarak%20University",
-      "linkedin_exact": false,
-      "twitter": "vikaki__",
-      "events": [
-        {
-          "title": "Discover UI design: an introduction into UI design and figma as a design software",
-          "url": "https://gdg.community.dev/events/details/google-gdg-on-campus-kabarak-university-nakuru-kenya-presents-discover-ui-design-an-introduction-into-ui-design-and-figma-as-a-design-software/",
-          "when": "Wed Nov 18, 2026 at 12:00 PM ET"
         }
       ]
     },
